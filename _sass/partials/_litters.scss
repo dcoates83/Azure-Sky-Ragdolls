@@ -2,6 +2,12 @@
 #litters {
   margin-top: 2em;
 }
+#upcoming {
+  margin-top: 2em;
+}
+.blog-img {
+  max-height: 20vh;
+}
 .details {
   display: grid;
   align-content: space-around;
@@ -23,6 +29,10 @@
     object-fit: cover;
     max-height: 250px;
   }
+}
+.litters-nav {
+  display: flex;
+  justify-content: center;
 }
 .litter-container {
   display: flex;

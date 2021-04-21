@@ -5,31 +5,31 @@ permalink: /litters
 section: blog
 ---
 
-<section>
+<section id="upcoming">
 <div class="container-text">
 <h1 class="header-2">Upcoming Litters</h1>
 <p>All litters will all be from foundation Seal Bicolor male Tzar.</p>
 <p>Likely colors of kittens and dates of litters are listed but of course
 Mother Nature does her own thing!</p>
-<h3>Litters could be earlier or later or even the order switched. If
+<p><strong>Litters could be earlier or later or even the order switched. If
 you place a deposit, we will notify who is pregnant when it is
-known.</h3>
+known.</strong></p>
           <p>
            As Queens are bred and when we are sure they are pregnant, we
 update every Depositor re anticipated litter birth date.
           </p>
-<h3>Cats typically do not show any signs of pregnancy until second
-month of pregnancy.</h3>
+<p><strong>Cats typically do not show any signs of pregnancy until second
+month of pregnancy.</strong></p>
           <p>
            Cats’ gestation period is around 60 days.
           </p>
-<h3>We space litters so Queens get the best possible care, kittens
-get their best socialization and Mommas get a break.</h3>
+<p><strong>We space litters so Queens get the best possible care, kittens
+get their best socialization and Mommas get a break.</strong></p>
           <p>
            Cats’ gestation period is around 60 days.
           </p>
             <ol>
-            <h3 class="underline">Remember</h3>
+            <p><strong class="underline">Remember</strong></p>
             <li>
              Kittens are chosen in the order of deposits received.
             </li>
@@ -45,19 +45,19 @@ the next litter <span class="underline">until you get a kitten.</span>
             </li>
           </ol>
         <section>
-  <h3>Posted Litters</h3>
+<h1 class="header-2">Posted Litters</h1>
 
   <ul>
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
       <li>
       <div>
-        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-          <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" /></a>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <a href="{{ post.url }}" ><img  class="blog-img" src="{{ post.thumbnail }} /></a>
         </div>
         <time datetime="{{ post.date }}">
           <small>
-            <strong>{{ post.expected | date_to_string }}</strong>
+            <strong>Expected: {{ post.expected | date_to_string }}</strong>
             {% if author %}
               by {{ author.name }}
             {% endif %}
