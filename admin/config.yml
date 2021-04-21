@@ -6,7 +6,8 @@ backend:
   branch: master # Branch to update (master by default)
 
 media_folder: "assets/img/uploads" # Folder where user uploaded files should go
-
+paginate: 5
+paginate_path: "/blog/page:num/"
 collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
