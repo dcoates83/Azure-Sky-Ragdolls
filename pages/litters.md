@@ -44,6 +44,14 @@ the next litter <span class="underline">until you get a kitten.</span>
               You can change your mind re sex, color, coat, and markings.
             </li>
           </ol>
+          <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+      <p>{{post.excerpt}}</p>
+    </li>
+  {% endfor %}
+</ul>
 </div>
+
 </section>
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
