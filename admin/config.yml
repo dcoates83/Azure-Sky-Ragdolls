@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Kittens Mom", name: "title", widget: "string", tagname: "h1" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
+      - { label: "Featured Image", name: "image", widget: "image" }
       - {
           label: "Meta Description",
           name: "meta_description",

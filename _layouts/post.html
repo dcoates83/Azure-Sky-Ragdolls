@@ -2,7 +2,13 @@
 layout: default
 ---
 
-{% assign author = site.data.authors[page.author] %}
+{%- if page.image -%}
+<img
+  src="{{- page.image | relative_url -}}"
+  alt=""
+  class="featured-image-post"
+/>
+{%- else -%}
 
 <h2>{{ page.title }}</h2>
 
