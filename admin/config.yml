@@ -18,19 +18,43 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Meta Description", name: "meta_description", widget: "string", required: false}
-      - label: "Author"
-        name: "author"
-        widget: "select"
-        options:
-          - { label: "Dan Urbanowicz", value: "dan_urbanowicz" }
-          - { label: "John Doe", value: "john_doe" }
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Categories", name: "categories", widget: "string", required: false}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Kittens Mom", name: "title", widget: "string", tagname: "h1" }
+      - {
+          label: "Meta Description",
+          name: "meta_description",
+          widget: "string",
+          required: false,
+        }
+
+      - {
+          label: "Litters Description",
+          name: "body",
+          widget: "markdown",
+          required: true,
+        }
+      - {
+          label: "Additional Info",
+          name: "info",
+          widget: "markdown",
+          required: false,
+        }
+      - {
+          label: "Reserved",
+          name: "reserved",
+          widget: "boolean",
+          default: false,
+        }
+        {
+          - label: "Expected Date",
+            name: "start",
+  widget: "datetime",
+  default: "",
+  date_format: "DD.MM.YYYY", # e.g. 24.12.2021
+  time_format: "HH:mm", # e.g. 21:07
+  format: "LLL",
+  picker_utc: false,
+        }
     # PAGES
   - name: "page"
     label: "Page"
@@ -39,10 +63,25 @@ collections: # A list of collections the CMS should be able to edit
     create: false
     slug: "{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Meta Description", name: "meta_description", widget: "string", required: false}
-      - {label: "Permalink", name: "permalink", widget: "hidden"}
-      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
-      - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - {
+          label: "Meta Description",
+          name: "meta_description",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Permalink", name: "permalink", widget: "hidden" }
+      - {
+          label: "Section",
+          name: "section",
+          widget: "hidden",
+          default: "{{name}}",
+        }
+      - {
+          label: "Intro Paragraph",
+          name: "intro_paragraph",
+          widget: "markdown",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown", required: false }

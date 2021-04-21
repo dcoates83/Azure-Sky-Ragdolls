@@ -8,8 +8,6 @@ layout: default
   <h3>Next Litter</h3>
 
   <ul>
-    {% for post in site.posts %} {% assign author =
-    site.data.authors[post.author] %}
     <li>
       <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
       <time datetime="{{ post.date }}">
@@ -20,7 +18,6 @@ layout: default
       </time>
       {{ post.excerpt | strip_newlines | truncate: 180 }}
     </li>
-    {% endfor %}
   </ul>
 </section>
 
@@ -33,26 +30,27 @@ layout: default
       <h2 class="upcoming-litter">Upcoming Litter</h2>
       <!-- What cat it is -->
 
-      <h3 class="upcoming-litter-header">{{ post.title }}</h3>
+      <h3 class="upcoming-litter-header">{{ post.title }} Kittens</h3>
     </div>
     <!-- Title for Cats -->
     <div class="upcoming-litter-text-container">
       <!-- desc of kittens -->
       <div class="upcoming-litter-text">
         <h3 class="upcoming-litter-subheader">Kittens' Description:</h3>
-        <p class="desc">{{ post.excerpt | strip_newlines | truncate: 180 }}</p>
+        <p class="desc">{{ post.body }}</p>
+        <p class="desc">{{ post.info }}</p>
       </div>
     </div>
     <div class="upcoming-litter-text-container">
-      <h4 class="reserved">All of these Kittens are already Reserved</h4>
+      <h4 class="reserved" data-boolean="{{post.reserved}}">
+        All of these Kittens are already Reserved
+      </h4>
       <a href="#form">Click here to Reserve</a>
     </div>
   </div>
   <div class="arrival">
     <h4 class="arrival-text">
-      <p class="upcoming-litter">
-        <time datetime="2008-02-14 20:00">March 15-30</time>.
-      </p>
+      <p class="upcoming-litter">{{post.date}}</p>
     </h4>
   </div>
 
