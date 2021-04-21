@@ -22,6 +22,7 @@ collections:
           label: "Info(if there is no picture)",
           name: "info",
           widget: "string",
+          required: false,
         }
       - { label: "Posting Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }

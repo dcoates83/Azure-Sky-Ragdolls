@@ -51,10 +51,13 @@ the next litter <span class="underline">until you get a kitten.</span>
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
       <li>
+      <div>
         <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" /></a>
+        </div>
         <time datetime="{{ post.date }}">
           <small>
-            <strong>{{ post.date | date_to_string }}</strong>
+            <strong>{{ post.expected | date_to_string }}</strong>
             {% if author %}
               by {{ author.name }}
             {% endif %}

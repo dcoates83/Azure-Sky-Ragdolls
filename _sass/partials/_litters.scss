@@ -1,4 +1,7 @@
 @import "utils";
+#litters {
+  margin-top: 2em;
+}
 .details {
   display: grid;
   align-content: space-around;
@@ -165,11 +168,11 @@
   //
   .arrival {
     grid-area: arrival;
-    background-color: $background-three;
+    background-color: $background-two;
     place-items: center;
     display: grid;
     p {
-      color: white;
+      color: $background-three;
     }
   }
   .arrival-2 {

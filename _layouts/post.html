@@ -6,7 +6,7 @@ layout: default
   <!-- <h1 class="header">Upcoming Litters</h1> -->
   <div class="litter-container">
     <div class="picture">
-      <img src="{{page.thumbnail}}" alt="" srcset="" />
+      <img src="{{page.thumbnail}}" alt="{{ page.info }}" srcset="" />
     </div>
     <div class="details">
       <div>
@@ -36,6 +36,7 @@ layout: default
   </div>
   <div class="container-text">
     <nav aria-label="Adjacent Posts">
+      <p>Navigate Posts</p>
       <ul>
         {% if page.previous.url %}
         <li>
