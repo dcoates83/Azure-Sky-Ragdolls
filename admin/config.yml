@@ -47,13 +47,12 @@ collections: # A list of collections the CMS should be able to edit
         }
         {
           - label: "Expected Date",
-            name: "start",
-  widget: "datetime",
-  default: "",
-  date_format: "DD.MM.YYYY", # e.g. 24.12.2021
-  time_format: "HH:mm", # e.g. 21:07
-  format: "LLL",
-  picker_utc: false,
+            name: "arrival",
+            widget: "datetime",
+            default: "",
+            date_format: "MMMM.DD", # e.g. March 21
+            format: "LLL",
+            picker_utc: false,
         }
     # PAGES
   - name: "page"
@@ -65,6 +64,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
       - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {
           label: "Meta Description",
           name: "meta_description",
