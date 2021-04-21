@@ -2,13 +2,6 @@
 layout: default
 ---
 
-{%- if page.image -%}
-<img
-  src="{{- page.thumbnail | relative_url -}}"
-  alt=""
-  class="featured-image-post"
-/>
-{%- endif -%}
 <div class="container-text">
   <h2>{{ page.title }}</h2>
 
@@ -18,7 +11,7 @@ layout: default
       {% if author %} by {{ author.name }} {% endif %}
     </small>
   </time>
-
+  <img src="{{page.thumbnail}}" alt="" srcset="" />
   {% include page-intro.html %} {{ content }}
 
   <nav aria-label="Adjacent Posts">
