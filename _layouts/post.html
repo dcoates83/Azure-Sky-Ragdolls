@@ -4,11 +4,11 @@ layout: default
 
 {%- if page.image -%}
 <img
-  src="{{- page.image | relative_url -}}"
+  src="{{- page.thumbnail | relative_url -}}"
   alt=""
   class="featured-image-post"
 />
-{%- else -%}
+{%- endif -%}
 <div class="container-text">
   <h2>{{ page.title }}</h2>
 
