@@ -20,6 +20,8 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Kittens Mom", name: "title", widget: "string", tagname: "h1" }
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {
           label: "Meta Description",
           name: "meta_description",
@@ -45,15 +47,7 @@ collections: # A list of collections the CMS should be able to edit
           widget: "boolean",
           default: false,
         }
-        {
-          - label: "Expected Date",
-            name: "arrival",
-            widget: "datetime",
-            default: "",
-            date_format: "MMMM.DD", # e.g. March 21
-            format: "LLL",
-            picker_utc: false,
-        }
+       
     # PAGES
   - name: "page"
     label: "Page"
