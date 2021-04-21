@@ -1,34 +1,58 @@
 ---
 layout: default
 ---
-{% assign author = site.data.authors[page.author] %}
-
-<h2>{{ page.title }}</h2>
-
-<time datetime="{{ page.date }}">
-  <small>
-    <strong>{{ page.date | date_to_string }}</strong>
-    {% if author %}
-      by {{ author.name }}
-    {% endif %}
-  </small>
-</time>
-
-{% include page-intro.html %}
 
 {{ content }}
 
-<nav aria-label="Adjacent Posts">
+<section>
+  <h3>Next Litter</h3>
+
   <ul>
-    {% if page.previous.url %}
-      <li>
-        <a href="{{page.previous.url}}" rel="prev">&laquo; {{page.previous.title}}</a>
-      </li>
-    {% endif %}
-    {% if page.next.url %}
-      <li>
-        <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
-      </li>
-    {% endif %}
+    <li>
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <time datetime="{{ post.date }}">
+        <small>
+          <strong>{{ post.date | date_to_string }}</strong>
+          {% if author %} by {{ author.name }} {% endif %}
+        </small>
+      </time>
+      {{ post.excerpt | strip_newlines | truncate: 180 }}
+    </li>
   </ul>
-</nav>
+</section>
+
+<div class="litter-container">
+  <div class="picture">
+    <img src="{{ post.thumbnail }}" alt="" srcset="" />
+  </div>
+  <div class="details">
+    <div>
+      <h2 class="upcoming-litter">Upcoming Litter</h2>
+      <!-- What cat it is -->
+
+      <h3 class="upcoming-litter-header">{{ post.title }} Kittens</h3>
+    </div>
+    <!-- Title for Cats -->
+    <div class="upcoming-litter-text-container">
+      <!-- desc of kittens -->
+      <div class="upcoming-litter-text">
+        <h3 class="upcoming-litter-subheader">Kittens' Description:</h3>
+        <p class="desc">{{ post.body }}</p>
+        <p class="desc">{{ post.info }}</p>
+      </div>
+    </div>
+    <div class="upcoming-litter-text-container">
+      <h4 class="reserved" data-boolean="{{post.reserved}}">
+        All of these Kittens are already Reserved
+      </h4>
+      <a href="#form">Click here to Reserve</a>
+    </div>
+  </div>
+  <div class="arrival">
+    <h4 class="arrival-text">
+      <p class="upcoming-litter">{{post.arrival}}</p>
+    </h4>
+  </div>
+
+  <div class="litter-bg-seperator"></div>
+</div>
