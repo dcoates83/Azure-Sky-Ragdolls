@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 
 permalink: /
 section: home
@@ -7,7 +7,6 @@ section: home
 
   <body>
 
-      <main id="home">
         <section class="landing">
           <img class="hero-background-image" src="./Assets/Landing.jpg" />
           <div class="hero-container">
@@ -214,7 +213,7 @@ section: home
         </section>
         <section id="purebred">
           <div class="container-text">
-            <h2>Why own a Purebred Ragdoll?</h2>
+            <h1 class="header-2 about">Why own a Purebred Ragdoll?</h1>
             <p>
               <!-- Truly the everyday new Ragdoll owner falls in love with their kitten
            regardless of what their breeder does in the background. Owning a
@@ -328,6 +327,5 @@ section: home
             </h2>
           </div>
         </section>
-      </main>
 
   </body>

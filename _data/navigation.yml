@@ -2,10 +2,8 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
-- text: Kins & Queens
-  url: /queens
+- text: Kings & Queens
+  url: /#queens
 - text: Upcoming Litters
   url: /litters
 - text: About Ragdolls

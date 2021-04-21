@@ -13,7 +13,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  margin-top: 1.45em;
+  margin-top: 1em;
   letter-spacing: 0.3px;
   --tw-bg-opacity: 1;
   // background-color: rgba(248, 240, 240, var(--tw-bg-opacity));
@@ -50,7 +50,7 @@ body {
 // Landing
 .landing {
   // display: none;
-  margin-top: 2vh;
+
   background-color: $background-two;
   // height: 85vh;
   position: relative;

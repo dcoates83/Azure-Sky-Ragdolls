@@ -44,34 +44,16 @@
     </div>
     <nav class="nav-links">
       <ul class="nav-items">
+       
+        
         {% for item in include.navigation %}
-        <li><a href="./index.html#queens">Kings & Queens</a></li>
-
         <li>
           <a class="scroll-link" href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
-          {% if item.subitems %}
-            {% include navigation.html navigation=item.subitems %}
-          {% endif %}
-        </li>
-        <li>
-          <a class="scroll-link" href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
-          {% if item.subitems %}
-            {% include navigation.html navigation=item.subitems %}
-          {% endif %}
-        </li>
-        <li>
-          <a class="scroll-link" href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
-          {% if item.subitems %}
-            {% include navigation.html navigation=item.subitems %}
-          {% endif %}
-        </li>
-        <li>
-          <a class="scroll-link" href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
-          {% if item.subitems %}
-            {% include navigation.html navigation=item.subitems %}
-          {% endif %}
+        
         </li>
         {% endfor %}
+        
+    
       </ul>
     </nav>
   </div>
