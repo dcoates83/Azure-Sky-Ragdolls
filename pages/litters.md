@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title: Upcoming Litters
 permalink: /litters
 section: blog
@@ -44,14 +44,22 @@ the next litter <span class="underline">until you get a kitten.</span>
               You can change your mind re sex, color, coat, and markings.
             </li>
           </ol>
-          <ul>
-  {% for post in site.posts %}
+        <section>
+  <h3>Next Litter</h3>
+
+  <ul>
     <li>
-      <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-      <p>{{post.excerpt}}</p>
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <time datetime="{{ post.date }}">
+        <small>
+          <strong>{{ post.date | date_to_string }}</strong>
+          {% if author %} by {{ author.name }} {% endif %}
+        </small>
+      </time>
+      {{ post.excerpt | strip_newlines | truncate: 180 }}
     </li>
-  {% endfor %}
-</ul>
+  </ul>
+</section>
 </div>
 
 </section>
