@@ -46,3 +46,4 @@ the next litter <span class="underline">until you get a kitten.</span>
           </ol>
 </div>
 </section>
+  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
