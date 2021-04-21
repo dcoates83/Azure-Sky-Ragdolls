@@ -4,7 +4,12 @@
   url: /
 - text: About
   url: /about
-- text: Contact
-  url: /contact
-- text: Blog
-  url: /blog
+- text: Kins & Queens
+  url: /queens
+- text: Upcoming Litters
+  url: /litters
+- text: About Ragdolls
+  url: /about
+- text: Purchasing
+  url: /purchasing
+-

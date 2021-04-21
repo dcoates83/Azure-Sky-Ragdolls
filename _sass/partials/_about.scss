@@ -1,0 +1,236 @@
+//
+$grey-primary: #414a4c;
+$grey-header: #828282;
+$blue-primary: #3fc1c9;
+$blue-secondary: #364f6b;
+$background-one: #fcfcfc;
+$background-two: #f8f0f0;
+$background-three: #cca3a3;
+
+// .section {
+//  // position: relative;
+//  // padding-top: .5rem;
+//  // padding-bottom: .5rem;
+//  // display: flex;
+//  // flex-direction: column;
+//  // justify-content: center;
+// }
+.font-bold {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.history-landing {
+  max-height: 35vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: center 10%;
+  display: block;
+}
+
+.heading-img {
+  margin: 1em 0;
+  border-radius: 1em;
+  height: 35vh;
+  object-position: top center;
+  width: 373px;
+  object-fit: cover;
+  justify-content: space-around;
+  // display: inline-block;
+}
+
+.ragdoll-history-img {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  margin: 1em 0;
+}
+
+.history-img {
+  // border: 1px solid black;
+  object-fit: contain;
+  height: 250px !important;
+  margin: 0.5em 0;
+}
+
+.ragdoll-img {
+  object-fit: cover;
+  // min-width: 250px;
+  width: 250px;
+  height: 250px;
+  border-radius: 0.3125rem;
+}
+
+.ragdoll-img-container {
+  display: flex;
+  flex-flow: column;
+  text-align: left;
+  // overflow-wrap: break-word;
+  word-break: keep-all;
+  justify-items: center;
+  // grid-auto-flow: column;
+  align-items: center;
+  margin: 0 0.5em;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  column-gap: 1em;
+
+  h4 {
+    text-align: center;
+  }
+}
+
+#colors {
+  max-width: 800px;
+  margin: 0 auto;
+
+  p {
+    display: none;
+    line-height: 1.25em;
+  }
+  h2 {
+    margin: 0;
+  }
+}
+
+.color-header {
+  color: $background-three;
+  font-family: "work sans";
+  font-size: 24px;
+  padding: 0.5em;
+}
+
+// Styling for color points pictures onwards
+.colors-container {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  flex-flow: column;
+  margin: 0 0.5em;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  column-gap: 0.5em;
+  justify-items: center;
+  text-align: left;
+
+  h4 {
+    text-align: center;
+  }
+
+  div {
+    display: grid;
+    justify-items: center;
+    align-items: flex-start;
+  }
+}
+
+// Span the be carefull section across the grid
+.minks-span {
+  p {
+    color: $grey-header;
+  }
+
+  // .columns {
+  //  columns: 6rem 2;
+  // }
+}
+
+// Show on big screens
+// Subheader
+.subheader-colors {
+  strong {
+    font-weight: 600;
+  }
+
+  h3 {
+    margin-bottom: 1em;
+  }
+
+  h4 {
+    margin: 0.5em;
+    // text-align: left;
+    font-weight: 600;
+    // text-decoration: underline;
+  }
+
+  li {
+    margin: 0.5em;
+    // margin-left: 1em;
+    text-align: left;
+  }
+}
+
+// Hide paragraphs on smaller screens
+// Related to Subheader-colors
+.hide-me {
+  display: none;
+}
+
+// Fix @ 525px- font size breaks into 2 lines
+.color-text-fix {
+  padding: 0.55em 0 !important;
+  font-size: 21px !important;
+}
+
+@media (min-width: 480px) and (max-width: 527px) {
+  .color-text-fix {
+    font-size: 18px !important;
+    padding: 0.7em 0 !important;
+  }
+}
+
+@media (min-width: 450px) {
+  .colors-container {
+    display: grid !important;
+    align-items: flex-start;
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+@media (min-width: 480px) {
+  .colors-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .ragdoll-img-container {
+    display: grid;
+    align-items: flex-start;
+  }
+}
+
+@media (min-width: 640px) {
+  .ragdoll-img-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .hide-me {
+    display: contents;
+  }
+
+  #colors {
+    p {
+      text-align: left !important;
+      padding: 0;
+      display: contents;
+    }
+  }
+}
+
+@media (min-width: 830px) {
+  .ragdoll-history-img {
+    flex-direction: row;
+  }
+
+  .ragdoll-history-img {
+    width: 800px;
+    margin: 0 auto;
+  }
+  .history-landing {
+    max-height: 50vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center 10%;
+    display: block;
+  }
+}

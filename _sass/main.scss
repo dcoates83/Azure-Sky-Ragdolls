@@ -1,11 +1,240 @@
 @charset "utf-8";
 
-@import
-  "partials/fonts",
-  "partials/variables",
-  "partials/mixins",
-  "partials/normalize",
-  "partials/utilities",
-  "partials/typography",
-  "partials/app"
-;
+@import "partials/about", "partials/faq", "partials/footer", "partials/form",
+  "partials/litters", "partials/nav", "partials/queens", "partials/reset",
+  "partials/utils";
+.shadow-md {
+  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+    var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin-top: 1.45em;
+  letter-spacing: 0.3px;
+  --tw-bg-opacity: 1;
+  // background-color: rgba(248, 240, 240, var(--tw-bg-opacity));
+  background-color: $background-one;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  --tw-text-opacity: 1;
+  color: $grey-header;
+  text-align: justify;
+}
+
+.container {
+  min-width: 358px;
+  color: $grey-primary;
+  display: block;
+  top: 63px;
+  left: 0px;
+  font-family: "Open Sans";
+  // font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  // text-align: center;
+  margin-bottom: 1em;
+}
+.center {
+  text-align: center !important;
+}
+.group-container {
+  width: 100%;
+  height: 815px;
+  position: relative;
+}
+// Landing
+.landing {
+  // display: none;
+  margin-top: 2vh;
+  background-color: $background-two;
+  // height: 85vh;
+  position: relative;
+}
+// Main landing image
+.hero-background-image {
+  height: 50vh;
+  width: 100%;
+  object-fit: cover;
+  background-position: bottom center;
+  display: block;
+}
+.hero-container {
+  display: none;
+}
+
+.second-hero {
+  position: absolute;
+  object-position: top center;
+  width: 50vw;
+  // min-height: 30vh;
+  height: 40vh;
+  // position: ;
+
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  img {
+    border-radius: 10px;
+  }
+}
+.hero-text {
+  padding: 0.5em;
+  font-size: 3vw;
+  text-align: center;
+  color: white;
+  text-transform: capitalize;
+}
+
+.rectangle {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 50vw;
+  height: 10vh;
+  left: 30vw;
+  top: 20vh;
+  position: relative;
+  background-color: rgba(204, 163, 163, 1);
+  border-radius: 10px;
+}
+.registered-tica {
+  display: none;
+}
+.registered {
+  left: 48vw;
+  top: 72vh;
+  position: absolute;
+  font-size: 3vw;
+  font-weight: 300;
+  line-height: 100%;
+  text-align: center;
+  color: $grey-header;
+  text-transform: capitalize;
+  font-family: "work sans";
+}
+.registered-text {
+  display: none;
+}
+
+// Spanning large images
+.background-image {
+  max-height: 35vh;
+  width: 100%;
+  object-fit: cover;
+  background-position: bottom center;
+  display: block;
+}
+
+.anchor {
+  text-decoration: none;
+  color: #0645ad;
+}
+@media (min-width: 500px) {
+  .landing {
+    height: 85vh;
+  }
+  .hero-container {
+    display: block;
+    position: absolute;
+    left: 5vw;
+    top: 37vh;
+  }
+  .registered-tica {
+    display: block;
+    height: 75px;
+    position: absolute;
+    left: 67vw;
+    top: 70vh;
+    filter: invert(57%) sepia(0%) saturate(3%) hue-rotate(302deg)
+      brightness(90%) contrast(88%);
+  }
+}
+@media (min-width: 640px) {
+  .body {
+    // font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  .second-hero {
+    width: 40vw;
+  }
+
+  .landing {
+    height: 90vh;
+  }
+}
+
+@media (min-width: 768px) {
+  .hero-text {
+    font-size: 2.5vw;
+  }
+  .registered-text {
+    display: block;
+  }
+  .registered-tica {
+    display: none;
+  }
+  .body {
+    // font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+
+  .container {
+    p {
+      padding-left: 0;
+      padding-right: 0;
+      width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      color: $grey-header;
+    }
+  }
+}
+
+@media (min-width: 1024px) {
+  .body {
+    font-size: 1.25rem;
+    line-height: 2rem;
+  }
+
+  .hero-text {
+    font-size: 30px;
+  }
+
+  .work {
+    font-family: "Work Sans", sans-serif;
+  }
+}
+@media (min-width: 1300px) {
+  .registered-text {
+    font-size: 34px;
+  }
+  // .registered {
+  //   display: block;
+  //   left: 50vw;
+  //   top: 75vh;
+  //   position: absolute;
+  //   font-size: 36px;
+  //   font-weight: 300;
+  //   line-height: 100%;
+  //   text-align: center;
+  //   color: black;
+  //   text-transform: capitalize;
+  //   font-family: "work sans";
+  // }
+  // .second-hero {
+  //   width: 549px;
+  //   height: 494px;
+  // }
+  // .hero-text {
+  //   font-size: 36px;
+  // }
+  // .rectangle {
+  //   width: 634px;
+  //   height: 112px;
+  // }
+}
