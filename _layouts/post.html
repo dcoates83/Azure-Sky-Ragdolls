@@ -2,31 +2,53 @@
 layout: default
 ---
 
-<div class="container-text">
-  <h2>{{ page.title }}</h2>
+<section id="litters">
+  <!-- <h1 class="header">Upcoming Litters</h1> -->
+  <div class="litter-container">
+    <div class="picture">
+      <img src="{{page.thumbnail}}" alt="" srcset="" />
+    </div>
+    <div class="details">
+      <div>
+        <h2 class="upcoming-litter">{{ page.title }}</h2>
+        <!-- What cat it is -->
+      </div>
+      <!-- Title for Cats -->
+      <div class="upcoming-litter-text-container">
+        <!-- desc of kittens -->
+        <div class="upcoming-litter-text">
+          <h3 class="upcoming-litter-subheader">Kittens' Desc:</h3>
+          <p class="desc">{{ content }}</p>
+        </div>
+      </div>
+      <div class="upcoming-litter-text-container">
+        <h4 class="reserved">{{page.reserved}}</h4>
+        <a href="#form">Click here to Reserve</a>
+      </div>
+    </div>
+    <div class="arrival">
+      <h4 class="arrival-text">
+        <p class="upcoming-litter">{{page.expected}}</p>
+      </h4>
+    </div>
 
-  <time datetime="{{ page.date }}">
-    <small>
-      <strong>{{ page.date | date_to_string }}</strong>
-      {% if author %} by {{ author.name }} {% endif %}
-    </small>
-  </time>
-  <img src="{{page.thumbnail}}" alt="" srcset="" />
-  {% include page-intro.html %} {{ content }}
-
-  <nav aria-label="Adjacent Posts">
-    <ul>
-      {% if page.previous.url %}
-      <li>
-        <a href="{{page.previous.url}}" rel="prev"
-          >&laquo; {{page.previous.title}}</a
-        >
-      </li>
-      {% endif %} {% if page.next.url %}
-      <li>
-        <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
-      </li>
-      {% endif %}
-    </ul>
-  </nav>
-</div>
+    <div class="litter-bg-seperator"></div>
+  </div>
+  <div class="container-text">
+    <nav aria-label="Adjacent Posts">
+      <ul>
+        {% if page.previous.url %}
+        <li>
+          <a href="{{page.previous.url}}" rel="prev"
+            >&laquo; {{page.previous.title}}</a
+          >
+        </li>
+        {% endif %} {% if page.next.url %}
+        <li>
+          <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
+        </li>
+        {% endif %}
+      </ul>
+    </nav>
+  </div>
+</section>
