@@ -35,21 +35,25 @@ layout: default
     <div class="litter-bg-seperator"></div>
   </div>
   <div class="container-text">
+    <h2>Navigate Posts</h2>
     <nav aria-label="Adjacent Posts" class="litters-nav">
-      <p>Navigate Posts</p>
-      <ul>
-        {% if page.previous.url %}
-        <li>
-          <a href="{{page.previous.url}}" rel="prev"
-            >&laquo; {{page.previous.title}}</a
-          >
-        </li>
-        {% endif %} {% if page.next.url %}
-        <li>
-          <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
-        </li>
-        {% endif %}
-      </ul>
+      <div>
+        <ul>
+          {% if page.previous.url %}
+          <li>
+            <a href="{{page.previous.url}}" rel="prev"
+              >&laquo; {{page.previous.title}}</a
+            >
+          </li>
+          {% endif %} {% if page.next.url %}
+          <li>
+            <a href="{{page.next.url}}" rel="next"
+              >{{page.next.title}} &raquo;</a
+            >
+          </li>
+          {% endif %}
+        </ul>
+      </div>
     </nav>
   </div>
 </section>

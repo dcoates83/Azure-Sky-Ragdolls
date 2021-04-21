@@ -3,6 +3,8 @@ layout: default
 title: Upcoming Litters
 permalink: /litters
 section: blog
+paginate: 5
+paginate_path: "/blog/page:num/"
 ---
 
 <section id="upcoming">
@@ -25,9 +27,7 @@ month of pregnancy.</strong></p>
           </p>
 <p><strong>We space litters so Queens get the best possible care, kittens
 get their best socialization and Mommas get a break.</strong></p>
-          <p>
-           Cats’ gestation period is around 60 days.
-          </p>
+      
             <ol>
             <p><strong class="underline">Remember</strong></p>
             <li>
@@ -44,6 +44,8 @@ the next litter <span class="underline">until you get a kitten.</span>
               You can change your mind re sex, color, coat, and markings.
             </li>
           </ol>
+          <h2>See all new photos of our kittens on our 
+          <a href="https://www.facebook.com/Azure-Sky-Ragdolls-2203345016408284/" target="_blank" class="nav-link icoFacebook" title="Facebook">Facebook!</a> </h2>
         <section>
 <h1 class="header-2">Posted Litters</h1>
 
@@ -53,7 +55,7 @@ the next litter <span class="underline">until you get a kitten.</span>
       <li>
       <div>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <a href="{{ post.url }}" ><img  class="blog-img" src="{{ post.thumbnail }} /></a>
+          <a href="{{ post.url }}" ><img  class="blog-img" src="{{ post.thumbnail }}" /> </a>
         </div>
         <time datetime="{{ post.date }}">
           <small>
