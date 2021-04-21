@@ -46,14 +46,24 @@ the next litter <span class="underline">until you get a kitten.</span>
           </ol>
         <section>
   <h3>Posted Litters</h3>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-      <p>{{post.excerpt}}</p>
-    </li>
-  {% endfor %}
-</ul>
+
+  <ul>
+    {% for post in site.posts %}
+    {% assign author = site.data.authors[post.author] %}
+      <li>
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <time datetime="{{ post.date }}">
+          <small>
+            <strong>{{ post.date | date_to_string }}</strong>
+            {% if author %}
+              by {{ author.name }}
+            {% endif %}
+          </small>
+        </time>
+        {{ post.excerpt | strip_newlines | truncate: 180 }}
+      </li>
+    {% endfor %}
+  </ul>
 </section>
 </div>
 

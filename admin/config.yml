@@ -9,43 +9,18 @@ media_folder: "assets/img/uploads" # Folder where user uploaded files should go
 
 publish_mode: editorial_workflow # Enable drafts
 
-collections: # A list of collections the CMS should be able to edit
-  # POSTS
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "_posts" # The path to the folder where the documents are stored
-    sort: "date:desc" # Default is title:asc
+collections:
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    folder: "_posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
-      - { label: "Kittens Mom", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "image", widget: "image" }
-      - {
-          label: "Meta Description",
-          name: "meta_description",
-          widget: "string",
-          required: false,
-        }
-
-      - {
-          label: "Litters Description",
-          name: "body",
-          widget: "markdown",
-          required: true,
-        }
-      - {
-          label: "Additional Info",
-          name: "info",
-          widget: "markdown",
-          required: false,
-        }
-      - {
-          label: "Reserved",
-          name: "reserved",
-          widget: "boolean",
-          default: false,
-        }
+      - { label: "Featured Image", name: "thumbnail", widget: "image" }
+      - { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
     # PAGES
