@@ -54,7 +54,7 @@ the next litter <span class="underline">until you get a kitten.</span>
     {% assign author = site.data.authors[post.author] %}
       
       <div class="blog-posted">
-        <h2><a href="{{ post.url  }}">{{ page.title  }}</a></h2>
+        <h2><a href="{{ post.url  }}">{{title  }}</a></h2>
           <a href="{{ post.url }}" ><img  class="blog-img" src="{{ post.thumbnail }}" /> </a>
         
         <time datetime="{{ post.date  }}">
