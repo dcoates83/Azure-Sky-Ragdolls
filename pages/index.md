@@ -10,10 +10,10 @@ section: home
         <section class="landing">
           <img class="hero-background-image" src={{"assets/Landing.jpg" |
 
-relative_url}}/>
+relative_url}} />
 
 <div class="hero-container">
-<img src="./Assets/cat-in-box.jpeg" alt=""  class="second-hero"/>
+<img src="assets/cat-in-box.jpeg" alt=""  class="second-hero"/>
 
             <div class="rectangle">
               <p class="hero-text">Fall in love with your new friend</p>
@@ -83,7 +83,7 @@ relative_url}}/>
           <!-- </div> -->
           <div class="parent">
             <div class="div1">
-              <img src="./Assets/tsar.jpeg" alt="" class="tile-img" />
+              <img src="Azure-Sky-Ragdolls/assets/tsar.jpeg" alt="" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-king">
