@@ -308,7 +308,14 @@ section: about
 
             </div>
           </div>
-          <div class="minks-span">
+
+        </div>
+
+      </section>
+
+      <div class="container-text">
+
+<div class="minks-span">
             <h4 class="color-header">Be careful what you hear!</h4><p>
             Despite some completely wrong rumors you find on the internet <em>that Minks are not
               purebred Ragdolls;</em>
@@ -319,8 +326,5 @@ section: about
               complained bitterly online – creating these fake rumors. Minks are Ragdolls.
             </p>
           </div>
-        </div>
-
-      </section>
-
+          </div>
 <body>

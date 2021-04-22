@@ -11,7 +11,8 @@
   margin-top: 2em;
 }
 .blog-img {
-  max-height: 20vh;
+  max-height: 30vh;
+  border-radius: 20px;
 }
 .blog-posted {
   display: flex;
@@ -27,9 +28,11 @@
 
 .picture {
   img {
-    width: 100%;
+    // width: 100%;
+    margin: 0 auto;
     object-fit: contain;
     max-height: 250px;
+    border-radius: 20px;
   }
 }
 
