@@ -2,6 +2,9 @@
 layout: default
 permalink: /about
 section: about
+description:
+  Ragdolls are known worldwide for their affectionate nature, beautiful appearance, and
+  intelligence. Stunning eyes, soft luxurious fur and a variety of coat colors and marking’s hallmark the Ragdoll of today, making them extremely popular.
 ---
 
 <body>

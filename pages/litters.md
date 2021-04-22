@@ -5,6 +5,7 @@ permalink: /litters
 section: blog
 paginate: 5
 paginate_path: "/posts/page:num/"
+description: Upcoming ragdoll kitten litters! Check here for ragdoll kittens for sale.
 ---
 
 <section id="upcoming">
