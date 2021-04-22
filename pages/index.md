@@ -8,9 +8,7 @@ section: home
   <body>
 
         <section class="landing">
-          <img class="hero-background-image" src={{"assets/Landing.jpg" |
-
-relative_url}} />
+          <img class="hero-background-image" src="assets/Landing.jpg"  />
 
 <div class="hero-container">
 <img src="assets/cat-in-box.jpeg" alt=""  class="second-hero"/>
@@ -24,7 +22,7 @@ relative_url}} />
           </p>
 
           <img
-            src="./Assets/Tica.png"
+            src="assets/Tica.png"
             alt=""
             srcset=""
             class="registered-tica"
@@ -56,7 +54,7 @@ relative_url}} />
            class="background-image"
          /> -->
             <img
-              src="./Assets/ragdoll-splash.jpg"
+              src="assets/ragdoll-splash.jpg"
               alt=""
               class="background-image"
             />
@@ -83,7 +81,7 @@ relative_url}} />
           <!-- </div> -->
           <div class="parent">
             <div class="div1">
-              <img src="Azure-Sky-Ragdolls/assets/tsar.jpeg" alt="" class="tile-img" />
+              <img src="assets/tsar.jpeg" alt="" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-king">
@@ -100,7 +98,7 @@ relative_url}} />
           <div class="parent">
             <div class="div1">
               <img
-                src="./Assets/sapphire-with-kitten.jpeg"
+                src="assets/sapphire-with-kitten.jpeg"
                 alt=""
                 class="tile-img"
               />
@@ -119,7 +117,7 @@ relative_url}} />
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="./Assets/Amethyst.jpeg" alt="" class="tile-img" />
+              <img src="assets/Amethyst.jpeg" alt="" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -140,7 +138,7 @@ relative_url}} />
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="./Assets/aiyla.jpeg" alt="" class="tile-img" />
+              <img src="assets/aiyla.jpeg" alt="" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -157,7 +155,7 @@ relative_url}} />
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="./Assets/Ailya mom.JPG" alt="" class="tile-img" />
+              <img src="assets/Ailya mom.JPG" alt="" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -175,7 +173,7 @@ relative_url}} />
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="./Assets/athena-catbed.jpeg" alt="" class="tile-img" />
+              <img src="assets/athena-catbed.jpeg" alt="" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -195,7 +193,7 @@ relative_url}} />
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="./Assets/Aasia.jpeg" alt="" class="tile-img" />
+              <img src="assets/Aasia.jpeg" alt="" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -305,8 +303,8 @@ relative_url}} />
           <div class="container-text">
             <h2>Our assistant kitten worker - Nanny Sophia</h2>
             <div class="sophia">
-              <img src="./Assets/sophia-2.png" alt="" /><img
-                src="./Assets/sopia-3.jpeg"
+              <img src="assets/sophia-2.png" alt="" /><img
+                src="assets/sopia-3.jpeg"
                 alt=""
               />
             </div>
