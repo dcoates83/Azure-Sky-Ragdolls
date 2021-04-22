@@ -1259,24 +1259,26 @@ section: purcchasing
         </div>
         <!-- form -->
         <div class="form-container">
-          <form action="" method="" id="form">
-            <div class="name-container">
-              <label for="firstName">Full Name</label>
-              <input
+          <form action="https://submit-form.com/AqUcFuf1
+
+" method="" id="form">
+<div class="name-container">
+<label for="firstName">Full Name</label>
+<input
                 required
                 type="text"
                 name="firstName"
                 id="firstName"
                 placeholder="First"
               />
-              <input
+<input
                 required
                 type="text"
                 name="lastName"
                 id="lastName"
                 placeholder="Last"
               />
-            </div>
+</div>
 
             <label for="phone">Phone</label>
             <input required type="tel" name="phone" id="Phone" />
