@@ -25,6 +25,10 @@
   justify-content: center;
   grid-gap: 20px;
 }
+.post-nav {
+  display: flex;
+  justify-content: space-evenly;
+}
 
 .picture {
   img {
@@ -40,7 +44,7 @@
   display: flex;
   justify-content: center;
   li {
-    padding: 0;
+    padding: 0.5em;
   }
 }
 .litter-container {
