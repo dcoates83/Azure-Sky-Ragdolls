@@ -96,12 +96,11 @@
 .tica {
   margin: 1rem;
   min-width: 88px;
-  min-height: 68px;
-  background: url("assets/Tica.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain;
-  opacity: 1;
+  max-height: 68px;
+  // background: url("assets/Tica.png");
+  // background-repeat: no-repeat;
+  // background-position: center center;
+  object-fit: contain;
   display: block;
   margin: 1rem auto;
 

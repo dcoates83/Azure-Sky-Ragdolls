@@ -284,7 +284,12 @@ section: home
                 cats.</strong
               >
             </p>
-            <div class="tica"></div>
+         <img
+            src="assets/Tica.png"
+            alt=""
+            srcset=""
+            class="tica"
+          />
             <p>
               As a source of information, we highly recommend accessing
               <a href="http://tica.org">TICA.org</a>
