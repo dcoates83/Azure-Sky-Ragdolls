@@ -8,9 +8,12 @@ section: home
   <body>
 
         <section class="landing">
-          <img class="hero-background-image" src="./Assets/Landing.jpg" />
-          <div class="hero-container">
-            <img src="./Assets/cat-in-box.jpeg" alt=""  class="second-hero"/>
+          <img class="hero-background-image" src={{"assets/Landing.jpg" |
+
+relative_url}}/>
+
+<div class="hero-container">
+<img src="./Assets/cat-in-box.jpeg" alt=""  class="second-hero"/>
 
             <div class="rectangle">
               <p class="hero-text">Fall in love with your new friend</p>
