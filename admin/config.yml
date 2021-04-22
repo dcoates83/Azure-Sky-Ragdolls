@@ -26,11 +26,6 @@ collections:
       - { label: "Posting Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Description", name: "body", widget: "markdown" }
-      - {
-          label: "Reserved?",
-          name: "reserved",
-          widget: "boolean",
-          default: false,
-        }
+      - { label: "Reserved?", name: "reserved", widget: "string" }
 
     # PAGES

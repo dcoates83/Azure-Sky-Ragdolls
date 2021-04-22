@@ -1261,20 +1261,26 @@ section: purcchasing
         <div class="form-container">
           <form action="https://submit-form.com/AqUcFuf1
 
-" method="" id="form">
+" method="" id="form" >
+
 <div class="name-container">
 <label for="firstName">Full Name</label>
 <input
+    type="hidden"
+    name="_feedback.success.title"
+    value="Thanks for your interst in out kittens, we will be in touch as soon as we can!"
+  />
+<input
                 required
                 type="text"
-                name="firstName"
+                name="First Name"
                 id="firstName"
                 placeholder="First"
               />
 <input
                 required
                 type="text"
-                name="lastName"
+                name="lLast Name"
                 id="lastName"
                 placeholder="Last"
               />
@@ -1283,7 +1289,7 @@ section: purcchasing
             <label for="phone">Phone</label>
             <input required type="tel" name="phone" id="Phone" />
             <label for="email">Email</label>
-            <input required type="email" name="email" id="email" />
+            <input required type="email" name="Email" id="email" />
             <div id="email-help">
               We'll never share your email with anyone else.
             </div>
@@ -1293,7 +1299,7 @@ section: purcchasing
 
             <textarea
               required
-              name="family"
+              name="About us"
               id="family"
               cols="30"
               rows="6"
