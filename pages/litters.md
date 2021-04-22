@@ -57,9 +57,9 @@ the next litter <span class="underline">until you get a kitten.</span>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title | relative_url }}</a></h2>
           <a href="{{ post.url | relative_url}}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
         
-        <time datetime="{{ post.date | relative_url }}">
+        <time datetime="{{ post.date  }}">
           <small>
-            <strong>Expected: {{ post.expected | date_to_string | relative_url}}</strong>
+            <strong>Expected: {{ post.expected | date_to_string }}</strong>
             {% if author %}
               by {{ author.name }}
             {% endif %}

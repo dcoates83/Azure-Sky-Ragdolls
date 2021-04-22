@@ -51,7 +51,7 @@ layout: default
               >&laquo; {{page.previous.title | relative_url}}</a
             >
           </li>
-          {% endif %} {% if page.next.url | relative_url%}
+          {% endif %} {% if page.next.url %}
           <li>
             <a href="{{page.next.url}}" rel="next"
               >{{page.next.title | relative_url}} &raquo;</a
