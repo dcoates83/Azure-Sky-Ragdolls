@@ -39,9 +39,7 @@
 #   Content-Security-Policy = "frame-ancestors https://www.facebook.com"
 
 # For more information see:- https://www.netlify.com/docs/netlify-toml-reference/
-[build]
-  publish = "_site"
-  
+
 
 
 [[plugins]]
