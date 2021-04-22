@@ -54,8 +54,8 @@ the next litter <span class="underline">until you get a kitten.</span>
     {% assign author = site.data.authors[post.author] %}
       
       <div class="blog-posted">
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title | relative_url }}</a></h2>
-          <a href="{{ post.url | relative_url}}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
+        <h2><a href="{{ post.url  }}">{{ post.title  }}</a></h2>
+          <a href="{{ post.url }}" ><img  class="blog-img" src="{{ post.thumbnail }}" /> </a>
         
         <time datetime="{{ post.date  }}">
           <small>
@@ -65,7 +65,7 @@ the next litter <span class="underline">until you get a kitten.</span>
             {% endif %}
           </small>
         </time>
-        {{ post.excerpt | strip_newlines | truncate: 180 | relative_url }}
+        {{ post.excerpt | strip_newlines | truncate: 180  }}
       
       </div>
     {% endfor %}
