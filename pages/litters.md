@@ -55,7 +55,7 @@ the next litter <span class="underline">until you get a kitten.</span>
       
       <div class="blog-posted">
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-          <a href="{{ post.url | relative_url }}" ><img  class="blog-img" src="{{ post.thumbnail }}" /> </a>
+          <a href="{{ post.url | relative_url }}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
         
         <time datetime="{{ post.date  }}">
           <small>
