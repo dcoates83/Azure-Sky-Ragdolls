@@ -4,7 +4,7 @@ title: Upcoming Litters
 permalink: /litters
 section: blog
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/posts/page:num/"
 ---
 
 <section id="upcoming">
@@ -53,10 +53,10 @@ the next litter <span class="underline">until you get a kitten.</span>
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
       <li>
-      <div>
+      <div class="blog-posted">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           <a href="{{ post.url }}" ><img  class="blog-img" src="{{ post.thumbnail }}" /> </a>
-        </div>
+        
         <time datetime="{{ post.date }}">
           <small>
             <strong>Expected: {{ post.expected | date_to_string }}</strong>
@@ -67,6 +67,7 @@ the next litter <span class="underline">until you get a kitten.</span>
         </time>
         {{ post.excerpt | strip_newlines | truncate: 180 }}
       </li>
+      </div>
     {% endfor %}
   </ul>
 </section>

@@ -8,6 +8,10 @@
 .blog-img {
   max-height: 20vh;
 }
+.blog-posted {
+  display: flex;
+  justify-content: center;
+}
 .details {
   display: grid;
   align-content: space-around;
@@ -33,6 +37,9 @@
 .litters-nav {
   display: flex;
   justify-content: center;
+  li {
+    padding: 0;
+  }
 }
 .litter-container {
   display: flex;
