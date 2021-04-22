@@ -23,7 +23,7 @@ url: "https://dcoates83.github.io/Azure-Sky-Ragdolls" # the base hostname & prot
 # url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Permalink format (/blog/ is ignored for pages)
-permalink: /posts/:title
+permalink: Azure-Sky-Ragdolls/posts/:title
 
 # Enable section IDs in frontmatter, useful for identifying current page
 # (used as a hook for styling etc)
