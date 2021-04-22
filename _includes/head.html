@@ -13,7 +13,7 @@
     rel="stylesheet"
   />
 
-  {% endif %} {% endif %} <link rel="stylesheet" href="{{ "/assets/main.css" |
+  {% endif %} {% endif %} <link rel="stylesheet" href="{{ "assets/main.css" |
   relative_url }}"> {% if jekyll.environment == 'production' and site.analytics
   %} {% include analytics.html %} {% endif %}
   <link
@@ -29,5 +29,6 @@
     async
     src="https://identity.netlify.com/v1/netlify-identity-widget.js"
   ></script>
+  <script src="https://unpkg.com/@botpoison/browser"></script>
   {% seo %}
 </head>
