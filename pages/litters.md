@@ -54,18 +54,18 @@ the next litter <span class="underline">until you get a kitten.</span>
     {% assign author = site.data.authors[post.author] %}
       
       <div class="blog-posted">
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title | relative_url }}</a></h2>
           <a href="{{ post.url | relative_url}}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
         
-        <time datetime="{{ post.date }}">
+        <time datetime="{{ post.date | relative_url }}">
           <small>
-            <strong>Expected: {{ post.expected | date_to_string }}</strong>
+            <strong>Expected: {{ post.expected | date_to_string | relative_url}}</strong>
             {% if author %}
               by {{ author.name }}
             {% endif %}
           </small>
         </time>
-        {{ post.excerpt | strip_newlines | truncate: 180 }}
+        {{ post.excerpt | strip_newlines | truncate: 180 | relative_url }}
       
       </div>
     {% endfor %}
