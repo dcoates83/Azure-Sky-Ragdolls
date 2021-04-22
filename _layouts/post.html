@@ -6,11 +6,15 @@ layout: default
   <!-- <h1 class="header">Upcoming Litters</h1> -->
   <div class="litter-container">
     <div class="picture">
-      <img src="{{page.thumbnail}}" alt="{{ page.info }}" srcset="" />
+      <img
+        src="{{page.thumbnail | relative_url}}"
+        alt="{{ page.info | relative_url }}"
+        srcset=""
+      />
     </div>
     <div class="details">
       <div>
-        <h2 class="upcoming-litter">{{ page.title }}</h2>
+        <h2 class="upcoming-litter">{{ page.title | relative_url }}</h2>
         <!-- What cat it is -->
       </div>
       <!-- Title for Cats -->
@@ -22,7 +26,7 @@ layout: default
         </div>
       </div>
       <div class="upcoming-litter-text-container">
-        <h4 class="reserved">{{page.reserved}}</h4>
+        <h4 class="reserved">{{page.reserved | relative_url}}</h4>
         <a href="{{ site.baseurl }}{% link pages/purchasing.md %}"
           >Click here to Reserve</a
         >
@@ -30,7 +34,9 @@ layout: default
     </div>
     <div class="arrival">
       <h4 class="arrival-text">
-        <p class="upcoming-litter">Expected: {{page.expected}}</p>
+        <p class="upcoming-litter">
+          Expected: {{page.expected | relative_url}}
+        </p>
       </h4>
     </div>
   </div>
@@ -41,14 +47,14 @@ layout: default
         <ul>
           {% if page.previous.url %}
           <li>
-            <a href="{{page.previous.url}}" rel="prev"
-              >&laquo; {{page.previous.title}}</a
+            <a href="{{page.previous.url | relative_url}}" rel="prev"
+              >&laquo; {{page.previous.title | relative_url}}</a
             >
           </li>
-          {% endif %} {% if page.next.url %}
+          {% endif %} {% if page.next.url | relative_url%}
           <li>
             <a href="{{page.next.url}}" rel="next"
-              >{{page.next.title}} &raquo;</a
+              >{{page.next.title | relative_url}} &raquo;</a
             >
           </li>
           {% endif %}
