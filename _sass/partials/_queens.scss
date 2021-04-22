@@ -37,7 +37,7 @@
 }
 .queen-header {
   text-transform: capitalize;
-  color: $blue-primary;
+  color: $background-three;
   display: block;
   font-family: "Work Sans";
   font-weight: 600;
@@ -58,7 +58,7 @@
 .king-header {
   text-transform: capitalize;
   // min-width: 188px;
-  color: $blue-primary;
+  color: $blue-secondary;
   display: block;
   // margin: 1em;
   font-family: "Work Sans";
@@ -113,6 +113,7 @@
   margin: 2em auto;
   max-height: 40vh;
   object-fit: cover;
+  border-radius: 20px;
   // object-fit: cover;
   // margin-top: 2em;
   border: 1px solid white;
@@ -152,6 +153,7 @@
     min-height: 300px;
     max-height: 100%;
     margin: 0;
+    border-radius: 0;
     // object-fit: contain;
   }
 
