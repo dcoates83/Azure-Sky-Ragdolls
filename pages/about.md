@@ -6,7 +6,7 @@ section: about
 
 <body>
   <section id="about" class="section">
-      <img src="./Assets/history-landing.jpg" alt="" class="history-landing">
+      <img src="assets/history-landing.jpg" alt="" class="history-landing">
       <div class="container-text">
         <!-- should be a h1 -->
         <h2 class="header-2 about">About Ragdolls</h2>
@@ -34,7 +34,7 @@ section: about
             a docile, placid temperament, affectionate nature, and a tendency to go limp and relaxed when picked up.
           </p>
           <div class="ragdoll-history-img">
-            <img src="./Assets/josephine.jpeg" alt="" srcset="">
+            <img src="assets/josephine.jpeg" alt="" srcset="">
           </div>
           <p class="">
             When a subsequent litter produced more of the same, Ann Baker purchased several kittens from her neighbor
@@ -53,9 +53,9 @@ section: about
           </p>
           <div class="ragdoll-history-img">
 
-            <img src="./Assets/fugianna.jpeg" alt="" srcset="" class="history-img">
-            <img src="./Assets/Daddy warbucks.jpeg" alt="" class="history-img">
-            <img src="./Assets/buckwheat.jpeg" alt="" srcset="" class="history-img">
+            <img src="assets/fugianna.jpeg" alt="" srcset="" class="history-img">
+            <img src="assets/Daddy warbucks.jpeg" alt="" class="history-img">
+            <img src="assets/buckwheat.jpeg" alt="" srcset="" class="history-img">
           </div>
           <p class="">
             Anne also was extremely capitalistic. She tried to patent her Ragdoll breed, enacting a
@@ -67,7 +67,7 @@ section: about
           <h4 class="header">Grumpy Cat</h4>
           <div class="ragdoll-history-img">
 
-            <img src="./Assets/grumpycat.jpeg" alt="" srcset="" class="heading-img">
+            <img src="assets/grumpycat.jpeg" alt="" srcset="" class="heading-img">
 
           </div>
           <p class="">
@@ -89,7 +89,7 @@ section: about
             combination is called the Bicolor. While we give you explanations of Ragdoll color and
             markings later, Bicolors are characterized by white markings overlaying the dark points.
             Bicolors have white boots, mitts, belly, bib, and a white V over the nose.</p>
-          <img src="./Assets/r-apperance.jpg" alt="" class="background-image">
+          <img src="assets/r-apperance.jpg" alt="" class="background-image">
           <h3 class="header">Eyes</h3>
           <p class="">
             Unlike other cat’s eyes who change from Blue, most Ragdolls eyes stay an intense
@@ -98,8 +98,8 @@ section: about
             Blue. While Mink eyes can be gold, but most are green. Non-Mink Ragdolls have Blue
             eyes.</p>
           <div class="ragdoll-history-img">
-            <img src="./Assets/r-eyes.jpg" alt="" class="heading-img">
-            <img src="./Assets/r-eyes-green.jpeg" alt="" srcset="" class="heading-img"></div>
+            <img src="assets/r-eyes.jpg" alt="" class="heading-img">
+            <img src="assets/r-eyes-green.jpeg" alt="" srcset="" class="heading-img"></div>
         </article>
         <article>
           <h3 class="header">personality</h3>
@@ -138,7 +138,7 @@ section: about
           <p>Highly intelligent, Ragdolls can be trained to do many things including to play fetch and
             be on a leash.</p>
           <div class="ragdoll-history-img">
-            <img src="./Assets/r-leash.jpeg" alt="" class="heading-img">
+            <img src="assets/r-leash.jpeg" alt="" class="heading-img">
           </div>
         </article>
 
@@ -188,25 +188,25 @@ section: about
             <div class="ragdoll-img-container">
               <div>
                 <h4 class="color-header">Seal</h4>
-                <img src="./Assets/sapphire-with-kitten.jpeg" alt="" class="ragdoll-img">
+                <img src="assets/sapphire-with-kitten.jpeg" alt="" class="ragdoll-img">
                 <p>Black is known as Seal in the cat world. Seal looks more like a blackish brown. We have 3 Seal cats:
                   King Tzar, Queen Sapphire and Queen Aasia.
                   Eye color: blue.</p>
               </div>
               <div>
                 <h4 class="color-header">Blue</h4>
-                <img src="./Assets/athena-catbed.jpeg" alt="" class="ragdoll-img">
+                <img src="assets/athena-catbed.jpeg" alt="" class="ragdoll-img">
                 <p>Blue in cat world means grey! Blue is a dilute Seal. Our Queen Athena is
                   a Blue Bicolor and Queen Aiyla is a Blue Mitted. </p>
               </div>
               <div>
                 <h4 class="color-header">Chocolate</h4>
-                <img src="./Assets/chocolate.jpg" alt="" class="ragdoll-img">
+                <img src="assets/chocolate.jpg" alt="" class="ragdoll-img">
                 <p> A combination of a light-colored body and light brown extremities. We have no chocolates.</p>
               </div>
               <div>
                 <h4 class="color-header">Lilac</h4>
-                <img src="./Assets/Amethyst.jpeg" alt="" class="ragdoll-img">
+                <img src="assets/Amethyst.jpeg" alt="" class="ragdoll-img">
                 <p>Dilute (recessive gene) chocolates, which are very uncommon, are
                   known Lilacs. Lilacs are hard to get. Our Queen Amethys is a Lilac. This shows an adult,
                   full color, full coat Lilac.</p>
@@ -214,7 +214,7 @@ section: about
               <div>
                 <h4 class="color-header">Red</h4>
 
-                <img src="./Assets/Flame-point-Ragdoll-cat.jpeg" alt="" class="ragdoll-img">
+                <img src="assets/Flame-point-Ragdoll-cat.jpeg" alt="" class="ragdoll-img">
                 <p>Red in cat world means orange and is a sex-linked gene. This means if you
                   cross an orange cat and
                   another color cat, ALL the male kittens will show the orange. Rarely a female will. If she does,
@@ -226,7 +226,7 @@ section: about
               <div>
                 <h4 class="color-header color-text-fix">Tortie & Calicos</h4>
                 <img
-                  src="./Assets/Seal-Tortie-Ragdoll-cat-from-Kansas-Ragdolls-bred-by-Leanna-at-House-of-Steward-Ragdolls-625x469.jpeg"
+                  src="assets/Seal-Tortie-Ragdoll-cat-from-Kansas-Ragdolls-bred-by-Leanna-at-House-of-Steward-Ragdolls-625x469.jpeg"
                   alt="" class="ragdoll-img">
                 <p>Calicos have white areas on them +
                   Seal and Orange patches. Torties have NO white areas. All can come in the various
@@ -239,14 +239,14 @@ section: about
             <div class="colors-container ">
               <div>
                 <h4 class="color-header">Solid</h4>
-                <img src="./Assets/solid.jpeg" alt="" class="ragdoll-img">
+                <img src="assets/solid.jpeg" alt="" class="ragdoll-img">
                 <p>All one color, no white markings, no graduation of color between body and points. We
                   have no Solids. Solids are rare and can have green eyes. Although uncommon you can
                   trace these cats back to the original Ragdoll lines.</p>
               </div>
               <div>
                 <h4 class="color-header">Bicolor</h4>
-                <img src="./Assets/tzar-box.jpeg" alt="" class="ragdoll-img">
+                <img src="assets/tzar-box.jpeg" alt="" class="ragdoll-img">
                 <p>Bicolor means 2 colors; white and other. Bicolors are known as the “Traditional” Ragdoll.
                   They have a white V on their face which extends into a white ruff, pink eraser noses, a
                   white underbelly and elegant white mitts and boots. Sapphire and Tzar are Traditional
@@ -254,7 +254,7 @@ section: about
               </div>
               <div>
                 <h4 class="color-header">Van</h4>
-                <img src="./Assets/dandilion.jpeg" alt="" class="ragdoll-img">
+                <img src="assets/dandilion.jpeg" alt="" class="ragdoll-img">
                 <p>A type of Medium White Spotting Factor expression. Vans are a version of
                   Bicolors but with more white areas. They are very flashy looking cats but uncommon.
                   We usually have one in every litter from Sapphire and Tzar. There should also be some
@@ -262,7 +262,7 @@ section: about
               </div>
               <div>
                 <h4 class="color-header">Mitted</h4>
-                <img src="./Assets/Ailya mom.JPG" alt="" class="ragdoll-img">
+                <img src="assets/Ailya mom.JPG" alt="" class="ragdoll-img">
                 <p>Mitted have white paws and/or back feet; known as Mitts and Boots. Usually, the mitts
                   and boots are smaller than on the Bicolor and they usually have a teeny white chin. A
                   Mitted Ragdoll may have some white on the chest (called a Bib), on their tummy and
@@ -276,7 +276,7 @@ section: about
             <h2 class="header">Minks</h2>
             <div class="colors-container">
               <div>
-                <h4 class="color-header">Standard</h4><img src="./Assets/aasia-bed.jpeg" alt=""
+                <h4 class="color-header">Standard</h4><img src="assets/aasia-bed.jpeg" alt=""
                   class="ragdoll-img">
                 <!-- maybe anchor burmese -->
                 <p>Another gene called the
@@ -293,7 +293,7 @@ section: about
                 </div>
               </div>
               <div>
-                <h4 class="color-header">Sepia</h4><img src="./Assets/Ailya mom.JPG" alt="" class="ragdoll-img">
+                <h4 class="color-header">Sepia</h4><img src="assets/Ailya mom.JPG" alt="" class="ragdoll-img">
                 <div>
                   <p>Sepia Minks express the have a slightly different portion of the Burmese gene from both parents.
                     Sepias have the

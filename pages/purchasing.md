@@ -54,7 +54,7 @@ section: purcchasing
           </p>
           <div class="deposit-price">
             <img
-              src="./Assets/kitten-couch.jpeg"
+              src="assets/kitten-couch.jpeg"
               alt=""
               srcset=""
               class="deposit-img"
@@ -925,7 +925,7 @@ section: purcchasing
                 </g>
               </svg>
 
-              <img src="./Assets/Azure-logo-sans.svg" alt="" srcset="" />
+              <img src="assets/Azure-logo-sans.svg" alt="" srcset="" />
             </div>
           </div>
         </div>
@@ -1336,7 +1336,7 @@ section: purcchasing
         </div>
       </section>
       <section id="faq">
-        <img src="./Assets/cat-cattower.jpeg" alt="" class="background-image" />
+        <img src="assets/cat-cattower.jpeg" alt="" class="background-image" />
         <div class="faq-subheader">
           <h2 class="questions">
             QUESTIONS AROUND AN AZURE SKY RAGDOLL KITTEN?
