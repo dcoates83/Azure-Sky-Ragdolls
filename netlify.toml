@@ -39,23 +39,3 @@
 #   Content-Security-Policy = "frame-ancestors https://www.facebook.com"
 
 # For more information see:- https://www.netlify.com/docs/netlify-toml-reference/
-
-
-
-[[plugins]]
-  package = "netlify-plugin-submit-sitemap"
-  package = "netlify-plugin-image-optim"  
-    [plugins.inputs]
- 
-    # The base url of your site (optional, default = main URL set in Netlify)
-    baseUrl = "https://azure-sky-static.netlify.app/"
- 
-    # Path to the sitemap URL (optional, default = /sitemap.xml)
-    sitemapPath = "/sitemap.xml"
- 
-    # Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
-    providers = [
-        "google",
-        "bing",
-        "yandex"
-    ]
