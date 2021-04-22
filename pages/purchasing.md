@@ -1325,7 +1325,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <h2>
             Please contact us at
             <a href="mailto:azureskyRagdolls@gmail.com"
-              >azureskyRagdolls@gmail.com</a
+              ><span class="underline">azureskyRagdolls@gmail.com<span></a
             >
             with <strong>any</strong> questions
           </h2>
