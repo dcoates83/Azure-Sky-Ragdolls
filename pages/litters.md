@@ -45,14 +45,14 @@ the next litter <span class="underline">until you get a kitten.</span>
             </li>
           </ol>
           <h2>See all new photos of our kittens on our 
-          <a href="https://www.facebook.com/Azure-Sky-Ragdolls-2203345016408284/" target="_blank" class="nav-link icoFacebook" title="Facebook">Facebook!</a> </h2>
+          <a href="https://www.facebook.com/Azure-Sky-Ragdolls-2203345016408284/" target="_blank" class="nav-link icoFacebook" title="Facebook"><span class="underline">Facebook!</span></a> </h2>
         <section>
 <h1 class="header-2">Posted Litters</h1>
 
-  <ul>
+  <ul class="posted">
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
-      <li>
+      
       <div class="blog-posted">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           <a href="{{ post.url }}" ><img  class="blog-img" src="{{ post.thumbnail }}" /> </a>
@@ -66,11 +66,8 @@ the next litter <span class="underline">until you get a kitten.</span>
           </small>
         </time>
         {{ post.excerpt | strip_newlines | truncate: 180 }}
-      </li>
+      
       </div>
     {% endfor %}
   </ul>
-</section>
-</div>
-
 </section>

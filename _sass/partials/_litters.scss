@@ -1,6 +1,11 @@
 @import "utils";
 #litters {
   margin-top: 2em;
+  // height: 75vh;
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  display: block;
 }
 #upcoming {
   margin-top: 2em;
@@ -10,30 +15,24 @@
 }
 .blog-posted {
   display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.posted {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   justify-content: center;
+  grid-gap: 20px;
 }
-.details {
-  display: grid;
-  align-content: space-around;
-}
-.details-2 {
-  display: grid;
-  align-content: space-around;
-}
+
 .picture {
   img {
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
     max-height: 250px;
   }
 }
-.picture-2 {
-  img {
-    width: 100%;
-    object-fit: cover;
-    max-height: 250px;
-  }
-}
+
 .litters-nav {
   display: flex;
   justify-content: center;
@@ -50,24 +49,11 @@
   font-family: "Open Sans";
   font-size: 18px;
   text-align: center;
-  border-bottom: 1px solid #eee;
+  // border-bottom: 1px solid #eee;
 }
-.litter-container-2 {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  text-align: center;
-  color: #414a4c;
-  font-family: "Open Sans";
-  font-size: 18px;
-  text-align: center;
-}
+
 // background for when litters are created
-.bg-seperator {
-  background-color: $background-two;
-  height: 5vh;
-  grid-column: span 2;
-}
+
 // Header
 .upcoming-litter {
   // color: rgb(175, 168, 214);
@@ -103,7 +89,7 @@
     padding: 1em;
     font-weight: 600;
     font-size: smaller;
-    color: #a5a3a3;
+    color: $background-three;
     // text-decoration: underline;
   }
 }
@@ -119,104 +105,103 @@
   font-family: "work sans";
   text-transform: capitalize;
 }
-@media (min-width: 650px) {
-  //
-  .litter-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+// @media (min-width: 650px) {
+//   //
+//   .litter-container {
+//     display: grid;
+//     grid-template-columns: 1fr 1fr;
+//     grid-template-rows: 1fr 1fr;
 
-    gap: 0px 0px;
-    grid-template-areas:
-      "details picture"
-      "details arrival";
-    .picture,
-    .arrival {
-      max-height: 250px;
-    }
-    .details {
-      max-height: 500px;
-    }
-  }
-  .litter-container-2 {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    background-color: $background-two;
-    gap: 0px 0px;
-    grid-template-areas:
-      "   picture details"
-      "   arrival details";
-    .picture,
-    .arrival-2 {
-      max-height: 250px;
-    }
-    .details-2 {
-      max-height: 500px;
-    }
-  }
+//     gap: 0px 0px;
+//     grid-template-areas:
+//       "details picture"
+//       "details arrival";
+//     .picture,
+//     .arrival {
+//       max-height: 250px;
+//     }
+//     .details {
+//       max-height: 500px;
+//     }
+//   }
+//   .litter-container-2 {
+//     display: grid;
+//     grid-template-columns: 1fr 1fr;
+//     grid-template-rows: 1fr 1fr;
+//     background-color: $background-two;
+//     gap: 0px 0px;
+//     grid-template-areas:
+//       "   picture details"
+//       "   arrival details";
+//     .picture,
+//     .arrival-2 {
+//       max-height: 250px;
+//     }
+//     .details-2 {
+//       max-height: 500px;
+//     }
+//   }
 
-  // **
-  .details {
-    grid-area: details;
-    align-content: space-around;
-  }
-  .details-2 {
-    grid-area: details;
-    align-content: space-around;
-  }
-  // **
-  .picture {
-    grid-area: picture;
-    img {
-      width: 100%;
-      object-fit: cover;
-      max-height: 250px;
-    }
-  }
-  .picture-2 {
-    grid-area: picture;
-    img {
-      width: 100%;
-      object-fit: cover;
-      max-height: 250px;
-    }
-  }
-  //
-  .arrival {
-    grid-area: arrival;
-    background-color: $background-two;
-    place-items: center;
-    display: grid;
-    p {
-      color: $background-three;
-    }
-  }
-  .arrival-2 {
-    grid-area: arrival;
-    background-color: $background-three;
-    place-items: center;
-    display: grid;
-    // background-color: $background-one;
-    p {
-      color: white;
-      // color: $grey-header;
-    }
-  }
-  // Adjust Font Sizes
-  .upcoming-litter {
-    font-size: 1.35rem;
-  }
-  .upcoming-litter-header {
-    font-size: 1.5rem;
-  }
-  .upcoming-litter-subheader {
-    font-size: 1.15rem;
-  }
-  .desc {
-    font-size: 1rem;
-  }
-  .reserved {
-    font-size: 18px;
-  }
+//   // **
+//   .details {
+//     grid-area: details;
+//     align-content: space-around;
+//   }
+//   .details-2 {
+//     grid-area: details;
+//     align-content: space-around;
+//   }
+//   // **
+//   .picture {
+//     grid-area: picture;
+//     img {
+//       width: 100%;
+//       object-fit: cover;
+//       max-height: 250px;
+//     }
+//   }
+//   .picture-2 {
+//     grid-area: picture;
+//     img {
+//       width: 100%;
+//       object-fit: cover;
+//       max-height: 250px;
+//     }
+//   }
+//   //
+//   .arrival {
+//     grid-area: arrival;
+//     background-color: $background-two;
+//     place-items: center;
+//     display: grid;
+//     p {
+//       color: $background-three;
+//     }
+//   }
+//   .arrival-2 {
+//     grid-area: arrival;
+//     background-color: $background-three;
+//     place-items: center;
+//     display: grid;
+//     // background-color: $background-one;
+//     p {
+//       color: white;
+//       // color: $grey-header;
+//     }
+//   }
+// Adjust Font Sizes
+.upcoming-litter {
+  font-size: 1.35rem;
+}
+.upcoming-litter-header {
+  font-size: 1.5rem;
+}
+.upcoming-litter-subheader {
+  font-size: 1.15rem;
+}
+.desc {
+  font-size: 1rem;
+}
+.reserved {
+  font-size: 18px;
 }
