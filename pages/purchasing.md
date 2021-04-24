@@ -1015,12 +1015,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <p>
             Your kitten is
             <strong>on a mix of dry and wet (canned)</strong> foods when it goes
-            home. We feed the kittens 6x a day with a 50/50 mix of
-            canned food mushed into dry Kitten Chow. We have tried other
-            brands, and these are not only the most accessible and affordable
-            for Buyers, but they are adequate source of nutrition. We have tried
-            more expensive brands but could not justify continuing their use
-            since the difference in nutritional quality was negligible.
+            home. We feed the kittens 6x a day, with a 50/50 mix of
+            canned food mushed into dry Kitten Chow.
           </p>
           <h4>Spray/Neutered:</h4>
           <p>
