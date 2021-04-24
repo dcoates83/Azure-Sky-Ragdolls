@@ -1128,11 +1128,6 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             our Call List in the order they returned the Adoption Information
             requested.
           </p>
-          <p>
-            When we retire Kings and Queens, they are altered and sold at very
-            reasonable prices to good homes. None are up for Retirement right
-            now.
-          </p>
 
           <!-- Contact us -->
           <h2>
@@ -1149,6 +1144,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <p>I usually answer messages only between 7 am and 2 pm.</p>
         </div>
       </section>
+
       <section id="faq">
         <img src="assets/cat-cattower.jpeg" alt="" class="background-image" />
         <div class="faq-subheader">
