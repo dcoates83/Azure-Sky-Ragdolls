@@ -1010,7 +1010,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             <em>make them comfertable being in their crate</em>. You may buy one of our crates for your kitten if you need.
           </p>
           <p>
-            <strong>Each kitten gets a Gund stuffy</strong> they pick, and
+
+         <h>   <strong>Each kitten gets a stuffy</strong> they pick, and
             <strong>their own home quilted crate blanket</strong> out for them
             to play and sleep in for a month before they go to their new home.
             <em>We highly recommend not washing these</em> for a while as
