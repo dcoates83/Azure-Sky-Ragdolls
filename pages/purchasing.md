@@ -1009,14 +1009,14 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             <strong>We do not crate train your kitten</strong>, but we do
             <em>make them comfertable being in their crate</em>. You may buy one of our crates for your kitten if you need.
           </p>
-          <p>
+
 
           <h4>Food:</h4>
           <p>
             Your kitten is
             <strong>on a mix of dry and wet (canned)</strong> foods when it goes
-            home. We feed the kittens 4x a day with a 50/50 mix of Friskies
-            canned food mushed into dry Purina Kitten Chow. We have tried other
+            home. We feed the kittens 6x a day with a 50/50 mix of
+            canned food mushed into dry Kitten Chow. We have tried other
             brands, and these are not only the most accessible and affordable
             for Buyers, but they are adequate source of nutrition. We have tried
             more expensive brands but could not justify continuing their use
