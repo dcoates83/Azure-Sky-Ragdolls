@@ -1031,21 +1031,19 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             </p>
             <h2> The socialization that we do, before
             they are 2 months old and go to you home <br> is extremely important to having a well-
-            balanced, happy cat.
+            balanced, happy cat. We handle the kittens daily!
           </h2>
           <h4>Litter:</h4>
           <p>
-            All kittens <strong>are completely litter trained before the go home</strong> </p>
+            All kittens <strong>are completely litter trained before the go home</strong>. </p>
 
-          <h2>
-            As you wait for your kitten to come home, we will keep you updated
-            on the progress of your kitten
-          </h2>
           <p>
+           As you wait for your kitten to come home,<br> we keep you updated
+            on the progress of your kitten.
             We appreciate your patience in not taking the kittens too early, and
             we understand you do not want to miss out on any of their babyhood.
-            <strong
-              >Be prepared for many pictures and videos of your kitten!</strong
+            <h2
+              >Be prepared for many pictures and videos of your kitten!</h2
             >
           </p>
           <h2>The best day! Picking up your kitten</h2>
