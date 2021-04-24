@@ -1266,7 +1266,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             </article>
             <article class="question">
               <p class="faq-q">Can I breed my Ragdoll?</p>
-              <p class="faq-desc">NO, it is in the <a href="#">contract</a>.</p>
+              <p class="faq-desc">Unless sold as a breeder all kittens come spayed/nuetered</p>
               <!-- needs anchor -->
               <button class="btn-plus">
                 <svg
@@ -1313,10 +1313,10 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           </div>
           <div class="square">
             <article class="question">
-              <p class="faq-q">What age can i adopt my kitten?</p>
+              <p class="faq-q">What can my kitten go home?</p>
               <p class="faq-desc">
-                Kittens go home week 13! After they're fully immunized and have
-                recuperated from their shots.
+                Kittens can go home week 13! After fully
+                recuperated from their spay/neutered and from their shots.
               </p>
               <button class="btn-plus">
                 <svg
@@ -1364,7 +1364,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
               <p class="faq-q">What color or markings should i get?</p>
               <p class="faq-desc">
                 Check out more on
-                <a href="/public/about.html">colors</a>, but its really up to
+                <a href="./about.html#colors">colors</a>, but its really up to
                 you!
               </p>
               <!-- needs anchor -->
