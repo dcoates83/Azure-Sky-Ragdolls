@@ -1061,10 +1061,10 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <h2>The best day! Picking up your kitten</h2>
 
           <!-- Form Header -->
-          <h4>
-            If you are interested in owning one of our kittens please fill out
+          <h1 class="header-2">
+            If you are interested in adopting one of our kittens please fill out
             the form
-          </h4>
+          </h1>
 
         <!-- form -->
         <div class="form-container">
@@ -1100,7 +1100,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             <label for="email">Email</label>
             <input required type="email" name="Email" id="email" />
             <div id="email-help">
-              We'll never share your email with anyone else.
+              We'll never share your information with anyone else.
             </div>
             <label for="family"
               >Tell us about you, your family, and your home.</label
