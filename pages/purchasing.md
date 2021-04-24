@@ -12,12 +12,12 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <header>
             <h1 class="header-2">Purchasing a Kitten</h1>
           </header>
-          <h3>Should I go on a callist or should I reserve?</h3>
+          <h3>Should I go on a call List or should I reserve?</h3>
           <p>
             <span class="underline">Its best to reserve a kitten:</span>
             Ragdolls are highly coveted so 95% of our kittens are sold by
             reservation with a deposit before birth.
-            <span class="bold">Only 5% are sold to people on the Waitlist</span>
+            <span class="bold">Only 5% are sold to people on the Call list</span>
             since Depositors take most of the kittens. If a kitten does make it
             to the Waitlist, it usually sells to the first person on the list
             and within 3 hours.
