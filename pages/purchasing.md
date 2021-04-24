@@ -1029,13 +1029,15 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             used to all the strange noises and sights that most homes have. Nanny
             Sophia, of course is constantly “on the job”.
             </p>
-            <p> Our socialization that we do, before
+            <h2> Our socialization that we do, before
             they are 2 months old is extremely important to having a well-
             balanced, happy cat.
-          </p>
+          </h2>
           <h4>Litter:</h4>
           <p>
-            All kittens <strong>are completely litter trained.</strong> We use
+            All kittens <strong>are completely litter trained.</strong> </p>
+            <p>
+            We use
             Fresh4Life cat litter. It has little dust, clumps easily and is
             cheaper than the fancy brands of litter. Do not use scented cat
             litter. Cats hate it and it spreads the smell of feces.
