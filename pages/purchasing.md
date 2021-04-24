@@ -992,11 +992,10 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             strongly to this set because they now have antibodies.
             </p>
             <p>
-            <strong>3rd set</strong> of vaccines
-            <strong>@ 16 weeks</strong> with health exam.
+            <strong>3rd set</strong> of (leukemia booser)
+            <strong>@ 16 weeks</strong>
             <span class="italic">
-              If still in our care, the rabies vaccine and/or second feline
-              leukemia vaccines may be done at your discretion but will be added
+             and the rabies vaccine may be done at your discretion, if both are done or only one, these will be added
               to your kitten’s purchase price.</span
             >
             </p>
