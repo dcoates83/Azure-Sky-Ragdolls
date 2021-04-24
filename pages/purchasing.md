@@ -1065,7 +1065,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             If you are interested in owning one of our kittens please fill out
             the form
           </h4>
-        </div>
+
         <!-- form -->
         <div class="form-container">
           <form action="https://submit-form.com/AqUcFuf1
