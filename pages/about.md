@@ -81,7 +81,7 @@ description:
           </p>
         </article>
         <article>
-          <h2 class="header">appearance</h2>
+          <h1 class="header center">appearance</h1>
           <p class="">All Ragdolls get their color points from their Siamese/Birman genetic heritage, although it
             may be covered up by other genes. The most known Ragdoll coloring and marking
             combination is called the Bicolor. While we give you explanations of Ragdoll color and
