@@ -991,18 +991,17 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
 
             </p>
             <p>
-            <strong>3rd set</strong> of (leukemia booster)
-            <strong>@ 16 weeks</strong>
-            <span class="italic">
-             and the rabies vaccine may be done at your personal discretion, if both are done or only one, these will be added
+            <strong>3rd set</strong> of vaccine
+            <strong>@ 16 weeks</strong> (leukemia booster)
+            <span class ="underline"> must be done by the buyer.</span> The rabies vaccine may be added at your personal discretion, <em> if opted for, this will be
               to your kitten’s purchase price.</span
             >
             </p>
             <p>
-            Not all vets recommend rabies or leukemia vaccines for indoor cats.
-            The rabies and leukemia vaccines in the 3rd set because the FRCVP
+
+            The rabies and leukemia vaccines are in the 3rd set because the FRCVP
             and rabies vaccines should not be given at the same time or
-            life-threatening complications and/or less strong immunity will
+            life-threatening complications and/or weakend immunity will
             occur. Current practices recommend redoing the vaccines at age 1,
             then every 3 years.
           </p>
