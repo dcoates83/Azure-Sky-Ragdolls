@@ -1047,20 +1047,14 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             >
           </p>
 
-          <p>
-            <strong>Kittens can home week 13;</strong> after they are fully
-            immunized and have recuperated from their alter.
-          </p>
-          <p>
-            We do not microchip your kitten as we feel a pediatric alter and
-            vaccines is enough stress for the kitten …and the microchip should
-            be done later.
-          </p>
+          <h4>
+            Kittens can home week 13:
+          </h4>
           <p>
             We will arrange a mutually agreeable pick-up time, date, and place.
           </p>
           <p>
-            Usually, we try to connect owners wiht other people going the same
+            Usually, we try to connect owners with other people going the same
             direction for Kitten Pooling. This save owners time and money and is
             less stressful for the kitten as it is travelling with a sibling.
           </p>
