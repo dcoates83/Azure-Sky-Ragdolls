@@ -684,9 +684,13 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      used to all the strange noises and sights that most homes have. Nanny
      Sophia, of course is constantly “on the job”.
     </p>
-    <h2> The socialization that we do, before
-     they are 2 months old and go to you home is extremely important to having a well-
+    <p>
+    The socialization that we do, before
+     they are 2 months old and go to your home, is extremely important to having a well-
      balanced, happy cat. We handle the kittens daily!
+    </p>
+    <h2> 
+    We make sure your kitten is well socialized
     </h2>
     <h4>Litter:</h4>
     <p>
