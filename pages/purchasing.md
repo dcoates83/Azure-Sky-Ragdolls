@@ -1243,10 +1243,9 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             <article class="question">
               <p class="faq-q">What is your Breeding Program?</p>
               <p class="faq-desc">
-                We use the Tica Ragdoll
+                We use the Tica Ragdoll standards
                 <a href="https://tica.org/phocadownload/rd.pdf">Standards</a>
-                in our breeding program. This describes the entire cat, on a
-                point basis.
+                in our breeding program. To constantly improve our cats.
               </p>
               <button class="btn-plus">
                 <svg
