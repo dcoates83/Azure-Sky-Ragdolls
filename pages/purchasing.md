@@ -1062,10 +1062,11 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
 
           <!-- Form Header -->
           <h1 class="header-2">
-            If you are interested in adopting one of our kittens please fill out
-            the form
+           Adoption Form
           </h1>
 
+<p> If you are interested in adopting one of our kittens please fill out
+            the form below</p>
         <!-- form -->
         <div class="form-container">
           <form action="https://submit-form.com/AqUcFuf1
