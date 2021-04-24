@@ -234,7 +234,7 @@ description:
 
             </div>
 
-<h1 class="header-2 center">Variations of white markings</h1>
+<h1 class="header-2 center">Variations of White Markings</h1>
             <div class="colors-container ">
               <div>
                 <h4 class="color-header">Solid</h4>
@@ -271,7 +271,8 @@ description:
 
             </div>
 
-            <h2 class="header">Minks</h2>
+<h1 class="header-2 center">Minks</h1>
+            
             <div class="colors-container">
               <div>
                 <h4 class="color-header">Sepia</h4><img src="assets/aasia-bed.jpeg" alt="aasia in her cat bed"
