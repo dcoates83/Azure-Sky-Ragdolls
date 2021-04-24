@@ -1117,7 +1117,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
               id="family"
               cols="30"
               rows="6"
-              placeholder="-What occupations do your household members hold?&#10;-Tell us about any children, and what ages they are?&#10;-Any other pets in your home.&#10;-Have you owned a cat/Ragdoll/purebred cat or pets before?&#10;-Who is the kitten for?&#10;-Who will be responsible for caring for the kitten?"
+              placeholder="-What occupations do your household members hold?&#10;-Tell us about any children, and what ages they are?&#10;-Any other pets in your home?&#10;-Have you owned a cat/Ragdoll/purebred cat or pets before?&#10;-Who is the kitten for?&#10;-Who will be responsible for caring for the kitten?"
             ></textarea>
             <button type="submit">Submit</button>
           </form>
