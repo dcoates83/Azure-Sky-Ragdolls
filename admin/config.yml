@@ -24,7 +24,7 @@ collections:
           widget: "string",
           required: false,
         }
-      - { label: "Posting Date", name: "date", widget: "datetime" }
+      - { label: "Posting Date", name: "date", widget: "hidden" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Description", name: "body", widget: "markdown" }
       - { label: "Reserved?", name: "reserved", widget: "string" }

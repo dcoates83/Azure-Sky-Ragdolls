@@ -11,8 +11,8 @@ description: Upcoming ragdoll kitten litters! Check here for ragdoll kittens for
 <section id="upcoming">
 <div class="container-text">
 <h1 class="header-2">Upcoming Litters</h1>
-<p>All litters will all be from foundation Seal Bicolor male Tzar.</p>
-<p>Likely colors of kittens and dates of litters are listed but of course
+<p>All litters will all be from foundation Seal Bicolor male King Tzar.</p>
+<p>Likely colors of kittens and dates of litters are listed, but of course
 Mother Nature does her own thing!</p>
 <p><strong>Litters could be earlier or later or even the order switched. If
 you place a deposit, we will notify who is pregnant when it is
@@ -50,7 +50,7 @@ the next litter <span class="underline">until you get a kitten.</span>
         <section>
 <h1 class="header-2">Posted Litters</h1>
 
-  <ul class="posted">
+  <div class="posted">
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
       
@@ -66,9 +66,9 @@ the next litter <span class="underline">until you get a kitten.</span>
             {% endif %}
           </small>
         </time>
-        {{ post.excerpt | strip_newlines | truncate: 180  }}
-      
+        {{ post.excerpt }}
+     
       </div>
-    {% endfor %}
-  </ul>
+     {% endfor %}
+  </div>
 </section>
