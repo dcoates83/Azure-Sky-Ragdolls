@@ -1060,6 +1060,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           </p>
           <h2>The best day! Picking up your kitten</h2>
 
+<!-- insert a picture -->
+
           <!-- Form Header -->
           <h1 class="header-2">
            Adoption Form
@@ -1098,6 +1100,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
 
             <label for="phone">Phone</label>
             <input required type="tel" name="phone" id="Phone" />
+            <label for="address">Address</label>
+            <input required type="addres" name="Address" id="address" />
             <label for="email">Email</label>
             <input required type="email" name="Email" id="email" />
             <div id="email-help">
