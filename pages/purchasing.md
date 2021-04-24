@@ -1006,8 +1006,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <h2>We prepare your Kitten for going home!</h2>
           <h4>Crating:</h4>
           <p>
-            <em>We do not crate train your kitten</em> , but we do
-            <em>make them comfertable with being in their going Home crate</em>,
+            <em>We do not crate train your kitten</em>, but we do
+            <em>make them comfertable with being in their crate</em>.
             therefore, we recommend buying one of our used crates for 25$
             because the crate.
           </p>
