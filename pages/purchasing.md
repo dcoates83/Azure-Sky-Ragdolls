@@ -1046,9 +1046,9 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
               >Be prepared for many pictures and videos of your kitten!</h2
             >
           </p>
-          <h2>The best day! Picking up your kitten</h2>
+
           <p>
-            <strong>Kittens go home week 13;</strong> after they are fully
+            <strong>Kittens can home week 13;</strong> after they are fully
             immunized and have recuperated from their alter.
           </p>
           <p>
@@ -1064,6 +1064,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             direction for Kitten Pooling. This save owners time and money and is
             less stressful for the kitten as it is travelling with a sibling.
           </p>
+          <h2>The best day! Picking up your kitten</h2>
           <h4>The Sales Contract</h4>
           <p>
             <strong
