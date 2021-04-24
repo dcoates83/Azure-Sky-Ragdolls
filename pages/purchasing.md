@@ -1048,10 +1048,10 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           </p>
 
           <h4>
-            Kittens can home week 13:
+            Kittens can go home week 13:
           </h4>
           <p>
-            We will arrange a mutually agreeable pick-up time, date, and place.
+            We arrange a mutually agreeable pick-up time, date, and place.
           </p>
           <p>
             We try to connect owners with other people going the same
