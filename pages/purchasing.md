@@ -7,6 +7,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
 ---
 
  <section id="purchasing">
+
   <div class="container-text">
    <header>
     <h1 class="header-2">Purchasing a Kitten</h1>
@@ -58,8 +59,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      <h4>Price: $2000</h4>
      <h4>Deposit: $1000</h4>
      <h4>Paid by</h4>
-     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.271 174.274">
-      <defs>
+     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.271 174.274"><defs>
        <clipPath id="prefix__a">
         <path fill="none" d="M0 0h174.271v174.274H0z" />
        </clipPath>
@@ -83,14 +83,13 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
    </div>
    <div class="deposit-question">
     <p>
-     <strong>Why are deposits half the price of the kitten? </strong>
+     <strong>Why are deposits half the price of the kitten?</strong>
     </p>
     <p>Simple, it shows who is serious about getting a kitten.</p>
    </div>
    <div class="deposit-question">
     <p>
-     <strong>Your deposit freezes your kitten price for 1 year.
-     </strong>
+     <strong>Your deposit freezes your kitten price for 1 year.</strong>
     </p>
     <p>
      Due to inflation of increasing costs of genetic testing,
@@ -196,7 +195,6 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
        Multiple veterinary health checks done by a veterinary Feline
        Specialist certifying the kitten is healthy (minimum of 2x)
       </li>
-
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
         <path
@@ -232,8 +230,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
         <path
          d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0" />
        </svg>
-       <span class="bold"> Fully litter trained</span>, and
-       completely weaned onto dry and wet foods
+       <span class="bold"> Fully litter trained</span>
       </li>
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
@@ -244,7 +241,6 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
        </svg>
        72 hour supply of current dry food
       </li>
-
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
         <path
@@ -265,7 +261,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
        A small, quilted crate pad made especially for your kitten
       </li>
 
-      <!-- <li><svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark"><path d="m192 384c105.863281 0 192-86.128906 192-192 0-18.273438-2.550781-36.28125-7.601562-53.527344-2.488282-8.480468-11.34375-13.351562-19.847657-10.863281-8.488281 2.480469-13.34375 11.367187-10.863281 19.847656 4.183594 14.328125 6.3125 29.320313 6.3125 44.542969 0 88.222656-71.777344 160-160 160s-160-71.777344-160-160 71.777344-160 160-160c32.0625 0 62.910156 9.375 89.207031 27.105469 7.320313 4.941406 17.273438 3 22.207031-4.320313 4.9375-7.328125 3.011719-17.273437-4.316406-22.210937-31.601562-21.308594-68.632812-32.574219-107.097656-32.574219-105.863281 0-192 86.128906-192 192s86.136719 192 192 192zm0 0"/><path d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0"/></svg>- Completely weaned onto dry and wet foods</li> -->
+      <li><svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark"><path d="m192 384c105.863281 0 192-86.128906 192-192 0-18.273438-2.550781-36.28125-7.601562-53.527344-2.488282-8.480468-11.34375-13.351562-19.847657-10.863281-8.488281 2.480469-13.34375 11.367187-10.863281 19.847656 4.183594 14.328125 6.3125 29.320313 6.3125 44.542969 0 88.222656-71.777344 160-160 160s-160-71.777344-160-160 71.777344-160 160-160c32.0625 0 62.910156 9.375 89.207031 27.105469 7.320313 4.941406 17.273438 3 22.207031-4.320313 4.9375-7.328125 3.011719-17.273437-4.316406-22.210937-31.601562-21.308594-68.632812-32.574219-107.097656-32.574219-105.863281 0-192 86.128906-192 192s86.136719 192 192 192zm0 0"/><path d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0"/></svg> Completely weaned onto dry and wet foods</li>
 
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
@@ -618,8 +614,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
    </div>
   </div>
  </section>
- <section id="take-home">
-
+<section id="pick-up">
   <div class="container-text">
    <h2>We take good care of them until you can pick them up!</h2>
    <h4>Veterinary Care:</h4>
@@ -647,7 +642,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
    <h4>Vaccinations:</h4>
    <p>
     <strong>1st set </strong>of vaccines <strong>@ 8 weeks</strong> (FRCVP) and a
-    veterinary health check is paid by us.
+    veterinary health check is paid by us.</p>
     <p><strong>2nd set</strong> of vaccines
      <strong>@ 12 weeks </strong> (FRCVP booster and intial leukemia vaccine) and with veterinary health check. This is
      paid by us also. All kittens may react
@@ -690,7 +685,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      Sophia, of course is constantly “on the job”.
     </p>
     <h2> The socialization that we do, before
-     they are 2 months old and go to you home <br> is extremely important to having a well-
+     they are 2 months old and go to you home is extremely important to having a well-
      balanced, happy cat. We handle the kittens daily!
     </h2>
     <h4>Litter:</h4>
@@ -715,8 +710,9 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      less stressful for the kitten as it is traveling with a sibling.
     </p>
     <h2>The best day! Picking up your kitten</h2>
-
- <section>
+ </div>
+</section>
+ <section id="form-info">
   <div class="container-text">
   <h1 class="header-2">
    Adoption Form
@@ -773,6 +769,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
    </p>
    <p>I usually answer messages only between 7 am and 2 pm.</p>
   </div>
+
  </section>
 
  <section id="faq">
