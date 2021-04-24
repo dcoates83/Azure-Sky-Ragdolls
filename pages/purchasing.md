@@ -1025,7 +1025,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           </p>
           <h4>Socialization:</h4>
           <p>
-            We socialize our kittens well. They are part of our home and get
+            Since our kittens are part of our home and get
             used to all the strange noises and sites most homes have. Nanny
             Sophia of course is constantly “on the job”. Socialization before
             they are 2 months old is extremely important to having a well-
