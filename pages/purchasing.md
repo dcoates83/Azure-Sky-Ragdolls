@@ -1008,7 +1008,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <p>
             <em>We do not crate train your kitten</em>, but we do
             <em>make them comfertable with being in their crate</em>.
-            therefore, we recommend buying one of our used crates for 25$
+            therefore, we recommend buying one of our crates for 25$
             because the crate.
           </p>
           <p>
