@@ -1025,9 +1025,11 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           </p>
           <h4>Socialization:</h4>
           <p>
-            Since our kittens are part of our home and get
-            used to all the strange noises and sights that homes have. Nanny
-            Sophia, of course is constantly “on the job”. Socialization before
+            Since our kittens are part of our home, they are
+            used to all the strange noises and sights that most homes have. Nanny
+            Sophia, of course is constantly “on the job”.
+            </p>
+            <p> Our socialization that we do, before
             they are 2 months old is extremely important to having a well-
             balanced, happy cat.
           </p>
@@ -1037,10 +1039,10 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             Fresh4Life cat litter. It has little dust, clumps easily and is
             cheaper than the fancy brands of litter. Do not use scented cat
             litter. Cats hate it and it spreads the smell of feces.
-            <em>Expect your kitten to make a few ooops</em> when they get to
+            <em>Expect your kitten to make a few oops</em> when they get to
             your place. <em>Everything is scary and overwhelming.</em> Place the
             litter box immediately outside of their crate (their safe space).<em>
-              If they make an ooops wipe it up and put it into the cat box. Do
+              If they make an oops wipe it up and put it into the cat box. Do
               not throw it out or scoop until they have figured out where the
               bathroom is at your place.</em
             >
