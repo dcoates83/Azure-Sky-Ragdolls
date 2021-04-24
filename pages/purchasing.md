@@ -19,7 +19,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             reservation with a deposit before birth.
             <span class="bold">Only 5% are sold to people on the Call list</span>
             since Depositors take most of the kittens. If a kitten does make it
-            to the Waitlist, it usually sells to the first person on the list
+            to the Call List, it usually sells to the first person on the list
             and within 3 hours.
           </p>
           <p>
@@ -95,7 +95,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             <p>
               <strong>Why are deposits half the price of the kitten? </strong>
             </p>
-            <p>Simple, it shows who is serious about getting and kitten.</p>
+            <p>Simple, it shows who is serious about getting a kitten.</p>
           </div>
           <div class="deposit-question">
             <p>
@@ -105,7 +105,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             </p>
             <p>
               Due to inflation of increasing costs of genetic testing,
-              veterinary care and etc. Our prices need to reflect that. If you
+              veterinary care and etc, Our prices need to reflect that. If you
               have not picked a kitten within 1 year, then your price is subject
               to change. If for a serious reason you cannot take a kitten within
               1 year (for example you got cancer, or the litters are late) we
@@ -127,7 +127,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <div class="deposit-question">
             <p>
               <strong
-                >The earlier you place a deposit the higher up the line you are
+                >The earlier you place a deposit, the higher up the line you are
                 for choosing a kitten!
               </strong>
             </p>
@@ -135,7 +135,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
               Our kittens are offered to people
               <span class="underline"
                 >in the order of that the deposits received</span
-              >. Meaning, first come, first served. Depositors may choose a
+              >; Meaning, first come, first served. Depositors may choose a
               kitten from a posted litter or wait for one of the next upcoming
               litters.
               <span class="underline"
@@ -148,7 +148,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           </div>
           <div class="deposit-contract-info">
             <h2>
-              A contract will be written up for both yours, and the the sellers
+              A agreement will be written up for the buyers
               protection.
             </h2>
           </div>
