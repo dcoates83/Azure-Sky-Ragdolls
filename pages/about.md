@@ -25,7 +25,7 @@ description:
               href="https://en.wikipedia.org/wiki/Persian_cat" title="Persian cat"><span class="underline">Persian</span></a>/<a
               href="https://en.wikipedia.org/wiki/Turkish_Angora" title="Turkish Angora"><span class="underline">Angora</span></a> type and had
             litters sired by several unknown male <a href="https://en.wikipedia.org/wiki/Birman"
-              title="Birman">Birman</a> or
+              title="Birman"><span class="underline">Birman</span></a> or
             <a href="https://en.wikipedia.org/wiki/Burmese_cat" title="Burmese cat"><span class="underline">Burmese</span></a>-like
             cats, one of which
             had the <a href="https://en.wikipedia.org/wiki/Siamese_cat" title="Siamese cat"><span class="underline">Siamese</span></a> point
@@ -56,11 +56,11 @@ description:
             <img src="assets/buckwheat.jpeg" alt="buckwheat cat" class="history-img">
           </div>
           <p>
-            Anne also was extremely capitalistic. She tried to patent her Ragdoll breed, enacting a
+            Anne was extremely capitalistic. She tried to patent her Ragdoll breed, enacting a
             fee from anyone else breeding them. While we appreciate Anne for bringing about the
-            Ragdoll breed, we are thankful other breeders took over establishing Ragdolls. They
-            understandingly divorced themselves from Anne and worked to establish the Ragdoll as
-            a new breed, eligible for registration with the cat registries.
+            Ragdoll breed, we are thankful other breeders took over establishing Ragdolls as a new breed. Breeders
+            decided seperated themselves from Anne and worked to establish the Ragdoll as
+            a new breed; eligible for registration with the cat registries.
           </p>
           <h4 class="header">Grumpy Cat</h4>
           <div class="ragdoll-history-img">
@@ -70,10 +70,10 @@ description:
           </div>
           <p>
 
-            Most strangely the most well-known Ragdoll which greatly enhanced public interest in
-            Ragdolls in the 1990’s was NOT a Ragdoll: the internet sensation Grumpy Cat. While
+            Most strangely the most well-known Ragdoll, which greatly enhanced public interest in
+            Ragdolls in the 1990’s was NOT a Ragdoll - the internet sensation Grumpy Cat. While
             Grumpy Cat had the markings of your typical Ragdoll, he was of unknown mixed breeds.
-            He had multiple genetic defects producing his grumpy appearance; a large underbite
+            He had multiple genetic defects, producing his grumpy appearance; a large underbite
             and feline dwarfism. He became an internet sensation quickly, stirring a lot of interest in
             the color and markings typical of Ragdolls. Today Ragdolls retain their own fans based
             on their loving natures and NON grumpy appearance. Their beauty and loving natures
@@ -81,7 +81,7 @@ description:
           </p>
         </article>
         <article>
-          <h1 class="header center">appearance</h1>
+          <h1 class="header-2 center">appearance</h1>
           <p class="">All Ragdolls get their color points from their Siamese/Birman genetic heritage, although it
             may be covered up by other genes. The most known Ragdoll coloring and marking
             combination is called the Bicolor. While we give you explanations of Ragdoll color and
