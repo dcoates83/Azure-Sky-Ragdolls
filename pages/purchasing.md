@@ -985,10 +985,10 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             <strong>1st set (FRCVP)</strong> of vaccines <strong>@ 8 weeks</strong> and a
             veterinary health check, is paid by us.
             <p><strong>2nd set</strong> of vaccines
-            <strong>@ 12 weeks </strong>(FRCVP booster: rhinotracheitis, calcivirus, panleukopenia), and with veterinary health check. This is
+            <strong>@ 12 weeks </strong>(FRCVP booster), and with veterinary health check. This is
             paid by us.
             </p>
-            The first feline leukemia vaccine may be given at this
+            <p>The first feline leukemia vaccine may be given at this
             time but will be added to the purchase price. All kittens react more
             strongly to this set because they now have antibodies.
             <strong>3rd set</strong> of vaccines
