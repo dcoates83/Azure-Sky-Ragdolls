@@ -1038,7 +1038,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             All kittens <strong>are completely litter trained before the go home</strong>. </p>
 
           <p>
-           As you wait for your kitten to come home,<br> we keep you updated
+           As you wait for your kitten to come home, we keep you updated
             on the progress of your kitten.
             We appreciate your patience in not taking the kittens too early, and
             we understand you do not want to miss out on any of their babyhood.
@@ -1054,7 +1054,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             We will arrange a mutually agreeable pick-up time, date, and place.
           </p>
           <p>
-            Usually, we try to connect owners with other people going the same
+            We try to connect owners with other people going the same
             direction for Kitten Pooling. This save owners time and money and is
             less stressful for the kitten as it is travelling with a sibling.
           </p>
