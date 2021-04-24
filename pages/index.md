@@ -60,7 +60,7 @@ section: home
             <h2 class="header">
               <span class="king">Kings</span> <span class="amp">&</span> Queens
             </h2>
-            <p>We extensivly genetic test all of our Kings and Queens for over <strong>over 200 genetic diseases.</strong> </p>
+            <p>We extensively genetic test all of our Kings and Queens for over <strong>over 200 genetic diseases.</strong> </p>
 
 <!-- maybe remove  -->
 
@@ -92,7 +92,7 @@ section: home
             <div class="queen-text">
             <!-- text -->
               <h4>Seal, Bi-color</h4>
-              <h4>Mellow, and likes sleep and likes to sleep with our dog</h4>
+              <h4>Mr Mellow, and likes sleep and likes to sleep with our dog</h4>
             </div>
           </div>
           <div class="parent">
