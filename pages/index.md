@@ -92,6 +92,7 @@ section: home
             <div class="queen-text">
             <!-- text -->
               <h4>Seal, Bi-color</h4>
+              <h4>Mellow, and likes sleep and likes to sleep with our dog</h4>
             </div>
           </div>
           <div class="parent">
@@ -113,7 +114,7 @@ section: home
             <div class="queen-text">
             <!-- text -->
               <h4>Seal, Bi-color</h4>
-              <h4>Seal Point</h4>
+
             </div>
           </div>
           <div class="parent">
@@ -124,12 +125,13 @@ section: home
               <div class="background-header-queen">
                 <div class="">
                   <h4 class="queen-header">queen</h4>
-                  <h5 class="queen-sub-header">- Amethyst -</h5>
+                  <h5 class="queen-sub-header">- Amethys -</h5>
                 </div>
               </div>
             </div>
             <div class="queen-text">
               <h4>
+              <!-- text -->
                 Lilac, a dilute of Chocolate, is the rarest and most subtle
                 color.
               </h4>
@@ -150,7 +152,8 @@ section: home
               </div>
             </div>
             <div class="queen-text">
-              <h4>Blue Sepia, Mink, Mitted.</h4>
+              <h4>Blue, Mink, Mitted.</h4>
+              <!-- text -->
               <h4>Still developing her beautiful coat.</h4>
             </div>
           </div>
@@ -167,9 +170,9 @@ section: home
               </div>
             </div>
             <div class="queen-text">
+            <!-- text -->
               <h4>Pic of Aiyla’s Mom about 1 year old.</h4>
-              <h4>This is what Aiylas Coat will look like.</h4>
-              <h4>Sepia Minks have the plushest, softest coats.</h4>
+              <h4>Minks have the fluffiest, plushest, softest coats.</h4>
             </div>
           </div>
           <div class="parent">
@@ -185,8 +188,9 @@ section: home
               </div>
             </div>
             <div class="queen-text">
+            <!-- text -->
               <h4>
-                Because Athena comes from Polish lines her coat will be very
+                Because Athena comes from Polish lines her coat will be extremly
                 fluffy.
               </h4>
               <h4>Athena likes to cuddle at bedtime</h4>
