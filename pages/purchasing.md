@@ -1011,13 +1011,6 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           </p>
           <p>
 
-         <h>   <strong>Each kitten gets a stuffy</strong> they pick, and
-            <strong>their own home quilted crate blanket</strong> out for them
-            to play and sleep in for a month before they go to their new home.
-            <em>We highly recommend not washing these</em> for a while as
-            <em>they will be a significantaly more comfortable</em> for your
-            kitten when it first arrives at your home.
-          </p>
           <h4>Food:</h4>
           <p>
             Your kitten is
