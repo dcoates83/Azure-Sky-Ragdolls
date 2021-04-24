@@ -992,10 +992,9 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             </p>
             <p>
             <strong>3rd set</strong> of vaccine
-            <strong>@ 16 weeks</strong> (leukemia booster)
-            <span class ="underline"> must be done by the buyer.</span> The rabies vaccine may be added at your personal discretion, <em> if opted for, this will be
-              to your kitten’s purchase price.</span
-            >
+            <strong>@ 16 weeks</strong> (Leukemia Booster)
+            <span class ="underline"> must be done by the buyer.</span> The rabies vaccine may be added at your personal discretion, if opted for, <em>this will be
+              to your kitten’s purchase price.</em>
             </p>
             <p>
 
