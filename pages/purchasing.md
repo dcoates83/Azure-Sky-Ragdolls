@@ -252,8 +252,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
                       d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0"
                     />
                   </svg>
-                  A genetic health
-                  <span class="bold">guarantee</span>
+                  A <span class="bold">genetic health
+                  guarantee</span>
                 </li>
                 <li>
                   <svg
