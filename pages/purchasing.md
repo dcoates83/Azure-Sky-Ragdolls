@@ -1013,15 +1013,15 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
 
           <h4>Food:</h4>
           <p>
-            Your kitten is
+            Your kitten is weaned
             <strong>on a mix of dry and wet (canned)</strong> foods when it goes
             home. We feed the kittens 6x a day, with a 50/50 mix of
             canned food mushed into dry Kitten Chow.
           </p>
-          <h4>Spay & Neutered:</h4>
+          <h4>Spayed and Neutered:</h4>
           <p>
             <strong>All</strong> our kittens will be
-            <strong>spayed/neutered</strong> prior to going home.
+            <strong>spayed/neutered</strong>, prior to going home.
           </p>
           <h4>Socialization:</h4>
           <p>
@@ -1030,28 +1030,13 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             Sophia, of course is constantly “on the job”.
             </p>
             <h2> The socialization that we do, before
-            they are 2 months old is extremely important to having a well-
+            they are 2 months old and go to you home <br> is extremely important to having a well-
             balanced, happy cat.
           </h2>
           <h4>Litter:</h4>
           <p>
-            All kittens <strong>are completely litter trained.</strong> </p>
-            <p>
-            We use
-            Fresh4Life cat litter. It has little dust, clumps easily and is
-            cheaper than the fancy brands of litter. Do not use scented cat
-            litter. Cats hate it and it spreads the smell of feces.
-            <em>Expect your kitten to make a few oops</em> when they get to
-            your place. <em>Everything is scary and overwhelming.</em> Place the
-            litter box immediately outside of their crate (their safe space).<em>
-              If they make an oops wipe it up and put it into the cat box. Do
-              not throw it out or scoop until they have figured out where the
-              bathroom is at your place.</em
-            >
-            Cats are inherently clean creatures and will readily take to the new
-            litter box if you do this. Make sure you have a litter box low
-            enough for your kitten to get into. Later you can get a high one.
-          </p>
+            All kittens <strong>are completely litter trained before the go home</strong> </p>
+
           <h2>
             As you wait for your kitten to come home, we will keep you updated
             on the progress of your kitten
