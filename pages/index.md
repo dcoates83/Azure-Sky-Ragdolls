@@ -60,7 +60,9 @@ section: home
             <h2 class="header">
               <span class="king">Kings</span> <span class="amp">&</span> Queens
             </h2>
-            <p>We extensivly genetic test all of our Kings and Queens. For over <strong>over 200 genetic diseases.</strong> </p>
+            <p>We extensivly genetic test all of our Kings and Queens for over <strong>over 200 genetic diseases.</strong> </p>
+
+<!-- maybe remove  -->
 
             <p>
               This is to ensure buyers receive a healthy and quality cat.
@@ -83,12 +85,13 @@ section: home
               <div class="background-header-king">
                 <div class="">
                   <h4 class="king-header">King</h4>
-                  <h5 class="king-sub-header">- Tsar -</h5>
+                  <h5 class="king-sub-header">- Tzar -</h5>
                 </div>
               </div>
             </div>
             <div class="queen-text">
-              <h4>Carries recessive Blue gene.</h4>
+            <!-- text -->
+              <h4>Seal, Bi-color</h4>
             </div>
           </div>
           <div class="parent">
@@ -108,7 +111,9 @@ section: home
               </div>
             </div>
             <div class="queen-text">
-              <h4>seal point, bicolor</h4>
+            <!-- text -->
+              <h4>Seal, Bi-color</h4>
+              <h4>Seal Point</h4>
             </div>
           </div>
           <div class="parent">
