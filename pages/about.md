@@ -81,13 +81,13 @@ description:
           </p>
         </article>
         <article>
-          <h1 class="header-2 center">appearance</h1>
-          <p class="">All Ragdolls get their color points from their Siamese/Birman genetic heritage, although it
+          <h1 class="header-2 center">Appearance</h1>
+          <p class="">All Ragdolls get their color points from their Siamese/Birman genetic heritage. Although it
             may be covered up by other genes. The most known Ragdoll coloring and marking
             combination is called the Bicolor. While we give you explanations of Ragdoll color and
             markings later, Bicolors are characterized by white markings overlaying the dark points.
             Bicolors have white boots, mitts, belly, bib, and a white V over the nose.</p>
-          <img src="assets/r-apperance.jpg" alt="" class="background-image">
+          <img src="assets/r-apperance.jpg" alt="cat looking up" class="background-image">
           <h3 class="header">Eyes</h3>
           <p class="">
             Unlike other cat’s eyes who change from Blue, most Ragdolls eyes stay an intense
@@ -96,8 +96,8 @@ description:
             Blue. While Mink eyes can be gold, but most are green. Non-Mink Ragdolls have Blue
             eyes.</p>
           <div class="ragdoll-history-img">
-            <img src="assets/r-eyes.jpg" alt="" class="heading-img">
-            <img src="assets/r-eyes-green.jpeg" alt="" srcset="" class="heading-img"></div>
+            <img src="assets/r-eyes.jpg" alt="eyes of a ragdoll" class="heading-img">
+            <img src="assets/r-eyes-green.jpeg" alt="green ragdoll eyes" class="heading-img"></div>
         </article>
         <article>
           <h3 class="header">personality</h3>
