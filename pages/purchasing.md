@@ -1084,7 +1084,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
 <input
     type="hidden"
     name="_feedback.success.title"
-    value="Thanks for your interst in out kittens, we will be in touch as soon as we can!"
+    value="Thanks for your interest in out kittens, we will be in touch as soon as we can!"
   />
 <input
                 required
