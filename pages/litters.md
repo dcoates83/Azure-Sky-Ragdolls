@@ -28,7 +28,7 @@ month of pregnancy.</strong></p>
           </p>
 <p><strong>We space litters so Queens get the best possible care, kittens
 get their best socialization and Mommas get a break.</strong></p>
-      
+
             <ol>
             <p><strong class="underline">Remember</strong></p>
             <li>
@@ -39,40 +39,40 @@ get their best socialization and Mommas get a break.</strong></p>
             </li>
             <li>
             If all the kittens are taken from a litter <strong>your deposit automatically</strong> moves to
+
 the next litter <span class="underline">until you get a kitten.</span>
-            </li>
-            <li>
-              You can change your mind re sex, color, coat, and markings.
-            </li>
-          </ol>
-          <h2>See all new photos of our kittens on our 
-          <a href="https://www.facebook.com/Azure-Sky-Ragdolls-2203345016408284/" target="_blank" class="nav-link icoFacebook" title="Facebook"><span class="underline">Facebook!</span></a> </h2>
-        <section>
+
+</li>
+<li>
+You can change your mind re sex, color, coat, and markings.
+</li>
+</ol>
+<h2>See all new photos of our kittens on our
+<a href="https://www.facebook.com/Azure-Sky-Ragdolls-2203345016408284/" target="_blank" class="nav-link icoFacebook" title="Facebook"><span class="underline">Facebook!</span></a> </h2>
+<section>
+
 <h1 class="header-2">Posted Litters</h1>
 
   <div class="posted">
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
-      
+
       <div class="blog-posted">
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
           <a href="{{ post.url | relative_url }}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
-        
-        <time datetime="{{ post.date  }}">
+
+
           <small>
-            <strong>Expected: {{ post.expected | date_to_string }}</strong>
+            <strong>Expected: {{ post.expected }}</strong>
             {% if author %}
               by {{ author.name }}
             {% endif %}
           </small>
-        </time>
-<<<<<<< HEAD
+
         {{ post.excerpt }}
-=======
-        {{ post.excerpt | strip_newlines | truncate: 180  }}
->>>>>>> 77f115341bd00bd155dec491c10dbc58dd0fb1bd
-     
+
       </div>
      {% endfor %}
+
   </div>
 </section>
