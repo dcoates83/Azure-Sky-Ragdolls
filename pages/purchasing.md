@@ -982,11 +982,11 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           </p>
           <h4>Vaccinations:</h4>
           <p>
-            <strong>1st set </strong>of vaccines <strong>@ 8 weeks</strong>(FRCVP) and a
+            <strong>1st set </strong>of vaccines <strong>@ 8 weeks</strong> (FRCVP) and a
             veterinary health check is paid by us.
             <p><strong>2nd set</strong> of vaccines
-            <strong>@ 12 weeks </strong>,(FRCVP booster and intial leukemia vaccine) and with veterinary health check. This is
-            paid by us.
+            <strong>@ 12 weeks </strong> (FRCVP booster and intial leukemia vaccine) and with veterinary health check. This is
+            paid by us also.
             </p>
             <p>All kittens may be react
             strongly to this set because they now have antibodies.
@@ -999,6 +999,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
               leukemia vaccines may be done at your discretion but will be added
               to your kitten’s purchase price.</span
             >
+            </p>
+            <p>
             Not all vets recommend rabies or leukemia vaccines for indoor cats.
             The rabies and leukemia vaccines in the 3rd set because the FRCVP
             and rabies vaccines should not be given at the same time or
