@@ -1061,11 +1061,12 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <h2>The best day! Picking up your kitten</h2>
 
 <!-- insert a picture -->
- </section>
+
           <!-- Form Header -->
           <h1 class="header-2">
            Adoption Form
           </h1>
+
 <section>
 <p> If you are interested in adopting one of our kittens please fill out
             the form below</p>
