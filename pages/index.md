@@ -190,7 +190,7 @@ section: home
             <div class="queen-text">
             <!-- text -->
               <h4>
-                Because Athena comes from Polish lines her coat will be extremly
+                Athena comes from Polish lines her coat will be extremly
                 fluffy.
               </h4>
               <h4>Athena likes to cuddle at bedtime</h4>
@@ -213,7 +213,7 @@ section: home
                 Aasia is our fluffiest cat at present, reflecting her Mink
                 status.
               </h4>
-              <h4>She is also an absolute Sweet Pea personality wise.</h4>
+              <h4>She is an absolute Sweet Pea</h4>
             </div>
           </div>
         </section>
@@ -221,21 +221,19 @@ section: home
           <div class="container-text">
             <h1 class="header-2 about">Why own a Purebred Ragdoll?</h1>
             <p>
-              <!-- Truly the everyday new Ragdoll owner falls in love with their kitten
-           regardless of what their breeder does in the background. Owning a
-           Purebred Ragdoll should matter to the everyday owner, however.-->
-              A Purebred Ragdoll from an ethical breeder who is
-              <strong>registered with a credible registry</strong> such as TICA
+
+              A Purebred Ragdoll from an ethical breeder, who is
+              <strong>registered with a credible registry</strong> such as TICA,
               works hard to provide owners with a quality, healthy Ragdoll
               kittens
               <strong>without genetic defects or health problems.</strong>
             </p>
             <p>
               <strong>TICA mandates the breeder follow certain rules. </strong
-              >Breeders may NEVER sell a cross breed and
+              >Breeders may NEVER sell a cross breed, and
               <strong>must work to eliminate genetic defects.</strong> All
               breeds are susceptible to their own genetic defects. In Ragdolls
-              the most common defects that show up are HCM
+              the most common defects are HCM
               <strong>(hypertrophic cardiomyopathy)</strong> and PKD
               <strong>(polycystic kidney disease)</strong>.
               <em>These usually show up in the second year </em>AFTER you have
@@ -243,7 +241,7 @@ section: home
             </p>
             <p>
               <em>These defects are</em> <strong>irreversible</strong>
-              <em>and cause</em> <strong>death</strong>. HCM prevalence is 30%
+              <em>and cause</em> <strong>death</strong>. HCM is present 30%
               in untested lines! It is entirely devastating to watch your
               beloved kitten suffer. Usually you must put it down to stop its
               suffering.
@@ -253,20 +251,18 @@ section: home
                 >A quality breeder has worked hard to eliminate genetic
                 defects</strong
               >
-              from the lines they sell by buying only quality Kings and Queens
+              from the lines they sell by buying only quality Kings and Queens,
               and continuously striving to improve the quality of their cats.
               <strong>They do genetic and physical testing</strong> of their
-              Kings and Queens to rule out genetic defects.
+              Kings and Queens to rule out genetic defects and diseases.
             </p>
             <p>
               A good breeder will
-              <strong>always provide a health guarantee</strong> and a Sales
-              contract. Your kitten is replaced if genetic defects occur, and
-              you have a legal sales contract to back this up. Unfortunately,
-              health guarantees mean a higher purchase prices because it costs
-              us more to provide you with those quality kittens but generally
-              this is worth it since you are avoiding costly health problems and
-              devastating heartache.
+              <strong>Always provide a health guarantee</strong> and a Sales
+              agreement. Your kitten is replaced if genetic defects occur, and
+              you have a legal sales agreement to back this up. Unfortunately,
+              health guarantees mean higher purchase prices, because it costs
+              us more to provide you with those quality kittens. This is worth it because you are avoiding costly health problems and devastating heartache.
             </p>
             <h2>
               With Azure Sky Ragdolls you have <br />guaranteed support for the
@@ -280,7 +276,7 @@ section: home
 
             <p>
               The International Cat Association (TICA) is respected worldwide as
-              the leader registry of cats. Other cat fancy associations exist
+              the leader registry of cats. Other cat fancy associations exist,
               but currently TICA <em>is the one most sought after </em>for
               Breeders and Cat Fanciers due to its stringent policies protecting
               and
@@ -297,14 +293,13 @@ section: home
           />
             <p>
               As a source of information, we highly recommend accessing
-              <a href="http://tica.org">TICA.org</a>
+              <a href="http://tica.org"><span class="underline">TICA.org</span></a>
               website. There you can find a wealth of
               <strong>credible and reliable</strong>
-              information not only about all breeds of cats, their care, spaying
-              and neutering, kitten and cat care, breeding, genetics, cat shows
-              and registration but also on picking a breeder and a kitten or
-              cat. As a breeder/owner we find their support second to none and
-              highly recommend visiting the site for current, reliable, and
+              information; about all breeds of cats, their care, spaying
+              and neutering, breeding, genetics, cat shows
+              and registration. As well as picking a breeder and a kitten. As a breeder/owner we find their support second to none, and
+              highly recommend you visit the site for current, reliable, and
               interesting information about all cats.
             </p>
           </div>
@@ -326,11 +321,11 @@ section: home
               significant amount of time looking like Elvis.
             </p>
             <p>
-              We socialize our kittens well. They are part of our home and get
-              used to all the strange noises and sites most homes have. Nanny
+              We socialize our kittens well. They are part of our home and
+              used to all the strange noises and sights most homes have. Nanny
               Sophia of course is constantly “on the job”. Socialization before
-              they are 2 months old is extremely important to having a
-              well-balanced, happy cat.
+               2 months old is extremely important to having a happy,
+              well-balanced cat.
             </p>
             <h2>
               All of our animals receive loving attention and are well
