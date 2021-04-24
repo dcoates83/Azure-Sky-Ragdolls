@@ -1059,6 +1059,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             less stressful for the kitten as it is travelling with a sibling.
           </p>
           <h2>The best day! Picking up your kitten</h2>
+    </section>
 
 <!-- insert a picture -->
 
@@ -1215,9 +1216,9 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
                 Do I want a purebred, or will a rescue cat be more my style?
               </p>
               <p class="faq-desc">
-                Traced back to the original lines via DNA tests, all purebred
-                Mink Ragdolls are recognized by
-                <a href="http://tica.org">TICA</a> as purebred Ragdolls.
+
+               By buying a purebred you get genetic health gaurantee. With a rescue you dont have health gaurantee.
+
               </p>
               <button class="btn-plus">
                 <svg
