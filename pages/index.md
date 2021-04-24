@@ -3,6 +3,7 @@ layout: default
 description: All of our cats live with us as part of our family, we raise healthy ragdoll kittens and make sure that you get the one your family deserves.
 permalink: /
 section: home
+title: Azure Sky Ragdolls
 ---
 
   <body>
