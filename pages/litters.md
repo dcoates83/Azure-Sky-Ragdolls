@@ -50,7 +50,7 @@ the next litter <span class="underline">until you get a kitten.</span>
         <section>
 <h1 class="header-2">Posted Litters</h1>
 
-  <ul class="posted">
+  <div class="posted">
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
       
@@ -67,8 +67,8 @@ the next litter <span class="underline">until you get a kitten.</span>
           </small>
         </time>
         {{ post.excerpt | strip_newlines | truncate: 180  }}
-      {% endfor %}
+     
       </div>
-    
-  </ul>
+     {% endfor %}
+  </div>
 </section>
