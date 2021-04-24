@@ -986,16 +986,15 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             veterinary health check is paid by us.
             <p><strong>2nd set</strong> of vaccines
             <strong>@ 12 weeks </strong> (FRCVP booster and intial leukemia vaccine) and with veterinary health check. This is
-            paid by us also.
-            </p>
-            <p>All kittens may be react
+            paid by us also. All kittens may react
             strongly to this set because they now have antibodies.
+
             </p>
             <p>
-            <strong>3rd set</strong> of (leukemia booser)
+            <strong>3rd set</strong> of (leukemia booster)
             <strong>@ 16 weeks</strong>
             <span class="italic">
-             and the rabies vaccine may be done at your discretion, if both are done or only one, these will be added
+             and the rabies vaccine may be done at your personal discretion, if both are done or only one, these will be added
               to your kitten’s purchase price.</span
             >
             </p>
