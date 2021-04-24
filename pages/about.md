@@ -234,7 +234,7 @@ description:
 
             </div>
 
-
+<h1 class="header-2 center">Variations of white markings</h1>
             <div class="colors-container ">
               <div>
                 <h4 class="color-header">Solid</h4>
@@ -268,7 +268,6 @@ description:
                   face as well but always less than white Bicolors. If there is white on the face the nose
                   leather must be dark and the white area cannot be the distinctive white V of the Bicolor.</p>
               </div>
-
 
             </div>
 
