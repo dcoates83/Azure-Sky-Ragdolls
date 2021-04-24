@@ -988,8 +988,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             <strong>@ 12 weeks </strong>,(FRCVP booster and intial leukemia vaccine) and with veterinary health check. This is
             paid by us.
             </p>
-            <p>The first feline leukemia vaccine may be given at this
-            time but will be added to the purchase price. All kittens react more
+            <p>All kittens may be react
             strongly to this set because they now have antibodies.
             </p>
             <p>
