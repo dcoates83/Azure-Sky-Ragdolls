@@ -68,6 +68,7 @@ kramdown:
 #  - _headers
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed.
 exclude:
