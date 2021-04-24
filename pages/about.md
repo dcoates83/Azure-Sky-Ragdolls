@@ -13,41 +13,36 @@ description:
       <div class="container-text">
         <!-- should be a h1 -->
         <h2 class="header-2 about">About Ragdolls</h2>
-        <p class="">Ragdolls are known worldwide for their affectionate nature, beautiful appearance, and
-          intelligence. Stunning eyes, soft luxurious fur and a variety of coat colors and marking’s
-          hallmark the Ragdoll of today, making them extremely popular.</p>
+        <p class="">Ragdolls are known worldwide for their affectionate nature, stunning appearance, and
+          intelligence. Beautifal eyes, soft luxurious fur, and a variety of coat colors, making them extremely popular.</p>
 
         <!-- ADD QUICK LINKS SECTION -->
         <article class="history">
           <h2 class="header">Ragdolls history</h2>
-          <p class="text">In the 1960s, a regular, non-pedigreed, white domestic longhaired cat named Josephine produced
-            several litters
-            of typical cats. It originated in Riverside,
-            California</a> with a woman named Ann Baker. Josephine was of a <a
-              href="https://en.wikipedia.org/wiki/Persian_cat" title="Persian cat">Persian</a>/<a
-              href="https://en.wikipedia.org/wiki/Turkish_Angora" title="Turkish Angora">Angora</a> type and had
+          <p class="text">In the 1960s a longhaired cat named Josephine produced
+            several litters. It originated in Riverside,
+            California with a woman named Ann Baker. Josephine, was of a <a
+              href="https://en.wikipedia.org/wiki/Persian_cat" title="Persian cat"><span class="underline">Persian</span></a>/<a
+              href="https://en.wikipedia.org/wiki/Turkish_Angora" title="Turkish Angora"><span class="underline">Angora</span></a> type and had
             litters sired by several unknown male <a href="https://en.wikipedia.org/wiki/Birman"
               title="Birman">Birman</a> or
-            <a href="https://en.wikipedia.org/wiki/Burmese_cat" title="Burmese cat">Burmese</a>-like
+            <a href="https://en.wikipedia.org/wiki/Burmese_cat" title="Burmese cat"><span class="underline">Burmese</span></a>-like
             cats, one of which
-            had the <a href="https://en.wikipedia.org/wiki/Siamese_cat" title="Siamese cat">Siamese</a> point
+            had the <a href="https://en.wikipedia.org/wiki/Siamese_cat" title="Siamese cat"><span class="underline">Siamese</span></a> point
             coloration.
             Josephine later produced
             kittens with
             a docile, placid temperament, affectionate nature, and a tendency to go limp and relaxed when picked up.
           </p>
           <div class="ragdoll-history-img">
-            <img src="assets/josephine.jpeg" alt="" srcset="">
+            <img src="assets/josephine.jpeg" alt="josephine ragdoll">
           </div>
-          <p class="">
-            When a subsequent litter produced more of the same, Ann Baker purchased several kittens from her neighbor
-            who
-            lived behind her and, believing that she had something special, set out to create what is now known as the
+          <p>
+            When a subsequent litter produced more of the same, Ann Baker believing that she had something special, set out to create what is now known as the
             ragdoll. The breed was selectively bred over many years for desirable traits, such as large size, gentle
-            demeanor,
-            pointed coloration, and a tendency to go limp when picked up.
+            demeanor, pointed coloration, and a tendency to go limp when picked up.
           </p>
-          <p class="">
+          <p>
             Out of those early litters came Blackie, an all black Burmese-like male, and Daddy Warbucks, a seal point
             with
             white feet. Daddy Warbucks sired the founding bi-color female Fugianna, and Blackie sired Buckwheat, a dark
@@ -56,11 +51,11 @@ description:
           </p>
           <div class="ragdoll-history-img">
 
-            <img src="assets/fugianna.jpeg" alt="" srcset="" class="history-img">
-            <img src="assets/Daddy warbucks.jpeg" alt="" class="history-img">
-            <img src="assets/buckwheat.jpeg" alt="" srcset="" class="history-img">
+            <img src="assets/fugianna.jpeg" alt="fugianna cat" class="history-img">
+            <img src="assets/Daddy warbucks.jpeg" alt="daddy warbucks cat" class="history-img">
+            <img src="assets/buckwheat.jpeg" alt="buckwheat cat" class="history-img">
           </div>
-          <p class="">
+          <p>
             Anne also was extremely capitalistic. She tried to patent her Ragdoll breed, enacting a
             fee from anyone else breeding them. While we appreciate Anne for bringing about the
             Ragdoll breed, we are thankful other breeders took over establishing Ragdolls. They
@@ -70,10 +65,10 @@ description:
           <h4 class="header">Grumpy Cat</h4>
           <div class="ragdoll-history-img">
 
-            <img src="assets/grumpycat.jpeg" alt="" srcset="" class="heading-img">
+            <img src="assets/grumpycat.jpeg" alt="grumpy cat" class="heading-img">
 
           </div>
-          <p class="">
+          <p>
 
             Most strangely the most well-known Ragdoll which greatly enhanced public interest in
             Ragdolls in the 1990’s was NOT a Ragdoll: the internet sensation Grumpy Cat. While
