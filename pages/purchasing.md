@@ -1018,7 +1018,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             home. We feed the kittens 6x a day, with a 50/50 mix of
             canned food mushed into dry Kitten Chow.
           </p>
-          <h4>Spray/Neutered:</h4>
+          <h4>Spay & Neutered:</h4>
           <p>
             <strong>All</strong> our kittens will be
             <strong>spayed/neutered</strong> prior to going home.
@@ -1026,8 +1026,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <h4>Socialization:</h4>
           <p>
             Since our kittens are part of our home and get
-            used to all the strange noises and sites most homes have. Nanny
-            Sophia of course is constantly “on the job”. Socialization before
+            used to all the strange noises and sights that homes have. Nanny
+            Sophia, of course is constantly “on the job”. Socialization before
             they are 2 months old is extremely important to having a well-
             balanced, happy cat.
           </p>
