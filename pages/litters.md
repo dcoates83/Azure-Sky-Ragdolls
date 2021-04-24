@@ -66,7 +66,11 @@ the next litter <span class="underline">until you get a kitten.</span>
             {% endif %}
           </small>
         </time>
+<<<<<<< HEAD
         {{ post.excerpt }}
+=======
+        {{ post.excerpt | strip_newlines | truncate: 180  }}
+>>>>>>> 77f115341bd00bd155dec491c10dbc58dd0fb1bd
      
       </div>
      {% endfor %}
