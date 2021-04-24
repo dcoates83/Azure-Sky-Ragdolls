@@ -1006,8 +1006,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <h2>We prepare your Kitten for going home!</h2>
           <h4>Crating:</h4>
           <p>
-            <em>We do not crate train your kitten</em>, but we do
-            <em>make them comfertable with being in their crate</em>. You may buy one of our crates for the kitten to help make them feel more comfertable in for going home.
+            <strong>We do not crate train your kitten</strong>, but we do
+            <em>make them comfertable being in their crate</em>. You may buy one of our crates for your kitten if you need.
           </p>
           <p>
             <strong>Each kitten gets a Gund stuffy</strong> they pick, and
