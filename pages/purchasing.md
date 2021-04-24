@@ -1059,6 +1059,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             less stressful for the kitten as it is travelling with a sibling.
           </p>
           <h2>The best day! Picking up your kitten</h2>
+    </div>
+
     </section>
 
 <!-- insert a picture -->
@@ -1094,7 +1096,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
 <input
                 required
                 type="text"
-                name="lLast Name"
+                name="Last Name"
                 id="lastName"
                 placeholder="Last"
               />
@@ -1416,8 +1418,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
             <article class="question">
               <p class="faq-q">Are ragdolls hypoallergenic?</p>
               <p class="faq-desc">
-                No, this myth comes from their lack of an undercoat. Shedding of
-                this undercoat is what causes many allergies.
+                No, this myth comes from their lack of an undercoat. Shedding
+                this undercoat is what causes many allergies. So Ragdolls cause less allergic reactions.
               </p>
               <button class="btn-plus">
                 <svg
@@ -1465,7 +1467,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
           <!-- middle -->
           <div class="square">
             <article class="question">
-              <p class="faq-q">Should I go on a call-list or a waitlist?</p>
+              <p class="faq-q">Should I go on a call-list?</p>
               <p class="faq-desc">
                 Its best to reserve a kitten: Ragdolls are highly coveted so 95%
                 of our kittens are sold by reservation with a deposit before
@@ -1562,10 +1564,9 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
               </button>
             </article>
             <article class="question">
-              <p class="faq-q">What is your kittens health guarentee?</p>
+              <p class="faq-q">Do your kittens come litter trained?</p>
               <p class="faq-desc">
-                Quite extensive, check it out
-                <a href="./purchasing.html#health">here!</a>
+                Yes, they do!
               </p>
               <button class="btn-plus">
                 <svg
@@ -1585,11 +1586,11 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
               </button>
             </article>
             <article class="question">
-              <p class="faq-q">Why are your cats genetically tested?</p>
+              <p class="faq-q">Are your cats genetically tested?</p>
               <p class="faq-desc">
-                <a href="http://tica.org">Tica</a> mandates the breeder follow
-                certain rules. Breeders may NEVER sell a cross breed and must
-                work to eliminate genetic defects.
+                <a href="http://tica.org">Tica</a> mandates the breeder strictly follow
+                certain rules. We never want to breaks someones heart and sell you unhealthy cat.
+
               </p>
               <button class="btn-plus">
                 <svg
