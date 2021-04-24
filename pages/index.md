@@ -6,7 +6,7 @@ section: home
 ---
 
   <body>
-
+<!-- change image to different image of dandelion -->
         <section class="landing">
           <img class="hero-background-image" src="assets/Landing.jpg"  />
 
@@ -38,10 +38,9 @@ section: home
             <!-- <p></p> -->
             <!-- <div class="tica"></div> -->
             <p>
-              Azure Sky Ragdolls is, and always has been, a closed cattery;
+              Azure Sky Ragdolls is, and always has been, a closed cattery
               meaning Buyers may not visit inside the cattery. This is to
-              protect the kittens and parents from disease and parasites that
-              may be brought into the cattery.
+              protect the kittens and parents from disease and parasites.
             </p>
           </div>
         </section>
@@ -61,13 +60,10 @@ section: home
             <h2 class="header">
               <span class="king">Kings</span> <span class="amp">&</span> Queens
             </h2>
-            <p>We use extensive genetic testing on our Kings and Queens.</p>
+            <p>We extensivly genetic test all of our Kings and Queens. For over <strong>over 200 genetic diseases.</strong> </p>
+
             <p>
-              Our cats are tested genetically for predisposition to
-              <strong>over 200 genetic diseases.</strong>
-            </p>
-            <p>
-              Testing is to ensure buyers receive a healthy and quality cat.
+              This is to ensure buyers receive a healthy and quality cat.
             </p>
           </div>
           <!-- <div class="queen-grid">
