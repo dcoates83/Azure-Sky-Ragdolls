@@ -736,7 +736,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     </div>
     <div class="input-grid">
       <label for="phone">Phone</label><label for="email">Email</label>
-      <input required type="tel" name="phone" id="Phone" />
+      <input required type="phone" name="phone" id="Phone" />
       <input required type="email" name="Email" id="email" />
     </div>
     <label for="address">Address</label>
@@ -813,7 +813,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       the world's largest genetic registry of purebred and domestic
       cats.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor">
        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
@@ -826,7 +826,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       Mink Ragdolls are recognized by
       <a rel="noreferrer" href="http://tica.org">TICA</a> as purebred Ragdolls.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor">
        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
@@ -839,7 +839,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      <p class="faq-desc">
       By buying a purebred you get genetic health guarantee. With a rescue you don't have health guarantee.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -854,7 +854,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       <a rel="noreferrer" href="https://tica.org/phocadownload/rd.pdf">Standards</a>
       in our breeding program. To constantly improve our cats.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -862,7 +862,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     <article class="question">
      <p class="faq-q">Can I breed my Ragdoll?</p>
      <p class="faq-desc">Unless sold as a breeder all kittens come spayed/neutered</p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -874,7 +874,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       they can be. If you prefer a specific sex, we can hold one from
       the upcoming litters if one currently isn't available.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -888,7 +888,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       Kittens can go home week 13! After fully
       recuperated from their spay/neutered and from their shots.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -900,7 +900,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       a dog. They have a mild temperament and personality traits
       similar to a dog’s.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -912,7 +912,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       <a href="./about.html#colors">colors</a>, but its really up to
       you!
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -925,7 +925,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       Ragdolls are actually<a rel="noreferrer" href="http://purrfectcatbreeds.com/cat-breeds-list/longest-living-cat-breeds/">
        one of the longest living cat breeds </a>, they generally live between 15-20 years.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -936,7 +936,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       No, this myth comes from their lack of an undercoat. Shedding
       this undercoat is what causes many allergies. So Ragdolls cause less allergic reactions.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -947,7 +947,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       Approx. around $800 -$1000. Check out this
       <a rel="noreferrer" href="https://www.calgaryhumane.ca/adopt/pet-budget/">article</a>.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -962,7 +962,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       of our kittens are sold by reservation with a deposit before
       birth.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -975,7 +975,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       Indoor cats live on average 10-15 years, while outdoor cats live
       on average 2-5 years.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -985,7 +985,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      <p class="faq-desc">
       Ragdoll cats are known to be gentle, calm and sociable.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -999,7 +999,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       haired cat. And long haired cats shed, period. It goes with the
       territory.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -1009,7 +1009,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      <p class="faq-desc">
       Yes, they do!
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
@@ -1020,7 +1020,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
       <a rel="noreferrer" href="http://tica.org">Tica</a> mandates the breeder strictly follow
       certain rules. We never want to breaks someones heart and sell you unhealthy cat.
      </p>
-     <button class="btn-plus">
+     <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
      </button>
