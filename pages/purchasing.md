@@ -754,12 +754,13 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
          id="postal" 
          placeholder="Postal code">
     </div>
-    
-    <div class="email-help">
+    <div class="input-grid">
+      <div class="email-help">
      We'll <span class="underline">never</span> share your information with anyone else. 
-    </div>
-    <div class="email-help">
+      </div>
+     <div class="email-help">
     We need verifiable info to prove that you are a person, and not a cat mill. 
+      </div>
     </div>
     <label class="family" for="family">Tell us about you, your family, and your home.</label>
 
