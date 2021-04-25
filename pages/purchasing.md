@@ -727,25 +727,41 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
   <!-- form -->
   <div class="form-container">
    <form action="https://submit-form.com/AqUcFuf1" method="" id="form">
-
-    <div class="name-container">
      <label for="firstName">Full Name</label>
+     <div class="input-grid">
      <input type="hidden" name="_feedback.success.title"
       value="Thanks for your interest in out kittens, we will be in touch as soon as we can!" />
      <input required type="text" name="First Name" id="firstName" placeholder="First" />
      <input required type="text" name="Last Name" id="lastName" placeholder="Last" />
     </div>
-
-    <label for="phone">Phone</label>
-    <input required type="tel" name="phone" id="Phone" />
-    <label for="address">Address</label>
-    <input required type="addres" name="Address" id="address" />
-    <label for="email">Email</label>
-    <input required type="email" name="Email" id="email" />
-    <div id="email-help">
-     We'll never share your information with anyone else.
+    <div class="input-grid">
+      <label for="phone">Phone</label><label for="email">Email</label>
+      <input required type="tel" name="phone" id="Phone" />
+      <input required type="email" name="Email" id="email" />
     </div>
-    <label for="family">Tell us about you, your family, and your home.</label>
+    <label for="address">Address</label>
+    <div class="input-grid">
+      <input type="street" required 
+         id="street" 
+         placeholder="Street">
+      <input type="city" required 
+         id="city" 
+         placeholder="City">
+      <input type="provice" required 
+         id="province" 
+         placeholder="Province">
+      <input type="postal" required 
+         id="postal" 
+         placeholder="Postal code">
+    </div>
+    
+    <div class="email-help">
+     We'll <span class="underline">never</span> share your information with anyone else. 
+    </div>
+    <div class="email-help">
+    We need verifiable info to prove that you are a person, and not a cat mill. 
+    </div>
+    <label class="family" for="family">Tell us about you, your family, and your home.</label>
 
     <textarea required name="About us" id="family" cols="30" rows="6"
      placeholder="-What occupations do your household members hold?&#10;-Tell us about any children, and what ages they are?&#10;-Any other pets in your home?&#10;-Have you owned a cat/Ragdoll/purebred cat or pets before?&#10;-Who is the kitten for?&#10;-Who will be responsible for caring for the kitten?"></textarea>
