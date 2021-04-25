@@ -32,9 +32,9 @@ title: Azure Sky Ragdolls
         <section id="about" class="section">
           <div class="container-text">
             <h1 class="header-2 about">About Us</h1>
-            <h5 class="about-subheader">
+            <h2 class="about-subheader">
               All of our cats live with us as part of our family
-            </h5>
+            </h2>
 
             <!-- <p></p> -->
             <!-- <div class="tica"></div> -->
@@ -294,7 +294,7 @@ title: Azure Sky Ragdolls
           />
             <p>
               As a source of information, we highly recommend accessing
-              <a href="http://tica.org"><span class="underline">TICA.org</span></a>
+              <a rel="noreferrer" href="http://tica.org"><span class="underline">TICA.org</span></a>
               website. There you can find a wealth of
               <strong>credible and reliable</strong>
               information; about all breeds of cats, their care, spaying
