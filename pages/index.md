@@ -80,12 +80,12 @@ title: Azure Sky Ragdolls
           <!-- </div> -->
           <div class="parent">
             <div class="div1">
-              <img src="assets/tsar.jpeg" alt="" class="tile-img" />
+              <img src="assets/tsar.jpeg" alt="Tzar" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-king">
-                <div class="">
-                  <h4 class="king-header">King</h4>
+                <div >
+                  <h5 class="king-header">King</h5>
                   <h5 class="king-sub-header">- Tzar -</h5>
                 </div>
               </div>
@@ -100,13 +100,13 @@ title: Azure Sky Ragdolls
             <div class="div1">
               <img
                 src="assets/sapphire-with-kitten.jpeg"
-                alt=""
+                alt="sapphire"
                 class="tile-img"
               />
             </div>
             <div class="div2">
               <div class="background-header-queen">
-                <div class="">
+                <div >
                   <h4 class="queen-header">queen</h4>
                   <h5 class="queen-sub-header">- Sapphire -</h5>
                 </div>
@@ -120,7 +120,7 @@ title: Azure Sky Ragdolls
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="assets/Amethyst.jpeg" alt="" class="tile-img" />
+              <img src="assets/Amethyst.jpeg" alt="amethys" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -142,7 +142,7 @@ title: Azure Sky Ragdolls
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="assets/aiyla.jpeg" alt="" class="tile-img" />
+              <img src="assets/aiyla.jpeg" alt="ailya" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -160,7 +160,7 @@ title: Azure Sky Ragdolls
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="assets/Ailya mom.JPG" alt="" class="tile-img" />
+              <img src="assets/Ailya mom.JPG" alt="ailyas mom" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -178,7 +178,7 @@ title: Azure Sky Ragdolls
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="assets/athena-catbed.jpeg" alt="" class="tile-img" />
+              <img src="assets/athena-catbed.jpeg" alt="athena" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -199,7 +199,7 @@ title: Azure Sky Ragdolls
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="assets/Aasia.jpeg" alt="" class="tile-img" />
+              <img src="assets/Aasia.jpeg" alt="aasia" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-queen">
@@ -309,9 +309,9 @@ title: Azure Sky Ragdolls
           <div class="container-text">
             <h2>Our assistant kitten worker - Nanny Sophia</h2>
             <div class="sophia">
-              <img src="assets/sophia-2.png" alt="" /><img
+              <img src="assets/sophia-2.png" alt="sophia" /><img
                 src="assets/sopia-3.jpeg"
-                alt=""
+                alt="sophia"
               />
             </div>
             <p>
