@@ -85,8 +85,8 @@ title: Azure Sky Ragdolls
             <div class="div2">
               <div class="background-header-king">
                 <div >
-                  <h5 class="king-header">King</h5>
-                  <h5 class="king-sub-header">- Tzar -</h5>
+                  <h4 class="king-header">King</h5>
+                  <h4 class="king-sub-header">- Tzar -</h5>
                 </div>
               </div>
             </div>
