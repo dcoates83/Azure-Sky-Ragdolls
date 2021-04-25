@@ -48,7 +48,7 @@ You can change your mind re sex, color, coat, and markings.
 </li>
 </ol>
 <h2>See all new photos of our kittens on our
-<a href="https://www.facebook.com/Azure-Sky-Ragdolls-2203345016408284/" target="_blank" class="nav-link icoFacebook" title="Facebook"><span class="underline">Facebook!</span></a> </h2>
+<a rel="noreferrer" href="https://www.facebook.com/Azure-Sky-Ragdolls-2203345016408284/" target="_blank" class="nav-link icoFacebook" title="Facebook"><span class="underline">Facebook!</span></a> </h2>
 <section>
 
 <h1 class="header-2">Posted Litters</h1>
