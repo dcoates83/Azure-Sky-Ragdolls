@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /about
+title: About Ragdolls
 section: about
 description:
   Ragdolls are known worldwide for their affectionate nature, beautiful appearance, and
