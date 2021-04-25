@@ -809,7 +809,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     <article class="question">
      <p class="faq-q">What is Tica?</p>
      <p class="faq-desc">
-      <a href="https://tica.org/">The International Cat Association</a>
+      <a rel="noreferrer" href="https://tica.org/">The International Cat Association</a>
       the world's largest genetic registry of purebred and domestic
       cats.
      </p>
@@ -824,7 +824,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      <p class="faq-desc">
       Traced back to the original lines via DNA tests, all purebred
       Mink Ragdolls are recognized by
-      <a href="http://tica.org">TICA</a> as purebred Ragdolls.
+      <a rel="noreferrer" href="http://tica.org">TICA</a> as purebred Ragdolls.
      </p>
      <button class="btn-plus">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -851,7 +851,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      <p class="faq-q">What is your Breeding Program?</p>
      <p class="faq-desc">
       We use the Tica Ragdoll standards
-      <a href="https://tica.org/phocadownload/rd.pdf">Standards</a>
+      <a rel="noreferrer" href="https://tica.org/phocadownload/rd.pdf">Standards</a>
       in our breeding program. To constantly improve our cats.
      </p>
      <button class="btn-plus">
@@ -922,7 +922,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     <article class="question">
      <p class="faq-q">How long do Cats Live for?</p>
      <p class="faq-desc">
-      Ragdolls are actually<a href="http://purrfectcatbreeds.com/cat-breeds-list/longest-living-cat-breeds/">
+      Ragdolls are actually<a rel="noreferrer" href="http://purrfectcatbreeds.com/cat-breeds-list/longest-living-cat-breeds/">
        one of the longest living cat breeds </a>, they generally live between 15-20 years.
      </p>
      <button class="btn-plus">
@@ -945,7 +945,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      <p class="faq-q">What are the ongoing costs of a Kitten?</p>
      <p class="faq-desc">
       Approx. around $800 -$1000. Check out this
-      <a href="https://www.calgaryhumane.ca/adopt/pet-budget/">article</a>.
+      <a rel="noreferrer" href="https://www.calgaryhumane.ca/adopt/pet-budget/">article</a>.
      </p>
      <button class="btn-plus">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -1017,7 +1017,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     <article class="question">
      <p class="faq-q">Are your cats genetically tested?</p>
      <p class="faq-desc">
-      <a href="http://tica.org">Tica</a> mandates the breeder strictly follow
+      <a rel="noreferrer" href="http://tica.org">Tica</a> mandates the breeder strictly follow
       certain rules. We never want to breaks someones heart and sell you unhealthy cat.
      </p>
      <button class="btn-plus">
