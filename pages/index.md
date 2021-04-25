@@ -54,7 +54,7 @@ title: Azure Sky Ragdolls
            class="background-image"
          /> -->
             <img
-              src="assets/ragdoll-splash.jpg"
+              src="assets/ragdoll-splash-min.jpg"
               alt=""
               class="background-image"
             />
