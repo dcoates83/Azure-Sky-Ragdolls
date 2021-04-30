@@ -6,7 +6,6 @@ section: home
 title: Azure Sky Ragdolls
 ---
 
-  <body>
 <!-- change image to different image of dandelion -->
         <section class="landing">
           <img class="hero-background-image" src="assets/Landing.jpg" alt="main-img" />
@@ -335,4 +334,3 @@ title: Azure Sky Ragdolls
           </div>
         </section>
 
-  </body>
