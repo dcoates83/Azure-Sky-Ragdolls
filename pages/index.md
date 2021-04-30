@@ -6,12 +6,10 @@ section: home
 title: Azure Sky Ragdolls
 ---
 
-        <section class="landing">
+<section class="landing">
           <img class="hero-background-image" src="assets/Landing.jpg" alt="main-img" />
-
           <div class="hero-container">
           <img src="assets/cat-in-box.jpeg" alt="cat in a box"  class="second-hero"/>
-
             <div class="rectangle">
               <p class="hero-text">Fall in love with your new friend</p>
             </div>
@@ -19,63 +17,44 @@ title: Azure Sky Ragdolls
           <p class="registered-text registered">
             All of our cats are tica Registered
           </p>
-
           <img
             src="assets/Tica.png"
             alt=""
             srcset=""
             class="registered-tica"
           />
-        </section>
-        <section id="about" class="section">
+</section>
+<section id="about" class="section">
           <div class="container-text">
             <h1 class="header-2 about">About Us</h1>
             <h2 class="about-subheader">
               All of our cats live with us as part of our family
             </h2>
-
-            <!-- <p></p> -->
-            <!-- <div class="tica"></div> -->
             <p>
               Azure Sky Ragdolls is, and always has been, a closed cattery
               meaning Buyers may not visit inside the cattery. This is to
               protect the kittens and parents from disease and parasites.
             </p>
           </div>
-        </section>
-        <section id="breeding"></section>
-        <section id="queens" class="section">
+</section>
+<section id="queens" class="section">
           <div class="container center">
-            <!-- <img
-           src="/Assets/close-up.jpeg"
-           alt=""
-           class="background-image"
-         /> -->
             <img
               src="assets/ragdoll-splash-min.jpg"
-              alt=""
+              alt="background image of cat"
               class="background-image"
             />
             <h2 class="header">
               <span class="king">Kings</span> <span class="amp">&</span> Queens
             </h2>
             <p>We extensively genetic test all of our Kings and Queens for over <strong>over 200 genetic diseases.</strong> </p>
-
-<!-- maybe remove  -->
-
             <p>
               This is to ensure buyers receive a healthy and quality cat.
             </p>
           </div>
-          <!-- <div class="queen-grid">
-       <div class="queen-container">
-
-       </div>
+       <div class="queen-container"></div>
        <div class="content-container">
-
-
-       </div> -->
-          <!-- </div> -->
+       </div>
           <div class="parent">
             <div class="div1">
               <img src="assets/tsar.jpeg" alt="Tzar" class="tile-img" />
@@ -83,13 +62,12 @@ title: Azure Sky Ragdolls
             <div class="div2">
               <div class="background-header-king">
                 <div >
-                  <h4 class="king-header">King</h5>
-                  <h4 class="king-sub-header">- Tzar -</h5>
+                  <h4 class="king-header">King</h4>
+                  <h4 class="king-sub-header">- Tzar -</h4>
                 </div>
               </div>
             </div>
             <div class="queen-text">
-            <!-- text -->
               <h4>Seal, Bi-color</h4>
               <h4>Mr Mellow, and likes sleep and likes to sleep with our dog</h4>
             </div>
@@ -111,9 +89,7 @@ title: Azure Sky Ragdolls
               </div>
             </div>
             <div class="queen-text">
-            <!-- text -->
               <h4>Seal, Bi-color</h4>
-
             </div>
           </div>
           <div class="parent">
@@ -130,11 +106,9 @@ title: Azure Sky Ragdolls
             </div>
             <div class="queen-text">
               <h4>
-              <!-- text -->
                 Lilac, a dilute of Chocolate, is the rarest and most subtle
                 color.
               </h4>
-
               <h4>Amethyst is sweet and snuggly.</h4>
             </div>
           </div>
@@ -164,12 +138,10 @@ title: Azure Sky Ragdolls
               <div class="background-header-queen">
                 <div class="">
                   <h4 class="queen-header">Ailya's Mom</h4>
-                  <!-- <h5 class="queen-sub-header"> - Ailya -</h5> -->
                 </div>
               </div>
             </div>
             <div class="queen-text">
-            <!-- text -->
               <h4>Pic of Aiyla’s Mom about 1 year old.</h4>
               <h4>Minks have the fluffiest, plushest, softest coats.</h4>
             </div>
@@ -187,7 +159,6 @@ title: Azure Sky Ragdolls
               </div>
             </div>
             <div class="queen-text">
-            <!-- text -->
               <h4>
                 Athena comes from Polish lines her coat will be extremly
                 fluffy.
@@ -215,12 +186,11 @@ title: Azure Sky Ragdolls
               <h4>She is an absolute Sweet Pea</h4>
             </div>
           </div>
-        </section>
-        <section id="purebred">
+</section>
+<section id="purebred">
           <div class="container-text">
             <h1 class="header-2 about">Why own a Purebred Ragdoll?</h1>
             <p>
-
               A Purebred Ragdoll from an ethical breeder, who is
               <strong>registered with a credible registry</strong> such as TICA,
               works hard to provide owners with a quality, healthy Ragdoll
@@ -268,28 +238,22 @@ title: Azure Sky Ragdolls
               life of your kitten.
             </h2>
           </div>
-        </section>
-        <section id="tica">
+</section>
+<section id="tica">
           <div class="container-text">
             <h4>Why Tica and what is it?</h4>
-
             <p>
               The International Cat Association (TICA) is respected worldwide as
               the leader registry of cats. Other cat fancy associations exist,
               but currently TICA <em>is the one most sought after </em>for
               Breeders and Cat Fanciers due to its stringent policies protecting
-              and
-              <strong
-                >promoting the health, welfare, and quality of all purebred
-                cats.</strong
-              >
+              and<strong>promoting the health, welfare, and quality of all purebred cats.</strong>
             </p>
          <img
             src="assets/Tica.png"
             alt=""
             srcset=""
-            class="tica"
-          />
+            class="tica"/>
             <p>
               As a source of information, we highly recommend accessing
               <a rel="noreferrer" href="http://tica.org"><span class="underline">TICA.org</span></a>
@@ -302,15 +266,13 @@ title: Azure Sky Ragdolls
               interesting information about all cats.
             </p>
           </div>
-        </section>
-        <section id="sopia">
+</section>
+<section id="sopia">
           <div class="container-text">
             <h2>Our assistant kitten worker - Nanny Sophia</h2>
             <div class="sophia">
-              <img src="assets/sophia-2.png" alt="sophia" /><img
-                src="assets/sopia-3.jpeg"
-                alt="sophia"
-              />
+              <img src="assets/sophia-2.png" alt="sophia" />
+              <img src="assets/sophia-3.jpeg" alt="sophia" />
             </div>
             <p>
               Sophia has been raised with cats since she was little; they are
@@ -331,5 +293,4 @@ title: Azure Sky Ragdolls
               socialized to other cats, people, and dogs.
             </h2>
           </div>
-        </section>
-
+</section>
