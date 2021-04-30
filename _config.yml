@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Azure sky Ragdolls
 email: AzureSkyRagdolls@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   As certified Ragdoll tica breeder in Kamloops, BC, Canada we raise healthy Ragdoll cats that fit perfectly inside your heart. Find Ragdoll kittens here for sale for your family!
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
 # url: "https://dcoates83.github.io/Azure-Sky-Ragdolls" # the base hostname & protocol for your site, e.g. https://example.com
-url: "https://azure-sky-static.netlify.app/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://azureskyragdolls.com/" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /posts/:title

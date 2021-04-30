@@ -6,12 +6,11 @@ section: home
 title: Azure Sky Ragdolls
 ---
 
-<!-- change image to different image of dandelion -->
         <section class="landing">
           <img class="hero-background-image" src="assets/Landing.jpg" alt="main-img" />
 
-<div class="hero-container">
-<img src="assets/cat-in-box.jpeg" alt="cat in a box"  class="second-hero"/>
+          <div class="hero-container">
+          <img src="assets/cat-in-box.jpeg" alt="cat in a box"  class="second-hero"/>
 
             <div class="rectangle">
               <p class="hero-text">Fall in love with your new friend</p>
