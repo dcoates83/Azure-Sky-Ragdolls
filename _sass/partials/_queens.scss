@@ -152,7 +152,9 @@
     border-radius: 0;
     // object-fit: contain;
   }
-
+  .queens-header-container{
+    margin-bottom: 2em !important;
+  }
   .background-header-king {
     background-color: #364f6b;
     // width: 50%;
@@ -204,6 +206,7 @@
     border-bottom: 1px solid white;
     box-shadow: 2px 2px 5px #eee;
   }
+  
 
   .queen-text {
     min-height: 300px;
