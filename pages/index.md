@@ -47,7 +47,7 @@ title: Azure Sky Ragdolls
             <h2 class="header">
               <span class="king">Kings</span> <span class="amp">&</span> Queens
             </h2>
-            <p>We extensively genetic test all of our Kings and Queens for over <strong>over 200 genetic diseases.</strong> </p>
+            <p>We <strong>extensively genetic</strong> test <strong>all</strong> of our Kings and Queens.</p>
             <p>
               This is to ensure buyers receive a healthy and quality cat.
             </p>
@@ -69,7 +69,7 @@ title: Azure Sky Ragdolls
             </div>
             <div class="queen-text">
               <h4>Seal, Bi-color</h4>
-              <h4>Mr Mellow, and likes sleep and likes to sleep with our dog</h4>
+              <h4>Mr Mellow, likes to sleep with our dog</h4>
             </div>
           </div>
           <div class="parent">
@@ -90,6 +90,7 @@ title: Azure Sky Ragdolls
             </div>
             <div class="queen-text">
               <h4>Seal, Bi-color</h4>
+              <h4>She is a real Sweetheart</h4>
             </div>
           </div>
           <div class="parent">
@@ -100,16 +101,16 @@ title: Azure Sky Ragdolls
               <div class="background-header-queen">
                 <div class="">
                   <h4 class="queen-header">queen</h4>
-                  <h5 class="queen-sub-header">- Amethys -</h5>
+                  <h4 class="queen-sub-header">- Amethys -</h4>
                 </div>
               </div>
             </div>
             <div class="queen-text">
               <h4>
                 Lilac, a dilute of Chocolate, is the rarest and most subtle
-                color.
+                color
               </h4>
-              <h4>Amethyst is sweet and snuggly.</h4>
+              <h4>Amethyst is sweet and snuggly</h4>
             </div>
           </div>
           <div class="parent">
@@ -120,14 +121,14 @@ title: Azure Sky Ragdolls
               <div class="background-header-queen">
                 <div class="">
                   <h4 class="queen-header">queen</h4>
-                  <h5 class="queen-sub-header">- Ailya -</h5>
+                  <h4 class="queen-sub-header">- Ailya -</h4>
                 </div>
               </div>
             </div>
             <div class="queen-text">
               <h4>Blue, Mink, Mitted.</h4>
               <!-- text -->
-              <h4>Still developing her beautiful coat.</h4>
+              <h4>Still developing her beautiful coat</h4>
             </div>
           </div>
           <div class="parent">
@@ -191,15 +192,12 @@ title: Azure Sky Ragdolls
           <div class="container-text">
             <h1 class="header-2 about">Why own a Purebred Ragdoll?</h1>
             <p>
-              A Purebred Ragdoll from an ethical breeder, who is
-              <strong>registered with a credible registry</strong> such as TICA,
-              works hard to provide owners with a quality, healthy Ragdoll
-              kittens
-              <strong>without genetic defects or health problems.</strong>
+              A Purebred Ragdoll from an ethical breeder <strong>registered with a credible registry</strong> such as TICA, works hard to provide owners with quality, healthy Ragdoll
+              kittens<strong>without genetic defects or health problems.</strong>
             </p>
             <p>
               <strong>TICA mandates the breeder follow certain rules. </strong
-              >Breeders may NEVER sell a cross breed, and
+              >Breeders may NEVER sell a crossbred, and
               <strong>must work to eliminate genetic defects.</strong> All
               breeds are susceptible to their own genetic defects. In Ragdolls
               the most common defects are HCM
@@ -227,14 +225,14 @@ title: Azure Sky Ragdolls
             </p>
             <p>
               A good breeder will
-              <strong>Always provide a health guarantee</strong> and a Sales
-              agreement. Your kitten is replaced if genetic defects occur, and
-              you have a legal sales agreement to back this up. Unfortunately,
+              <strong>always provide a Health Guarantee</strong> and a Sales
+              Agreement. <em>Your kitten is replaced if genetic defects occur</em>, and
+              you have a Legal Agreement to back this up. Unfortunately,
               health guarantees mean higher purchase prices, because it costs
-              us more to provide you with those quality kittens. This is worth it because you are avoiding costly health problems and devastating heartache.
+              us more to provide you with those quality kittens. <span class="underline">This is worth it because you are avoiding costly health problems and devastating heartache.</span>
             </p>
             <h2>
-              With Azure Sky Ragdolls you have <br />guaranteed support for the
+              With Azure Sky Ragdolls, you have our<br />guaranteed support for the
               life of your kitten.
             </h2>
           </div>
@@ -247,12 +245,11 @@ title: Azure Sky Ragdolls
               the leader registry of cats. Other cat fancy associations exist,
               but currently TICA <em>is the one most sought after </em>for
               Breeders and Cat Fanciers due to its stringent policies protecting
-              and<strong>promoting the health, welfare, and quality of all purebred cats.</strong>
+              and<strong> promoting the health, welfare, and quality of all purebred cats.</strong>
             </p>
          <img
             src="assets/Tica.png"
-            alt=""
-            srcset=""
+            alt="tica logo"
             class="tica"/>
             <p>
               As a source of information, we highly recommend accessing
@@ -261,15 +258,16 @@ title: Azure Sky Ragdolls
               <strong>credible and reliable</strong>
               information; about all breeds of cats, their care, spaying
               and neutering, breeding, genetics, cat shows
-              and registration. As well as picking a breeder and a kitten. As a breeder/owner we find their support second to none, and
-              highly recommend you visit the site for current, reliable, and
+              and registration, as well as picking a breeder and a kitten. As a breeder/owner we find their support second to none, and
+              highly recommend you visit their site for current, reliable, and
               interesting information about all cats.
             </p>
           </div>
 </section>
 <section id="sopia">
           <div class="container-text">
-            <h2>Our assistant kitten worker - Nanny Sophia</h2>
+            <h2>Our assistant kitten worker<br>
+            -Nanny Sophia-</h2> 
             <div class="sophia">
               <img src="assets/sophia-2.png" alt="sophia" />
               <img src="assets/sophia-3.jpeg" alt="sophia" />
@@ -284,8 +282,8 @@ title: Azure Sky Ragdolls
             <p>
               We socialize our kittens well. They are part of our home and
               used to all the strange noises and sights most homes have. Nanny
-              Sophia of course is constantly “on the job”. Socialization before
-               2 months old is extremely important to having a happy,
+              Sophia of course is constantly “on the job”. The Socialization by us, before they're
+               2 months old is extremely important to providing you happy,
               well-balanced cat.
             </p>
             <h2>
