@@ -51,14 +51,14 @@ title: Azure Sky Ragdolls
               <span class="king">Kings</span> <span class="amp">&</span> Queens
             </h2>
             <p>We <strong>extensively genetic</strong> test <strong>all</strong> of our Kings and Queens.</p>
-            <p>Testing is done for FeLv/FIV</p>
+            <p>- Testing is done for FeLv/FIV -</p>
             <p>
               This is to ensure buyers receive a healthy and quality cat.
             </p>
           </div>
           <div class="parent">
             <div class="div1">
-              <img src="assets/tsar.jpeg" alt="Tzar" class="tile-img" />
+              <img src="assets/tzar-bear.jpeg" alt="Tzar" class="tile-img" />
             </div>
             <div class="div2">
               <div class="background-header-king">
