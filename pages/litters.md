@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Upcoming Litters
+title: Upcoming Ragdoll Litters
 permalink: /litters
 section: blog
 paginate: 5

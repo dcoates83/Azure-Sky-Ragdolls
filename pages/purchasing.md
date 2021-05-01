@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Purchasing
+title: Purchasing Ragdolls
 permalink: /purchasing
 section: purchasing
 description: Before buying your Ragdoll kitten, get an idea of whether or not you can afford a cat for ... Purr-chase Prices – How Much Do Ragdolls Cost?
