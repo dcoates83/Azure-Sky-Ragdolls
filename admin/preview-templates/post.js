@@ -44,7 +44,7 @@ const Post = createClass({
               entry.getIn(["data", "tags"], []).map(
                 tag =>
                   html`
-                    <a href="#" rel="tag">${/assets/main.css}</a>
+                    <a href="#" rel="tag">${tag}</a>
                   `
               )
             }
