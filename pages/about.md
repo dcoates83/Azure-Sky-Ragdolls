@@ -227,19 +227,14 @@ description:
                   class="ragdoll-img">
                 <!-- maybe anchor burmese -->
 <div>
-                  <p>Sepia Minks have a slightly different portion of the Burmese gene from both parents. This results in Sepias having the plushest and softest coats of Mink and all Ragdolls. Sepia Minks are uncommon.
+                  <p> Believe it or not! Sepias have the plushest and softest coats of Minks, which are already softer than of all other Ragdolls. Sepia Minks are uncommon. Aasia is a Sepia Mink.
                   </p>
                 </div>
               </div>
-              
-
             </div>
           </div>
-
         </div>
-
       </section>
-
       <div class="container-text">
 
 <div class="minks-span">

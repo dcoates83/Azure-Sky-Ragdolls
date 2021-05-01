@@ -24,9 +24,9 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
    </p>
    <p>
     If you genuinely want a Ragdoll kitten from a reputable breeder get
-    on somebody’s waitlist NOW and place a deposit. If after reading
-    this, you decide you do not want one of our kittens we do not mind
-    if you run information by us about other kittens being sold. We do
+    on somebody’s waitlist NOW, and place a deposit. If after reading
+    this you decide you do not want one of our kittens, we do not mind
+    if you run that information by us about other kittens being sold. We do
     not mind giving you feedback.
    </p>
    <p>
@@ -50,35 +50,24 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     kitten. You may pass on a litter and wait for another litter to get
     the kitten you want. Despite concerns about whether they get a
     kitten they like – especially when placing deposits prior to the
-    birth of their kitten, we have been exceptionally lucky that every
+    birth of their kitten - we have been exceptionally lucky that every
     new Forever Family has ended up with the kitten they wanted.
    </p>
    <div class="deposit-price">
-    <img src="assets/kitten-couch.jpeg" alt="" srcset="" class="deposit-img" />
+    <img src="assets/kittens-deposit.jpeg" alt="kitten on a couch" class="deposit-img" />
     <div class="deposit-price-text">
      <h4>Price: $2000</h4>
      <h4>Deposit: $1000</h4>
      <h4>Paid by</h4>
-     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.271 174.274"><defs>
-       <clipPath id="prefix__a">
-        <path fill="none" d="M0 0h174.271v174.274H0z" />
-       </clipPath>
-      </defs>
-      <g clip-path="url(#prefix__a)">
-       <path
+     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.271 174.274"><defs><clipPath id="prefix__a"><path fill="none" d="M0 0h174.271v174.274H0z" /></clipPath></defs><g clip-path="url(#prefix__a)"><path
         d="M16.996 2.97h140.277a14.029 14.029 0 0114.03 14.028v140.28a14.028 14.028 0 01-14.029 14.027H16.994A14.026 14.026 0 012.968 157.28V16.997A14.028 14.028 0 0116.996 2.97z"
-        fill="#fdb913" />
-       <path
+        fill="#fdb913" /><path
         d="M157.276 2.969a14.03 14.03 0 0114.026 14.029v140.279a14.029 14.029 0 01-14.026 14.028H16.997a14.025 14.025 0 01-14.028-14.028V16.998A14.026 14.026 0 0116.997 2.969h140.279m0-2.969H16.997A17.015 17.015 0 000 16.998v140.279a17.016 17.016 0 0016.997 16.997h140.279a17.015 17.015 0 0016.995-16.997V16.998A17.014 17.014 0 00157.276 0"
-        fill="#fff" />
-       <path
+        fill="#fff" /><path
         d="M96.958 88.954l-.014-30.139 7.867-1.867V60.9s2.038-5.196 6.767-6.402a4.528 4.528 0 012.188-.147v7.69a11.023 11.023 0 00-4.122.858c-2.907 1.148-4.37 3.653-4.37 7.477l.005 16.642zM55.487 98.755s-1.28-1.918-1.28-8.7V75.05l-4.047.963V69.83l4.057-.958v-6.74l8.365-1.975v6.739l5.91-1.404v6.175l-5.91 1.403s-.01 12.295 0 15.28c0 6.949 1.844 8.283 1.844 8.283zM69.367 80.825c0-5.358.763-9.267 2.401-12.267 1.95-3.56 5.145-5.88 9.801-6.94 9.177-2.087 12.49 3.345 12.361 10.629-.049 2.605-.037 3.874-.037 3.874l-16.168 3.8v.26c0 5.09 1.067 7.505 4.292 6.82 2.786-.587 3.561-2.332 3.781-4.49.036-.348.053-1.233.053-1.233l7.574-1.815s.018.62.007 1.316c-.066 2.892-.907 10.066-11.434 12.555-9.972 2.367-12.63-3.723-12.63-12.51m12.537-13.592c-2.679.608-4.084 3.236-4.145 7.59l8.133-1.937c.014-.197.016-.631.014-1.311-.014-3.287-1.03-5.022-4.002-4.342M142.08 63.2c-.314-9.179 2.067-16.464 12.308-18.784 6.527-1.483 9.006.215 10.261 1.856 1.207 1.566 1.673 3.678 1.673 6.636l.007.543-8.012 1.904-.006-1.115c.006-3.508-.969-4.842-3.517-4.204-3.03.761-4.254 3.637-4.254 9.355 0 2.03.01 2.394.01 2.668 0 5.811.793 8.471 4.285 7.74 3.03-.626 3.444-3.286 3.493-5.618.006-.366.021-1.538.021-1.538l8-1.89s.008.591.008 1.248c-.02 7.62-4.036 12.422-11.56 14.173-10.366 2.43-12.396-3.56-12.718-12.974M114.383 76.051c0-6.982 4.09-9.19 10.246-11.737 5.536-2.29 5.656-3.427 5.679-5.417.03-1.675-.746-3.108-3.502-2.405a4.16 4.16 0 00-3.336 3.943 14.368 14.368 0 00-.052 1.547l-7.762 1.833a15.442 15.442 0 01.536-4.586c1.24-4.175 4.923-6.984 11.279-8.455 8.258-1.903 11.01 1.721 11.02 7.358v13.349c0 6.456 1.199 7.402 1.199 7.402l-7.62 1.803a16.56 16.56 0 01-1.021-2.737s-1.67 4.204-7.423 5.556c-6.043 1.425-9.243-2.32-9.243-7.454m15.872-9.534a28.771 28.771 0 01-4.054 2.374c-2.54 1.241-3.688 2.772-3.688 5.13 0 2.042 1.265 3.383 3.564 2.815 2.466-.622 4.178-2.923 4.178-6.12zM11.749 119.882a4.837 4.837 0 01-4.053-7.468l.054-.07.09-.024 11.379-2.686v8.641l-.177.041a396.424 396.424 0 01-6.301 1.463 4.758 4.758 0 01-.992.103M11.749 130.936a4.83 4.83 0 01-4.831-4.825 4.779 4.779 0 01.778-2.627l.054-.08.09-.024 11.379-2.685v8.641l-.177.046c-2.581.62-5.666 1.334-6.301 1.461a5.116 5.116 0 01-.992.093M11.749 142.012a4.834 4.834 0 01-4.831-4.83 4.762 4.762 0 01.778-2.626l.054-.087 11.469-2.703v8.64l-.177.047c-2.726.656-5.753 1.34-6.301 1.46a5.04 5.04 0 01-.992.099M10.406 109.294l-.003-48.349 8.815-2.083v48.348l-8.812 2.084zM32.362 105.18a5.439 5.439 0 10-10.877 0l.01 45.19a14.744 14.744 0 0014.715 14.726c4.117 0 15.395-.02 15.395-.02l.005-18.852.005-21.023a7.12 7.12 0 00-3.163-5.927l-13.72-9.32-.004 21.163a1.17 1.17 0 11-2.34 0c0-.227-.026-23.141-.026-25.936M39.707 71.465a11.892 11.892 0 00-7.846 6.066v-3.398l-7.937 1.878.01 21.7a8.12 8.12 0 018.356 1.461v-14.01c0-3.357 1.67-6.038 4.056-6.564 1.795-.394 3.294.248 3.294 3.445l.006 20.442 8.36-1.96V78.9c0-5.243-2.019-8.908-8.299-7.435M161.173 40.52a5.168 5.168 0 115.163-5.164 5.17 5.17 0 01-5.163 5.165m0-9.685a4.519 4.519 0 104.518 4.52 4.524 4.524 0 00-4.518-4.52"
-        fill="#231f20" />
-       <path
+        fill="#231f20" /><path
         d="M159.291 32.277h2.227a1.456 1.456 0 011.601 1.62c0 .819-.363 1.448-1.05 1.555v.012c.625.064.954.409.986 1.296.012.4.018.896.037 1.282a.65.65 0 00.3.545h-1.139a1.05 1.05 0 01-.17-.56c-.035-.377-.026-.733-.043-1.191-.017-.688-.228-.99-.919-.99h-.824v2.74h-1.006zm1.812 2.81a.928.928 0 001.007-1.023c0-.673-.29-1.027-.954-1.027h-.859v2.05z"
-        fill="#231f20" />
-      </g>
-     </svg>
+        fill="#231f20" /></g></svg>
     </div>
    </div>
    <div class="deposit-question">
@@ -93,7 +82,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     </p>
     <p>
      Due to inflation of increasing costs of genetic testing,
-     veterinary care and etc, Our prices need to reflect that. If you
+     veterinary care and etc, our prices need to reflect that. If you
      have not picked a kitten within 1 year, then your price is subject
      to change. If for a serious reason you cannot take a kitten within
      1 year (for example you got cancer, or the litters are late) we
@@ -125,17 +114,17 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      litters.
      <span class="underline">Once chosen, that kitten is now reserved.</span>
      As soon as Depositor picks or passes on a specific kitten, the
-     next person in line then makes thier pick or pass and so on. This
+     next person in line then makes their pick or pass and so on. This
      is the only fair way to do it.
     </p>
    </div>
    <div class="deposit-contract-info">
     <h2>
-     A agreement will be written up for the buyers
+     A Sales Agreement will be written up for the buyers
      protection.
     </h2>
    </div>
-   <h4>Deposits are Non-Refundable: With these exceptions</h4>
+   <h4>Deposits are Non-Refundable with these exceptions:</h4>
    <p>
     After the deposit has been paid, but before the Buyer has picked up
     their kitten:
@@ -172,8 +161,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
         <path
          d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0" />
        </svg>
-       The <span class="bold">1st</span> and
-       <span class="bold">2nd</span> set of vaccines
+       The <strong>1st</strong>,<strong class="bold"> 2nd</strong>, and<strong> 3rd</strong> set of vaccines
       </li>
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
@@ -183,7 +171,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
          d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0" />
        </svg>
        All kittens will be
-       <span class="bold">dewormed </span>minimum 3x
+       <span class="bold">dewormed </span>a minimum 4x
       </li>
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
@@ -192,7 +180,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
         <path
          d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0" />
        </svg>
-       Multiple veterinary health checks done by a veterinary Feline
+       Multiple veterinary health checks, done by a veterinary Feline
        Specialist certifying the kitten is healthy (minimum of 2x)
       </li>
       <li>
@@ -232,6 +220,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
        </svg>
        <span class="bold"> Fully litter trained</span>
       </li>
+       <li><svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark"><path d="m192 384c105.863281 0 192-86.128906 192-192 0-18.273438-2.550781-36.28125-7.601562-53.527344-2.488282-8.480468-11.34375-13.351562-19.847657-10.863281-8.488281 2.480469-13.34375 11.367187-10.863281 19.847656 4.183594 14.328125 6.3125 29.320313 6.3125 44.542969 0 88.222656-71.777344 160-160 160s-160-71.777344-160-160 71.777344-160 160-160c32.0625 0 62.910156 9.375 89.207031 27.105469 7.320313 4.941406 17.273438 3 22.207031-4.320313 4.9375-7.328125 3.011719-17.273437-4.316406-22.210937-31.601562-21.308594-68.632812-32.574219-107.097656-32.574219-105.863281 0-192 86.128906-192 192s86.136719 192 192 192zm0 0"/><path d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0"/></svg> Completely weaned onto dry and wet foods</li>
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
         <path
@@ -239,7 +228,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
         <path
          d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0" />
        </svg>
-       72 hour supply of current dry food
+       72 hour supply of current dry and wet food
       </li>
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
@@ -258,11 +247,8 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
         <path
          d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0" />
        </svg>
-       A small, quilted crate pad made especially for your kitten
+       A soft crate pad for your kitten
       </li>
-
-      <li><svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark"><path d="m192 384c105.863281 0 192-86.128906 192-192 0-18.273438-2.550781-36.28125-7.601562-53.527344-2.488282-8.480468-11.34375-13.351562-19.847657-10.863281-8.488281 2.480469-13.34375 11.367187-10.863281 19.847656 4.183594 14.328125 6.3125 29.320313 6.3125 44.542969 0 88.222656-71.777344 160-160 160s-160-71.777344-160-160 71.777344-160 160-160c32.0625 0 62.910156 9.375 89.207031 27.105469 7.320313 4.941406 17.273438 3 22.207031-4.320313 4.9375-7.328125 3.011719-17.273437-4.316406-22.210937-31.601562-21.308594-68.632812-32.574219-107.097656-32.574219-105.863281 0-192 86.128906-192 192s86.136719 192 192 192zm0 0"/><path d="m356.6875 36.6875-164.6875 164.679688-52.6875-52.679688c-6.25-6.246094-16.375-6.246094-22.625 0-6.246094 6.25-6.246094 16.375 0 22.625l64 64c3.128906 3.128906 7.214844 4.6875 11.3125 4.6875s8.183594-1.558594 11.3125-4.6875l176-176c6.246094-6.25 6.246094-16.375 0-22.625-6.25-6.246094-16.375-6.246094-22.625 0zm0 0"/></svg> Completely weaned onto dry and wet foods</li>
-
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
         <path
@@ -273,7 +259,6 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
        “Going Home Packet” with many helpful Kitten Care and
        Information pamphlets
       </li>
-
       <li>
        <svg height="384pt" viewBox="0 0 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg" class="checkmark">
         <path
@@ -302,7 +287,6 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
        </svg>
        <span class="bold">Spayed and Neutered</span>
       </li>
-
      </ul>
     </div>
     <div class="guarantee-grid-image">
@@ -607,8 +591,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
        </g>
       </g>
      </svg>
-
-     <img src="assets/Azure-logo-sans.svg" alt="" srcset="" />
+     <img src="assets/Azure-logo-sans.svg" alt="logo" srcset="" />
     </div>
 
    </div>
@@ -616,7 +599,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
  </section>
 <section id="pick-up">
   <div class="container-text">
-   <h2>We take good care of them until you can pick them up!</h2>
+   <h2>We take very good care of them until you can pick them up!</h2>
    <h4>Veterinary Care:</h4>
    <p>
     All our kittens are
@@ -641,22 +624,21 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
    </p>
    <h4>Vaccinations:</h4>
    <p>
-    <strong>1st set </strong>of vaccines <strong>@ 8 weeks</strong> (FRCVP) and a
-    veterinary health check is paid by us.</p>
+    <strong>1st set </strong>of vaccines <strong>@ 8 weeks</strong> (FRCVP) with a
+    veterinary health check, paid by us.</p>
     <p><strong>2nd set</strong> of vaccines
-     <strong>@ 12 weeks </strong> (FRCVP booster and intial leukemia vaccine) and with veterinary health check. This is
-     paid by us also. All kittens may react
+     <strong>@ 12 weeks </strong> (FRCVP booster and initial leukemia vaccine) with a veterinary health check. Paid by us also. All kittens may react
      strongly to this set because they now have antibodies.
     </p>
     <p>
      <strong>3rd set</strong> of vaccines
-     <strong>@ 16 weeks</strong> (Leukemia Booster)
-     <span class="underline"> must be done by the Buyer.</span> The rabies vaccine is optional.
+     <strong>@ 16 weeks</strong> (Leukemia Booster) with a
+    veterinary health check, paid by us. The rabies vaccine is optional.
     </p>
     <p>
-     The rabies and leukemia vaccines are in the 3rd set because the FRCVP
+     The rabies and leukemia vaccines are given in the 3rd set because the FRCVP
      and rabies vaccines should not be given at the same time or
-     life-threatening complications and/or weakend immunity will
+     life-threatening complications and/or weakened immunity will
      occur. Current practices recommend redoing the vaccines at age 1,
      then every 3 years.
     </p>
@@ -664,19 +646,18 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     <h4>Crating:</h4>
     <p>
      <strong>We do not crate train your kitten</strong>, but we do
-     <em>make them comfertable being in their crate</em>. You may buy one of our crates for your kitten if you need.
+     <em>make them comfortable being in their crate</em>. You may buy one of our crates for your kitten if you need.
     </p>
     <h4>Food:</h4>
     <p>
      Your kitten is weaned
-     <strong>on a mix of dry and wet (canned)</strong> foods when it goes
-     home. We feed the kittens 6x a day, with a 50/50 mix of
+     <strong>onto a mix of dry and wet (canned)</strong> food. We feed the kittens 6x a day, with a 50/50 mix of
      canned food mushed into dry Kitten Chow.
     </p>
     <h4>Spayed and Neutered:</h4>
     <p>
      <strong>All</strong> our kittens will be
-     <strong>spayed/neutered</strong>, prior to going home.
+     <strong>spayed/neutered</strong> <span class="underline">prior</span> to going home.
     </p>
     <h4>Socialization:</h4>
     <p>
@@ -687,33 +668,33 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     <p>
     The socialization that we do, before
      they are 2 months old and go to your home, is extremely important to having a well-
-     balanced, happy cat. We handle the kittens daily!
+     balanced, happy kitten. We handle the kittens daily!
     </p>
     <h2> 
     We make sure your kitten is well socialized
     </h2>
     <h4>Litter:</h4>
     <p>
-     All kittens <strong>are completely litter trained before the go home</strong>. </p>
+     All kittens <strong>are completely litter trained</strong> before they go home. </p>
     <p>
      As you wait for your kitten to come home, we keep you updated
      on the progress of your kitten.
      We appreciate your patience in not taking the kittens too early, and
      we understand you do not want to miss out on any of their babyhood.
     </p>
-     <h2>Be prepared for many pictures and videos of your kitten!</h2>
+      <h2>The best day! Picking up your kitten</h2>
     <h4>
-     Kittens can go home week 13!
+     Kittens go home!
     </h4>
     <p>
      We arrange a mutually agreeable pick-up time, date, and place.
     </p>
     <p>
      We try to connect owners with other people going the same
-     direction for Kitten Pooling. This save owners time and money and is
+     direction for Kitten Pooling. This save owners time, money, and is
      less stressful for the kitten as it is traveling with a sibling.
     </p>
-    <h2>The best day! Picking up your kitten</h2>
+   <img src="assets/aasia-kitten.jpg" alt="aasia as a kitten" class="deposit-img" />
  </div>
 </section>
  <section id="form-info">
@@ -883,9 +864,9 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
 
    <div class="square">
     <article class="question">
-     <p class="faq-q">What can my kitten go home?</p>
+     <p class="faq-q">When can my kitten go home?</p>
      <p class="faq-desc">
-      Kittens can go home week 13! After fully
+      Kittens can go home after they are fully
       recuperated from their spay/neutered and from their shots.
      </p>
      <button class="btn-plus" aria-label="Right Align">
@@ -909,8 +890,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
      <p class="faq-q">What color or markings should i get?</p>
      <p class="faq-desc">
       Check out more on
-      <a href="./about.html#colors">colors</a>, but its really up to
-      you!
+      <a href="./about.html#colors">colors</a>, but it's whoever you fall in love with!
      </p>
      <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -944,7 +924,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     <article class="question">
      <p class="faq-q">What are the ongoing costs of a Kitten?</p>
      <p class="faq-desc">
-      Approx. around $800 -$1000. Check out this
+      Approx. around $800 -$1000 a year. Check out this
       <a rel="noreferrer" href="https://www.calgaryhumane.ca/adopt/pet-budget/">article</a>.
      </p>
      <button class="btn-plus" aria-label="Right Align">
@@ -983,7 +963,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     <article class="question">
      <p class="faq-q">What is a ragdolls personality like?</p>
      <p class="faq-desc">
-      Ragdoll cats are known to be gentle, calm and sociable.
+      Ragdoll cats are known to be gentle, loving and sociable.
      </p>
      <button class="btn-plus" aria-label="Right Align">
       <svg xmlns="http://www.w3.org/2000/svg" class="i-plus" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -994,9 +974,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
    <div class="square">
     <article class="question">
      <p class="faq-q">Do Ragdolls Shed?</p>
-     <p class="faq-desc">
-      The bottom line is this. The Ragdoll cat is essentially a long
-      haired cat. And long haired cats shed, period. It goes with the
+     <p class="faq-desc">The Ragdoll cat is a long haired cat and long haired cats shed. It goes with the
       territory.
      </p>
      <button class="btn-plus" aria-label="Right Align">

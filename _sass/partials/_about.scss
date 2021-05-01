@@ -124,13 +124,10 @@ $background-three: #cca3a3;
 
 // Span the be carefull section across the grid
 .minks-span {
+  margin-top: 1em;
   p {
     color: $grey-header;
   }
-
-  // .columns {
-  //  columns: 6rem 2;
-  // }
 }
 
 // Show on big screens
