@@ -52,11 +52,11 @@ You can change your mind re sex, color, coat, and markings.
     {% assign author = site.data.authors[post.author] %}
 
       <div class="blog-posted">
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        
           <a href="{{ post.url | relative_url }}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
-
-
           <small>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.color }}</a></h3>
             <strong>Expected: {{ post.expected }}</strong>
             {% if author %}
               by {{ author.name }}
