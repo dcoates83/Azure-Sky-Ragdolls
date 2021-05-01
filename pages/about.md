@@ -210,9 +210,9 @@ description:
             </div>
 
 <h1 class="header-2 center">Minks</h1>
-<p>A gene called the "Burmese gene" traces back to the original ragdoll Daddy Warbucks. It is responsible for a much denser, softer, and a more deeper coloring. 
+<p>A gene called the "Burmese gene" traces back to the original ragdoll Daddy Warbucks. It is responsible for a much denser, softer, and a deeper coloring. 
                 </p>
-                 <p> Minks have usually have Green eyes instead of Blue eyes but may also come in gold and Blue.
+                 <p> Minks have usually have Green eyes instead of Blue eyes. Their eyes may also come in gold and Blue.
                   </p>
             <div class="colors-container">
             <div>
@@ -227,8 +227,7 @@ description:
                   class="ragdoll-img">
                 <!-- maybe anchor burmese -->
 <div>
-                  <p>Sepia Minks express the have a slightly different portion of the Burmese gene from both parents. Sepias have the
-                    plushest and softest coats of Mink and all Ragdolls. Sepia Minks are uncommon.
+                  <p>Sepia Minks have a slightly different portion of the Burmese gene from both parents. This results in Sepias having the plushest and softest coats of Mink and all Ragdolls. Sepia Minks are uncommon.
                   </p>
                 </div>
               </div>
