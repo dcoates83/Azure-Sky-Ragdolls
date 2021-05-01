@@ -22,7 +22,7 @@ month of pregnancy.</p>
             When we are sure the Queens are pregnant, we
 update every Depositor the <strong >anticipated litter birth date.</strong> This is <strong class="underline">not a guaranteed date</strong> as Cats’ gestation period generally around 65 days.
           </p>
-          <h2>Predicted colors of the kittens and dates of litters will listed,<br> but of course
+          <h2>Predicted colors and dates of the kittens will be listed,<br> but of course
 Mother Nature does her own thing!</h2>
 
           <p>
@@ -45,7 +45,7 @@ get their best socialization and Mommas get a break.</p>
 You can change your mind re sex, color, coat, and markings.
 </li>
 </ol>
-<h2>See all new photos of our kittens on our
+<h2>Check out all new photos of the kittens on our
 <a rel="noreferrer" href="https://www.facebook.com/Azure-Sky-Ragdolls-2203345016408284/" target="_blank" class="nav-link icoFacebook" title="Facebook"><span class="underline">Facebook!</span></a> </h2>
 <section id="posted-litters">
 
