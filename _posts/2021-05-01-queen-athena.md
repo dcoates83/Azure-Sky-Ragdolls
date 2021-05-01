@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Queen Athena- Blue Bicolor
+title: Queen Athena
+color: Blue Bicolor
 expected: Early September
 thumbnail: /assets/img/uploads/athena-catbed.jpeg
 reserved: No
