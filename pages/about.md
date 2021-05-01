@@ -212,7 +212,7 @@ description:
 <h1 class="header-2 center">Minks</h1>
 <p>A gene called the "Burmese gene" traces back to the original ragdoll Daddy Warbucks. It is responsible for a much denser, softer, and a deeper coloring. 
                 </p>
-                 <p> Minks have usually have Green eyes instead of Blue eyes. Their eyes may also come in gold and Blue.
+                 <p> Minks have usually have green eyes instead of blue eyes. Their eyes may also come in gold.
                   </p>
             <div class="colors-container">
             <div>
