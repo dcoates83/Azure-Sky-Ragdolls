@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Azure sky Ragdolls
+title: Azure Sky Ragdolls
 email: AzureSkyRagdolls@gmail.com
 description: # this means to ignore newlines until "baseurl:"
   As certified Ragdoll Tica breeder in Kamloops, BC, Canada we raise healthy Ragdoll Kittens that fit perfectly inside your heart. Find Ragdoll kittens here for sale for your family!
