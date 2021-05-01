@@ -112,90 +112,12 @@
   font-family: "work sans";
   text-transform: capitalize;
 }
-// @media (min-width: 650px) {
-//   //
-//   .litter-container {
-//     display: grid;
-//     grid-template-columns: 1fr 1fr;
-//     grid-template-rows: 1fr 1fr;
-
-//     gap: 0px 0px;
-//     grid-template-areas:
-//       "details picture"
-//       "details arrival";
-//     .picture,
-//     .arrival {
-//       max-height: 250px;
-//     }
-//     .details {
-//       max-height: 500px;
-//     }
-//   }
-//   .litter-container-2 {
-//     display: grid;
-//     grid-template-columns: 1fr 1fr;
-//     grid-template-rows: 1fr 1fr;
-//     background-color: $background-two;
-//     gap: 0px 0px;
-//     grid-template-areas:
-//       "   picture details"
-//       "   arrival details";
-//     .picture,
-//     .arrival-2 {
-//       max-height: 250px;
-//     }
-//     .details-2 {
-//       max-height: 500px;
-//     }
-//   }
-
-//   // **
-//   .details {
-//     grid-area: details;
-//     align-content: space-around;
-//   }
-//   .details-2 {
-//     grid-area: details;
-//     align-content: space-around;
-//   }
-//   // **
-//   .picture {
-//     grid-area: picture;
-//     img {
-//       width: 100%;
-//       object-fit: cover;
-//       max-height: 250px;
-//     }
-//   }
-//   .picture-2 {
-//     grid-area: picture;
-//     img {
-//       width: 100%;
-//       object-fit: cover;
-//       max-height: 250px;
-//     }
-//   }
-//   //
-//   .arrival {
-//     grid-area: arrival;
-//     background-color: $background-two;
-//     place-items: center;
-//     display: grid;
-//     p {
-//       color: $background-three;
-//     }
-//   }
-//   .arrival-2 {
-//     grid-area: arrival;
-//     background-color: $background-three;
-//     place-items: center;
-//     display: grid;
-//     // background-color: $background-one;
-//     p {
-//       color: white;
-//       // color: $grey-header;
-//     }
-//   }
+// Change list style
+.remember{
+  li{
+    list-style-type: disc;
+  }
+}
 // Adjust Font Sizes
 .upcoming-litter {
   font-size: 1.35rem;

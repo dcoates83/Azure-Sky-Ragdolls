@@ -20,17 +20,13 @@ known.</p>
 month of pregnancy.</p>
           <p>
             When we are sure the Queens are pregnant, we
-update every Depositor the <strong >anticipated litter birth date.</strong> This is <strong class="underline">not a guaranteed date</strong> as Cats’ gestation period generally around 65 days.
+update every Depositor the <strong >anticipated litter birth date.</strong> This is Cats’ gestation period approximately around 65 days.
           </p>
           <h2>Predicted colors and dates of the kittens will be listed,<br> but of course
 Mother Nature does her own thing!</h2>
-
-          <p>
-           
-          </p>
 <p>We space litters so Queens get the best possible care, kittens
 get their best socialization and Mommas get a break.</p>
-            <ol>
+            <ol class="remember">
             <h5><strong class="underline">Remember</strong></h5>
             <li>
              Kittens are chosen in the order of deposits received.
