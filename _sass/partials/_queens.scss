@@ -97,9 +97,6 @@
   margin: 1rem;
   min-width: 88px;
   max-height: 68px;
-  // background: url("assets/Tica.png");
-  // background-repeat: no-repeat;
-  // background-position: center center;
   object-fit: contain;
   display: block;
   margin: 1rem auto;
@@ -115,7 +112,7 @@
   border-radius: 20px;
   // object-fit: cover;
   // margin-top: 2em;
-  border: 1px solid white;
+  // border: 1px solid white;
 }
 
 .queen-text {
@@ -164,7 +161,7 @@
     height: 100%;
     display: grid;
     place-items: center;
-    border: 1px solid white;
+    // border: 1px solid white;
   }
 
   .background-header-queen {
@@ -175,7 +172,7 @@
     // max-height: 511px;
     display: grid;
     place-items: center;
-    border: 1px solid white;
+    // border: 1px solid white;
   }
 
   .queen-header {
@@ -201,20 +198,20 @@
   .parent {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    // grid-template-rows: repeat(2, 1fr);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
-    // padding-bottom: 1em;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    box-shadow: 2px 2px 5px #eee;
   }
 
   .queen-text {
-    // grid-area: 2 / 2 / 3 / 3;
     min-height: 300px;
     max-height: 100%;
     text-transform: capitalize;
     place-items: center;
     display: grid;
-    border: 1px solid white;
+    // border: 1px solid white;
     background-color: $background-three;
     color: white;
 

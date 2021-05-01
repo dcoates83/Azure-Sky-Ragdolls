@@ -49,7 +49,6 @@
         {% for item in include.navigation %}
         <li>
           <a class="scroll-link" href="{{ item.url  | relative_url}}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
-        
         </li>
         {% endfor %}
         

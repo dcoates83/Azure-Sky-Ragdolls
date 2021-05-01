@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /about
-title: About Ragdolls
+title: About Ragdolls 
 section: about
 description:
   Ragdolls are known worldwide for their affectionate nature, beautiful appearance, and
@@ -15,21 +15,21 @@ description:
         <!-- should be a h1 -->
         <h2 class="header-2 about">About Ragdolls</h2>
         <p class="">Ragdolls are known worldwide for their affectionate nature, stunning appearance, and
-          intelligence. Beautifal eyes, soft luxurious fur, and a variety of coat colors, making them extremely popular.</p>
+          intelligence. Beautiful eyes, soft luxurious fur, and a variety of coat colors, making them extremely popular.</p>
 
         <!-- ADD QUICK LINKS SECTION -->
         <article class="history">
           <h2 class="header">Ragdolls history</h2>
           <p class="text">In the 1960s a longhaired cat named Josephine produced
             several litters. It originated in Riverside,
-            California with a woman named Ann Baker. Josephine, was of a <a
-              href="https://en.wikipedia.org/wiki/Persian_cat" title="Persian cat"><span class="underline">Persian</span></a>/<a
+            California with a woman named Ann Baker. Josephine, was of a <a rel="noreferrer"
+              href="https://en.wikipedia.org/wiki/Persian_cat" title="Persian cat"><span class="underline">Persian</span></a>/<a  rel="noreferrer"
               href="https://en.wikipedia.org/wiki/Turkish_Angora" title="Turkish Angora"><span class="underline">Angora</span></a> type and had
-            litters sired by several unknown male <a href="https://en.wikipedia.org/wiki/Birman"
+            litters sired by several unknown male <a  rel="noreferrer" href="https://en.wikipedia.org/wiki/Birman"
               title="Birman"><span class="underline">Birman</span></a> or
-            <a href="https://en.wikipedia.org/wiki/Burmese_cat" title="Burmese cat"><span class="underline">Burmese</span></a>-like
+            <a  rel="noreferrer" href="https://en.wikipedia.org/wiki/Burmese_cat" title="Burmese cat"><span class="underline">Burmese</span></a>-like
             cats, one of which
-            had the <a href="https://en.wikipedia.org/wiki/Siamese_cat" title="Siamese cat"><span class="underline">Siamese</span></a> point
+            had the <a  rel="noreferrer" href="https://en.wikipedia.org/wiki/Siamese_cat" title="Siamese cat"><span class="underline">Siamese</span></a> point
             coloration.
             Josephine later produced
             kittens with
