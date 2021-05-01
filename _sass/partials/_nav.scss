@@ -77,6 +77,9 @@ $background-three: #cca3a3;
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
+  svg{
+   object-fit: contain;
+  }
 }
 
 nav li {
