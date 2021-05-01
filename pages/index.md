@@ -27,6 +27,9 @@ title: Azure Sky Ragdolls
 <section id="about" class="section">
           <div class="container-text">
             <h1 class="header-2 about">About Us</h1>
+              <p>
+             Azure Sky Ragdolls is TICA registered cattery, licensed and located in the city of Kamloops, British Columbia, Canada. Kamloops is in south western Canada. It is semi desert and known for its dry, sunny summers and fluffy snow in the winter for skiing our resorts.
+            </p>
             <h2 class="about-subheader">
               All of our cats live with us as part of our family
             </h2>
