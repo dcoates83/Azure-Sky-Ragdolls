@@ -3,7 +3,7 @@ layout: post
 title: "Litter 4: Queen Athena"
 color: Blue Bicolor Van
 expected: Early September
-thumbnail: /assets/img/uploads/athena-catbed.jpeg
+thumbnail: /assets/img/uploads/img_e8138-1-.jpg
 reserved: "Some reserved. "
 ---
 Athena truly is a little Goddess. She loves to sit in your lap, tell you about her day and listen while you tell her about yours. 
