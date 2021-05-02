@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Litter 2: Queen Aiyla our Blue Mitted Mink"
+title: "Litter 2: Queen Aiyla"
+color: Blue Mitted Mink
 expected: May 31, 2021
 thumbnail: /assets/img/uploads/asr-20210314-aiyla-img_8147.jpg
 reserved: "Some kittens are reserved already. "
