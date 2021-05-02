@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queen Aasia Seal Mitted Mink
+title: "Litter 5: Queen Aasia  our Seal Mitted Mink"
 expected: Early December
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
 reserved: 1 kitten is reserved
