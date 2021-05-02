@@ -1,6 +1,7 @@
 ---
 layout: post
-title: " Litter 3: Queen Amethys our Lilac Bicolor Van"
+title: " Litter 3: Queen Amethys"
+color: Lilac Bicolor Van
 expected: Early August
 thumbnail: /assets/img/uploads/asr-kings-and-queens-20210201-amethys-takes-over-the-ironing-board.png
 reserved: Some kittens are reserved.
