@@ -47,17 +47,18 @@ You can change your mind re sex, color, coat, and markings.
 
 <h1 class="header-2">Posted Litters</h1>
 
-  <div class="posted">
+  <div class="posted ">
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
 
       <div class="blog-posted">
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <h2 class="posted-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         
           <a href="{{ post.url | relative_url }}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
           <small>
-          <h3><a href="{{ post.url | relative_url }}">{{ post.color }}</a></h3>
-            <strong>Expected: {{ post.expected }}</strong>
+          <h5><strong>Expected: {{ post.expected }}</strong></h5>
+          <h6 class="center"><a href="{{ post.url | relative_url }}">{{ post.color }}</a></h6>
+            
             {% if author %}
               by {{ author.name }}
             {% endif %}
