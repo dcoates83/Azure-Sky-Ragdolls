@@ -1,5 +1,8 @@
 @import "utils";
 @import "purchasing";
+// #queens{
+//   background-color: $background-two;
+// }
 .about {
   text-align: center !important;
 }
@@ -30,10 +33,22 @@
   text-align: center;
 }
 .king {
-  color: #79a1cf;
+  color: #79a1cf!important;
 }
 .amp {
   color: rgb(204, 204, 204);
+}
+.queens-header-container{
+  margin-bottom: 2em !important;
+  background-color: white;
+  
+}
+.queens-container{
+  margin-bottom: 2em !important;
+  // background-color: $background-two;
+}
+#queens{
+  // background-color: $background-two;
 }
 .queen-header {
   text-transform: capitalize;
@@ -47,40 +62,25 @@
   padding-top: 1em;
 }
 
-.queen-sub-header {
-  color: $background-three;
+
+.queens-sub-header {
+  
   text-align: center;
   font-family: "work sans";
-  font-weight: 600;
-  font-size: 26px;
+font-size: 18px;
+ padding:0 2em 2em;
+
 }
 
-.king-header {
-  text-transform: capitalize;
-  // min-width: 188px;
-  color: #79a1cf;
-  display: block;
-  // margin: 1em;
-  font-family: "Work Sans";
-  font-weight: 600;
-  font-size: 26px;
-  opacity: 1;
-  text-align: center;
-  padding-top: 1em;
-}
 
-.king-sub-header {
-  color: $background-three;
-  text-align: center;
-  // color: #5e85b3;
-  color: #79a1cf;
-  font-family: "work sans";
-  font-weight: 600;
-  font-size: 26px;
+.queen{
+  p{
+    text-align: center;
+    padding-top: 1em;
+  }
 }
 
 .text {
-  // min-width: 349px;
   color: $grey-primary;
   display: block;
   font-size: 18px;
@@ -105,20 +105,16 @@
 }
 
 .tile-img {
-  // width: 100%;
   margin: 2em auto;
   max-height: 40vh;
   object-fit: cover;
   border-radius: 20px;
-  // object-fit: cover;
-  // margin-top: 2em;
-  // border: 1px solid white;
 }
 
 .queen-text {
   text-transform: capitalize;
   text-align: center;
-  padding: 1em;
+  // padding: 1em;
 
   h4 {
     padding-top: 1em;
@@ -127,7 +123,6 @@
 .sophia {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  // grid-column-gap: 10px;
   justify-items: center;
   img {
     object-fit: cover;
@@ -152,9 +147,7 @@
     border-radius: 0;
     // object-fit: contain;
   }
-  .queens-header-container{
-    margin-bottom: 2em !important;
-  }
+ 
   .background-header-king {
     background-color: #364f6b;
     // width: 50%;
@@ -187,15 +180,9 @@
     padding: 0;
   }
 
-  .king-header {
-    color: #fff;
-    padding: 0;
-  }
 
-  .king-sub-header {
-    color: #fff;
-    padding: 0;
-  }
+
+  
 
   .parent {
     display: grid;
@@ -209,14 +196,16 @@
   
 
   .queen-text {
-    min-height: 300px;
-    max-height: 100%;
+    // min-height: 300px;
+    // max-height: 100%;
+    border-radius: 25px;
     text-transform: capitalize;
     place-items: center;
     display: grid;
-    // border: 1px solid white;
-    background-color: $background-three;
-    color: white;
+    // grid-template-columns: 1fr 1fr;
+    // border: 1px solid #eee;
+    // background-color: $background-three;
+    // color: white;
 
     h4 {
       padding-top: 0;

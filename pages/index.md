@@ -24,7 +24,7 @@ title: Azure Sky Ragdolls
             class="registered-tica"
           />
 </section>
-<section id="about" class="section">
+<section id="about">
           <div class="container-text">
             <h1 class="header-2 about">About Us</h1>
               <p>
@@ -40,155 +40,65 @@ title: Azure Sky Ragdolls
             </p>
           </div>
 </section>
-<section id="queens" class="section">
-          <div class="container center queens-header-container">
+<section id="queens">
+          <div class=" center queens-header-container">
             <img
               src="assets/ragdoll-splash-min.jpg"
               alt="background image of cat"
               class="background-image"
             />
-            <h2 class="header">
+            <h1 class="header-2 about">
               <span class="king">Kings</span> <span class="amp">&</span> Queens
-            </h2>
+            </h1>
+            <div class="queens-sub-header">
+            <p>- Tested for FeLv/FIV -</p>
             <p>We <strong>extensively genetic</strong> test <strong>all</strong> of our Kings and Queens.</p>
-            <p>- Testing is done for FeLv/FIV -</p>
             <p>
               This is to ensure buyers receive a healthy and quality cat.
             </p>
-          </div>
-          <div class="parent">
-            <div class="div1">
-              <img src="assets/tzar-bear.jpeg" alt="Tzar" class="tile-img" />
             </div>
-            <div class="div2">
-              <div class="background-header-king">
-                <div >
-                  <h4 class="king-header">King</h4>
-                  <h4 class="king-sub-header">- Tzar -</h4>
-                </div>
+          </div>
+        <div class="container-text queens-container">
+            <div class="ragdoll-img-container">
+              <div class="queen">
+              <h4 class="color-header king">Tzar</h4>
+                <img src="assets/tzar-bear.jpeg" alt="Tzar" class="ragdoll-img">
+                <div class="queen-text">
+              <p>Mr Mellow, likes to sleep with our dog</p>
+              </div>
+              </div>
+              <div class="queen">
+                <h4 class="color-header">Sapphire</h4>
+                <img src="assets/sapphire-with-kitten.jpeg"
+                alt="sapphire" class="ragdoll-img">
+              <p>She is a real Sweetheart</p>
+              </div>
+              <div class="queen">
+                <h4 class="color-header">Amethys</h4>
+                <img src="assets/Amethyst.jpeg" alt="amethys" class="ragdoll-img">
+                <p>Amethyst is sweet and snuggly</p>
+              </div>
+              <div class="queen">
+                <h4 class="color-header">Aiyla</h4>
+                <img src="assets/aiyla.jpeg" alt="ailya"  class="ragdoll-img">
+                <p>Still developing her beautiful coat</p>
+              </div>
+              <div class="queen">
+                <h4 class="color-header">Aasia </h4>
+                <img src="assets/Aasia.jpeg" alt="aasia" class="ragdoll-img">
+                <p>She is an absolute Sweet Pea
+                </p>
+              </div>
+              <div class="queen">
+                <h4 class="color-header ">Athena</h4>
+                <img
+                  src="assets/athena-catbed.jpeg" alt="athena"  class="ragdoll-img">
+                <p>Athena likes to cuddle at bedtime</p>
               </div>
             </div>
-            <div class="queen-text">
-              <h4>Seal, Bi-color</h4>
-              <h4>Mr Mellow, likes to sleep with our dog</h4>
+            <h2>Interested in their <a class="underline" href="./about.html#colors">color points?</a></h2>
             </div>
-          </div>
-          <div class="parent">
-            <div class="div1">
-              <img
-                src="assets/sapphire-with-kitten.jpeg"
-                alt="sapphire"
-                class="tile-img"
-              />
-            </div>
-            <div class="div2">
-              <div class="background-header-queen">
-                <div >
-                  <h4 class="queen-header">queen</h4>
-                  <h5 class="queen-sub-header">- Sapphire -</h5>
-                </div>
-              </div>
-            </div>
-            <div class="queen-text">
-              <h4>Seal, Bi-color</h4>
-              <h4>She is a real Sweetheart</h4>
-            </div>
-          </div>
-          <div class="parent">
-            <div class="div1">
-              <img src="assets/Amethyst.jpeg" alt="amethys" class="tile-img" />
-            </div>
-            <div class="div2">
-              <div class="background-header-queen">
-                <div class="">
-                  <h4 class="queen-header">queen</h4>
-                  <h4 class="queen-sub-header">- Amethys -</h4>
-                </div>
-              </div>
-            </div>
-            <div class="queen-text">
-              <h4>
-                Lilac, a dilute of Chocolate, is the rarest and most subtle
-                color
-              </h4>
-              <h4>Amethyst is sweet and snuggly</h4>
-            </div>
-          </div>
-          <div class="parent">
-            <div class="div1">
-              <img src="assets/aiyla.jpeg" alt="ailya" class="tile-img" />
-            </div>
-            <div class="div2">
-              <div class="background-header-queen">
-                <div class="">
-                  <h4 class="queen-header">queen</h4>
-                  <h4 class="queen-sub-header">- Ailya -</h4>
-                </div>
-              </div>
-            </div>
-            <div class="queen-text">
-              <h4>Blue, Mink, Mitted.</h4>
-              <!-- text -->
-              <h4>Still developing her beautiful coat</h4>
-            </div>
-          </div>
-          <div class="parent">
-            <div class="div1">
-              <img src="assets/Ailya mom.JPG" alt="ailyas mom" class="tile-img" />
-            </div>
-            <div class="div2">
-              <div class="background-header-queen">
-                <div class="">
-                  <h4 class="queen-header">Ailya's Mom</h4>
-                </div>
-              </div>
-            </div>
-            <div class="queen-text">
-              <h4>Pic of Aiyla’s Mom about 1 year old.</h4>
-              <h4>Minks have the fluffiest, plushest, softest coats.</h4>
-            </div>
-          </div>
-          <div class="parent">
-            <div class="div1">
-              <img src="assets/athena-catbed.jpeg" alt="athena" class="tile-img" />
-            </div>
-            <div class="div2">
-              <div class="background-header-queen">
-                <div class="">
-                  <h4 class="queen-header">queen</h4>
-                  <h5 class="queen-sub-header">- Athena -</h5>
-                </div>
-              </div>
-            </div>
-            <div class="queen-text">
-              <h4>
-                Athena comes from Polish lines her coat will be extremly
-                fluffy.
-              </h4>
-              <h4>Athena likes to cuddle at bedtime</h4>
-            </div>
-          </div>
-          <div class="parent">
-            <div class="div1">
-              <img src="assets/Aasia.jpeg" alt="aasia" class="tile-img" />
-            </div>
-            <div class="div2">
-              <div class="background-header-queen">
-                <div class="">
-                  <h4 class="queen-header">queen</h4>
-                  <h5 class="queen-sub-header">- Aasia -</h5>
-                </div>
-              </div>
-            </div>
-            <div class="queen-text">
-              <h4>
-                Aasia is our fluffiest cat at present, reflecting her Mink
-                status.
-              </h4>
-              <h4>She is an absolute Sweet Pea</h4>
-            </div>
-          </div>
-</section>
+</section> 
 <section id="purebred">
           <div class="container-text">
             <h1 class="header-2 about">Why own a Purebred Ragdoll?</h1>

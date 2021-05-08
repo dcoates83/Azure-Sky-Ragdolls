@@ -112,7 +112,7 @@ description:
           </div>
         </article>
       </div>
-      <section id="colors" class="section">
+      <section id="colors" >
         <div class="container-text">
           <h1 class="header-2 center">Color Patterns</h1>
           <div class="subheader-colors">
