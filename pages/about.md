@@ -197,10 +197,10 @@ description:
                   Bicolors.</p>
               </div>
               <div>
-                <h4 class="color-header">Van</h4>
+                <h4 class="color-header">High White</h4>
                 <img src="assets/dandilion.jpeg" alt="van ragdoll" class="ragdoll-img">
-                <p>Van is a type of Medium White Spotting Factor expression. Vans are a uncommon version of
-                  Bicolors, but with more white areas making them very flashy. We usually have one in every litter from Sapphire and Tzar and there should also be some in the litters from Athena and Amethys.</p>
+                <p>All white is from white markings are from spotting factor expression. High whites, while not show standard, are very sought after by pet owners as they are very flashy and unique. </p>
+                <p> We usually have one in every litter from every liter when we cross a bicolor, with another bicolor.</p>
               </div>
               <div>
                 <h4 class="color-header">Mitted</h4>

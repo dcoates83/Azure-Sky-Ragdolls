@@ -96,7 +96,7 @@ title: Azure Sky Ragdolls
                 <p>Athena likes to cuddle at bedtime</p>
               </div>
             </div>
-            <h2>Interested in their <a class="underline" href="./about.html#colors">color points?</a></h2>
+            <h2>Interested in Ragdoll <a class="underline" href="./about.html#colors">colors?</a></h2>
             </div>
 </section> 
 <section id="purebred">
@@ -177,11 +177,11 @@ title: Azure Sky Ragdolls
 </section>
 <section id="sopia">
           <div class="container-text">
-            <h2>Our assistant kitten worker<br>
-            -Nanny Sophia-</h2> 
+            <h1 class="header-2 center">Our assistant kitten worker<br>
+            - Nanny Sophia -</h1> 
             <div class="sophia">
-              <img src="assets/sophia-2.png" alt="sophia" />
-              <img src="assets/sophia-3.jpeg" alt="sophia" />
+              <img src="assets/sophia-2.png" alt="sophia" class="ragdoll-img"/>
+              <img src="assets/sophia-3.jpeg" alt="sophia" class="ragdoll-img"/>
             </div>
             <p>
               Sophia has been raised with cats since she was little; they are
