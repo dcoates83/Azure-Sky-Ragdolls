@@ -4,7 +4,7 @@ title: " Litter 3: Queen Amethys"
 color: Lilac Bicolor
 expected: Early August
 thumbnail: /assets/img/uploads/asr-kings-and-queens-20210201-amethys-takes-over-the-ironing-board.png
-reserved: Some of her kittens are reserved from this litter.
+reserved: Some reserved.
 ---
 Queen Amethys is our lovely Bicolor Lilac Queen. She is an extremely sweet cat. 
 
