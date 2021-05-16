@@ -722,16 +722,16 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
     </div>
     <label for="address">Address</label>
     <div class="input-grid">
-      <input type="street" required 
+      <input type="street" name="address" required 
          id="street" 
          placeholder="Street">
-      <input type="city" required 
+      <input type="city" name="address" required 
          id="city" 
          placeholder="City">
-      <input type="provice" required 
+      <input type="provice" name="address" required 
          id="province" 
          placeholder="Province">
-      <input type="postal" required 
+      <input type="postal" name="address" required 
          id="postal" 
          placeholder="Postal code">
     </div>
