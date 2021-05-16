@@ -19,8 +19,8 @@ known.</p>
 <p>Cats typically do not show any signs of pregnancy until second
 month of pregnancy.</p>
           <p>
-            When we are sure the Queens are pregnant, we
-update every Depositor the <strong >anticipated litter birth date.</strong> This is Cats’ gestation period approximately around 65 days.
+            When we believe the Queens are pregnant, we
+update every Depositor the <strong >anticipated litter birth date.</strong>Cats’ gestation period approximately around 58-70 days.
           </p>
           <h2>Predicted colors and dates of the kittens will be listed,<br> but of course
 Mother Nature does her own thing!</h2>
@@ -53,10 +53,10 @@ You can change your mind re sex, color, coat, and markings.
         <h2 class="posted-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
           <a href="{{ post.url | relative_url }}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
           <small>
+          <h4 class="expected"><strong>Expected: {{ post.expected }}</strong></h4>  
           <p class="click"><a href="{{ post.url | relative_url }}">{{ post.color }}</a></p>
           <hr>     
-          <p class="click"><a href="{{ post.url | relative_url }}">Click for more detail</a></p>
-          <h4 class="expected"><strong>Expected: {{ post.expected }}</strong></h4>    
+          <p class="click"><a href="{{ post.url | relative_url }}">Click for more detail</a></p>  
           <h4 class="reserved">{{post.reserved }}</h4>
           
           </small>
