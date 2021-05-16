@@ -24,7 +24,7 @@
   align-items: center;
   flex-direction: column;
   position: relative;
-  margin-top: 1.5em;
+  margin: 1.5em 0;
 }
 .posted {
   display: grid;
@@ -132,9 +132,21 @@
 .reserved {
   color: rgb(240, 107, 107)!important;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 16px!important;
   font-family: "work sans";
   text-transform: capitalize;
+  text-align: left;
+  padding:0 .5em;
+  line-height: 1.25;
+  margin-top: .5em;
+}
+.expected{
+  font-size: 16px!important;
+  padding:0 .5em;
+  margin-top: .5em;
+  text-align: left;
+  color: #8a8888!important;
+  line-height: 1.25;
 }
 // Change list style
 .remember{

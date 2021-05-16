@@ -54,12 +54,13 @@ You can change your mind re sex, color, coat, and markings.
           <a href="{{ post.url | relative_url }}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
           <small>
           <p class="click"><a href="{{ post.url | relative_url }}">{{ post.color }}</a></p>
-          <hr>
+          <hr>     
           <p class="click"><a href="{{ post.url | relative_url }}">Click for more detail</a></p>
-          <h5><strong>Expected: {{ post.expected }}</strong></h5>    
-          <h4 class="reserved">{{post.reserved }}</h4>     
+          <h4 class="expected"><strong>Expected: {{ post.expected }}</strong></h4>    
+          <h4 class="reserved">{{post.reserved }}</h4>
+          
           </small>
-        {{ post.excerpt }}
+        <!-- {{ post.excerpt }} -->
       </div>
      {% endfor %}
 
