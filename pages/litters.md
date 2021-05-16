@@ -20,7 +20,7 @@ known.</p>
 month of pregnancy.</p>
           <p>
             When we believe the Queens are pregnant, we
-update every Depositor the <strong >anticipated litter birth date.</strong> Cats’ gestation period approximately around 58-70 days.
+update every Depositor the <strong >anticipated litter birth date.</strong> Cats’ gestation period varies around 58-70 days.
           </p>
           <p>
             While vaccinations are given on 8, 12 and 16 weeks, Vaccines and alter days are depending on the Veterinarian. Go home dates may change depending on these conditions.
