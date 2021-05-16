@@ -49,19 +49,15 @@ You can change your mind re sex, color, coat, and markings.
 
   <div class="posted ">
     {% for post in site.posts %}
-    {% assign author = site.data.authors[post.author] %}
       <div class="blog-posted">
         <h2 class="posted-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
           <a href="{{ post.url | relative_url }}" ><img  class="blog-img" src="{{ post.thumbnail | relative_url}}" /> </a>
           <small>
           <p class="click"><a href="{{ post.url | relative_url }}">{{ post.color }}</a></p>
           <hr>
-          <p class="click">Click for more detail</p>
-          <h5><strong>Expected: {{ post.expected }}</strong></h5>
-          
-            {% if author %}
-              by {{ author.name }}
-            {% endif %}
+          <p class="click"><a href="{{ post.url | relative_url }}">Click for more detail</a></p>
+          <h5><strong>Expected: {{ post.expected }}</strong></h5>    
+          <h4 class="reserved">{{post.reserved }}</h4>     
           </small>
         {{ post.excerpt }}
       </div>
