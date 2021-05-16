@@ -2,7 +2,7 @@
 layout: post
 title: "Litter 2: Queen Aiyla"
 color: Blue Mitted Mink
-expected: June 7, 2021
+expected: June 7 to June 15, 2021
 thumbnail: /assets/img/uploads/asr-20210314-aiyla-img_8147.jpg
 reserved: "Some kittens are reserved already. "
 ---
