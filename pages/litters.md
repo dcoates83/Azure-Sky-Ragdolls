@@ -23,7 +23,7 @@ month of pregnancy.</p>
 update every Depositor the <strong >anticipated litter birth date.</strong> Cats’ gestation period varies around 58-70 days.
           </p>
           <p>
-            While vaccinations are given on 8, 12 and 16 weeks, Vaccines and alter days are depending on the Veterinarian. Go home dates may change depending on these conditions.
+            While vaccinations are given at 8, 12 and 16 weeks, vaccines and alter dates are dependent on the Veterinarian. Go home dates may change depending on these conditions.
           </p>
           <h2>Predicted colors and dates of the kittens will be listed,<br> but of course
 Mother Nature does her own thing!</h2>
