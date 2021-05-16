@@ -13,9 +13,6 @@ description: Upcoming ragdoll kitten litters! Check here for ragdoll kittens for
 <h1 class="header-2">Upcoming Litters</h1>
 <p>All litters will all be from our foundation male King Tzar. Who is a Seal Bicolor and carries the Lilac gene.</p>
 
-<p>Litters <strong>could be earlier or later</strong> or even the order switched. If
-you place a deposit, we will notify who is pregnant when it is
-known.</p>
 <p>Cats typically do not show any signs of pregnancy until second
 month of pregnancy.</p>
           <p>
@@ -23,7 +20,7 @@ month of pregnancy.</p>
 update the <strong >anticipated litter birth date on the website.</strong> Cats’ gestation period varies around 58-70 days.
           </p>
           <p>
-            While vaccinations are given at 8, 12 and 16 weeks, vaccines and alter dates are depending on the Veterinarian availability. Go home dates may change because of this.
+            While vaccinations are given at 8, 12 and 16 weeks, actual vaccines and alter dates are dependent on the Veterinarians availability. Go home dates may change because of this.
           </p>
           <h2>Predicted colors and dates of the kittens will be listed,<br> but of course
 Mother Nature does her own thing!</h2>
@@ -31,6 +28,8 @@ Mother Nature does her own thing!</h2>
 get their best socialization and Mommas get a break.</p>
             <ol class="remember">
             <h5><strong class="underline">Remember</strong></h5>
+            <li>Litters could be earlier or later or even the order switched. If
+you place a deposit, <strong>please check the website litter postings regularly.</strong></li>
             <li>
              Kittens are chosen in the order of deposits received.
             </li>
