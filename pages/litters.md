@@ -28,7 +28,7 @@ Mother Nature does her own thing!</h2>
 get their best socialization and Mommas get a break.</p>
             <ol class="remember">
             <h5><strong class="underline">Remember</strong></h5>
-            <li>Litters could be earlier or later or even the order switched. If
+            <li>Litters could be earlier, later or even the order switched. If
 you place a deposit, <strong>please check the website litter postings regularly.</strong></li>
             <li>
              Kittens are chosen in the order of deposits received.
