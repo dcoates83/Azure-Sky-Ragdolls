@@ -199,7 +199,7 @@ description:
               <div>
                 <h4 class="color-header">High White</h4>
                 <img src="assets/dandilion.jpeg" alt="van ragdoll" class="ragdoll-img">
-                <p>All white is from white markings are from spotting factor expression. High whites, while not show standard, are very sought after by pet owners as they are very flashy and unique. </p>
+                <p>All white markings are from the white spotting factor expression. High whites, while not show standard, are very sought after by pet owners as they are very flashy and unique. </p>
                 <p> We usually have one in every litter from every liter when we cross a bicolor, with another bicolor.</p>
               </div>
               <div>
