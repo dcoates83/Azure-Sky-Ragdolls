@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Litter 4: Queen Athena"
-color: Blue Bicolor Van
+color: Blue Bicolor
 expected: Early September
 thumbnail: /assets/img/uploads/img_e8138-1-.jpg
 reserved: "Some reserved. "
