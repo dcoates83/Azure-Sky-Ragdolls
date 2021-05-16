@@ -241,10 +241,8 @@ description:
             <h4 class="color-header">Be careful what you hear!</h4><p>
             Despite some completely wrong rumors you find on the internet <em>that Minks are not
               purebred Ragdolls;</em>
-              they <strong>absolutely are.</strong>  <em>Traced back to the original lines via DNA tests and registration records, all
-              purebred Mink Ragdolls are recognized by Tica </em>(The International Cat Association) as purebred
-              Ragdolls. Some
-              older breeders who focused their narrow breeding programs to only Bicolor and Mitted and no Minks
+              they <strong>absolutely are.</strong>  While not show standard yet, they can be traced back to the original lines via DNA tests and registration records, all
+              purebred Mink Ragdolls are recognized by Tica (The International Cat Association) as purebred Ragdolls. Some older breeders who focused their narrow breeding programs to only Bicolor and Mitted and no Minks
               complained bitterly online – creating these fake rumors. Minks are Ragdolls.
             </p>
           </div>
