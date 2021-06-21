@@ -4,14 +4,20 @@ title: "Litter 3: Queen Aasia"
 color: Seal Mitted Mink
 expected: End of July
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
-reserved: All these kittens are reserved
+reserved: All reserved
 ---
-Queen Aasia is one of our Fluffy Mink cats and she is the sweetest pea. Minks have plusher coats, more intense coat colors and green eyes. 
+Queen Aasia is one of our Fluffy Mink cats and she is the sweetest pea. 
 
-Queen Aasia and King Tzar will have all seal kittens; some mitted and some bicolor.
+Queen Aasia and King Tzar will have all seal kittens; some mitted, some bicolor, some Mink and some non Mink.
 
-Some of the kittens will be mink with the plusher coat and green eyes. 
+Minks have plusher coats, more intense coat colors and green eyes. The Mink kittens will be born with color. 
 
-Some of the kittens will be Non Mink and have the regular soft, easy care coats, the less intense seal color, and blue eyes. 
+The Traditional Non Mink kittens will have the regular soft, easy care coats, a less intense colors, and blue eyes. 
 
-Since both Aasia and Tzar are very affectionate cats we expect their kittens to be like them; mellow, extremely affectionate and attached to their owners.
+Please note there has been much controversy about Mink Ragdolls. Despite about half the breeders now selling them (and Lynx Ragdolls) because they are so stunning, some breeders still insist Minks are not Ragdolls as they have green; not blue eyes. Indeed aqua eyed Ragdolls are not considered Ragdoll Show standard YET. 
+
+Due to their popularity, we firmly believe a Mink class will be added in time. Indeed ALL cat breeds  trace back to where there were several breeds crossed together. Once there is a consistency, preference and acceptance of type firmly established they are added as a new breed or new subtype of a breed. 
+
+All our Minks are registered as pure Ragdolls with the International Cat Association as they classify them as purebred Ragdolls, but just not Show Standard.  To the average Ragdoll Pet Kitten owner this does not matter, but it is important we point it out. 
+
+Since both Aasia and Tzar are very affectionate cats, their kittens will be very mellow, extremely affectionate and very attached to their owners.
