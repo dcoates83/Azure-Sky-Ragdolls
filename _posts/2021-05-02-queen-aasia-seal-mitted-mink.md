@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Litter 5: Queen Aasia"
+title: "Litter 3: Queen Aasia"
 color: Seal Mitted Mink
-expected: Early December
+expected: End of July
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
-reserved: 1 kitten is reserved
+reserved: All these kittens are reserved
 ---
 Queen Aasia is one of our Fluffy Mink cats and she is the sweetest pea. Minks have plusher coats, more intense coat colors and green eyes. 
 
