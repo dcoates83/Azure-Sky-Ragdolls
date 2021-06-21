@@ -1,17 +1,21 @@
 ---
 layout: post
-title: "Litter 2: Queen Aiyla"
+title: "Litter 5: Queen Aayla"
 color: Blue Mitted Mink
-expected: under evaluation; hopefully early to mid June 2021
+expected: October
 thumbnail: /assets/img/uploads/asr-20210314-aiyla-img_8147.jpg
-reserved: All reserved
+reserved: 3  reserved
 ---
-Their kittens will be a mix of Seal and Blue kittens.; mink and non mink.  For white markings there will be bicolor and mitted kittens.
+Tzar and Aayla's kittens will be a mix of Seal and Blue kittens.  
 
- Some of the kittens will be Mink' having green eyes,  a plusher coat and the more intense blue color of a Mink. Non Mink kittens in this litter will have the soft coat of a typical Ragdoll which requires less brushing and bathing. 
+For white markings there will be bicolor and mitted kittens.
 
-Aaylia is young yet so her full coat is yet to develop. She has an intense gray blue coat.  Her coat has a lustrous silver sheen that is increasing every day, and will do so until she is age 4. 
+ Half of the kittens will be Mink; having green eyes,  a plusher coat, the more intense blue color of a Mink and have color at birth. These kittens will require daily brushing due to their plusher coats. 
 
-Aaylia is an Arabic name meaning heavens, highborn or exalted. In Hebrew it means "to climb, rising, ascending". In Hawaiian it means high exalted. 
+Half of the kittens will be traditional Ragdolls; with blue eyes, be entirely white at birth and have the soft, less plush coat of a typical Ragdoll. the advantage to these kittens is they require minimal brushing and bathing. 
 
-Aiyla is a very quiet and loyal cat. Her kittens will be quite adventurous however since she already takes over Nanny Sophia's, our German Shepherd, big dog bed. Her kittens will inherit this quiet boldness, and be an excellent with dogs since she holds her own, but is not aggressive in any way. She merely looks at Sophia and says "my bed" and there is no argument from Sophia lol. She asks for her bed time pets and brushing every evening and usually I wake up to this delightful girl snuggled up to me.
+Aayla is young yet so her full coat is yet to develop. She is a more intense gray (blue) typical of a Mink.  Her coat has a lustrous silver sheen that is increasing every day, and will do so until she is age 4. 
+
+Aayla is an Arabic name meaning heavens, highborn or exalted. In Hebrew it means "to climb, rising, ascending". In Hawaiian it means high exalted. 
+
+Aiyla is a very quiet yet confident queen.  She takes over the dog bed daily from Nanny Sophia, our resident German Shepherd without argument. Those with big dogs or having small children would do well having one of her more confident kittens where the kitten needs to be assertive.  I usually wake up to this delightful girl snuggled up to me.
