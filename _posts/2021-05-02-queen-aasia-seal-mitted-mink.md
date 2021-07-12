@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Litter 3: Queen Aasia"
+title: "Litter 5: Queen Aasia"
 color: Seal Mitted Mink
-expected: End of July
+expected: fall
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
 reserved: All reserved
 ---
