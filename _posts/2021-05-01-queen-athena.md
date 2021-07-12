@@ -4,7 +4,7 @@ title: "Litter 4: Queen Athena"
 color: Blue Bicolor
 expected: September?
 thumbnail: /assets/img/uploads/img_e8138-1-.jpg
-reserved: all reserved
+reserved: some reserved
 ---
 Athena truly is a little Goddess. She loves to sit in your lap, tell you about her day and listen while you tell her about yours. 
 
