@@ -2,9 +2,9 @@
 layout: post
 title: "Litter 5: Queen Aasia"
 color: Seal Mitted Mink
-expected: fall
+expected: early fall 2021?
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
-reserved: All reserved
+reserved: 2 reserved
 ---
 Queen Aasia is one of our Fluffy Mink cats and she is the sweetest pea. 
 
