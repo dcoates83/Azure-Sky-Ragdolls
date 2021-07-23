@@ -6,6 +6,8 @@ expected: Born 20210721
 thumbnail: /assets/img/uploads/asr-20210314-aiyla-img_8147.jpg
 reserved: All have Forever Homes/deposits placed
 ---
+See Facebook page for pics. 
+
 Tzar and Aayla's kittens will be a mix of Seal and Blue kittens.  
 
 For white markings there will be bicolor and mitted kittens.
