@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Litter 2 : Queen Amethys"
+title: " Litter 4 : Queen Amethys"
 color: Lilac Bicolor
 expected: Late July or August
 thumbnail: /assets/img/uploads/asr-kings-and-queens-20210201-amethys-takes-over-the-ironing-board.png
