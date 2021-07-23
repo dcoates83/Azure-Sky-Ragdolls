@@ -6,6 +6,8 @@ expected: Born 20210722
 thumbnail: /assets/img/uploads/img_e8138-1-.jpg
 reserved: All have Forever Homes
 ---
+See Facebook page for pics. 
+
 Athena is from Greek name Athene. It means the Greek Goddess of war and wisdom in English. While she truly is a little Goddess there is not much "war" in her; she is all lovey dove. She loves to sit in your lap, tell you about her day and listen while you tell her about yours. 
 
 Body Color/points: Athena and Tzar's kittens will be a mix of blue, lilac and seal body colors/points.  
