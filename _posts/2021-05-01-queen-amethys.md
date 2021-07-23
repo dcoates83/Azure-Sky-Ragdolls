@@ -2,16 +2,14 @@
 layout: post
 title: " Litter 2 : Queen Amethys"
 color: Lilac Bicolor
-expected: Half way through July?
+expected: Late July or August
 thumbnail: /assets/img/uploads/asr-kings-and-queens-20210201-amethys-takes-over-the-ironing-board.png
-reserved: All are reserved.
+reserved: Some  are reserved.
 ---
-Queen Amethys is our lovely Bicolor Lilac Queen. She is an extremely sweet cat. 
+Both king Tzar (Seal point Bicolor carries recessive Lilac gene) and queen Amethys (Bicolor Lilac Queen) are warm fuzzies.  
 
-Kittens out of her and King Tzar will be a mix of Seal and Lilac kittens. Because Tzar carries the Lilac gene they can have Lilac kittens , but most will be Seal because the Seal gene dominates over Lilac. To get a lilac kitten we need both Tzar and Amethys providing a lilac gene to one kitten. This is possible but there will not be many. 
+ Tzar sleeps with our dog every night and asks to be brushed every evening (though he does not need it). Amethys has a quiet meow, which she uses to ask you for cuddles. Since this is her first litter, her coat will get much fluffier until age 3-4.  It is still an easy care coat. Combing each night is not necessary as it rarely gets tangles... though she does ask to be brushed. 
 
-White markings will be a mix of Bicolor, Mitted and High White Bicolor. These will be extremely pretty kittens and be a bit fluffier than your usual Ragdoll because Amethys comes from very fluffy lines. 
+Kittens out of Amethys and King Tzar will be a mix of Seal and Lilac kittens. Because Tzar carries the Lilac gene, they can produce Lilac kittens , but most will be Seal because the Seal gene dominates over Lilac. Some will be seal but carry the recessive gene for lilac.  To get a lilac kitten we need both Tzar and Amethys providing a lilac gene to one kitten. This is possible but will not occur often.
 
-Please remember that you ALWAYS get 25% high white bicolor kittens when you cross a bicolor with a bicolor, BUT these kittens do not meet show/breed standard for markings. They are very pretty so most Pet Kitten owners do not care, but it is important we make that clear. 
-
-Both Tzar and Amethys have exceptionally social personalities. Tzar especially sleeps with our dog every night and asks for his pets. Amethys has a quiet meow which she uses to ask you for cuddles and brushing. Although her coat will get much fluffier due to her heritage, it is still an easy care coat. She asks for combing each night but it is not necessary as it rarely gets tangles.
+White markings: Using the rules of genetics and the genetic predictor Punnett square -  50% of the kittens should be bicolor (white V on face),  25% mitted (dark face with mittens and 25% high white bicolor (kittens with the extra white).
