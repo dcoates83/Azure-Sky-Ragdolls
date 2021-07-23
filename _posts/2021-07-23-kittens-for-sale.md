@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Kittens for Sale
-color: All
-expected: See litters 4 and 5
+color: "Seal traditional/seal mink mitted and bicolor. Possibly a lilac bicolor. "
+expected: See litters 4 Amethys and 5 Aasia
 thumbnail: /assets/img/uploads/img_5757.jpg
 reserved: "We have deposits on all current kittens. Please apply to go on Waitlist. "
 ---
