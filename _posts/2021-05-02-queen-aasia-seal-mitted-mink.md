@@ -2,9 +2,9 @@
 layout: post
 title: "Litter 5: Queen Aasia"
 color: Seal Mitted Mink
-expected: "? sept"
+expected: "? august"
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
-reserved: 2 reserved
+reserved: 2 reserved; taking Secure Waitlist names
 ---
 Queen Aasia is one of our Fluffy Mink cats and she is the sweetest pea. She likes to give "cat hugs"...awwww.
 
