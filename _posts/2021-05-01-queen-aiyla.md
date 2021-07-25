@@ -4,15 +4,15 @@ title: "Litter 2: Queen Aayla"
 color: Blue Mitted Mink
 expected: Born 20210721
 thumbnail: /assets/img/uploads/asr-20210314-aiyla-img_8147.jpg
-reserved: All have forever homes via reservation deposit and the Secure Waitlist
+reserved: All have forever homes via reservation deposit or the Secure Waitlist
 ---
 See Facebook page for pics. 
 
-Tzar and Aayla's kittens are a mix of Seal and or Blue kittens.  
+Tzar and Aayla's kittens are a mix of Seal and or Blue kittens.  Mostly seal because seal is the dominant gene. 
 
-For white markings there will be bicolor and mitted kittens.
+For white markings there will be bicolor and pointed mitted or solid mitted. 
 
-All the healthy little bundles of joy appear to be Mink because they were all born with significant color. We will have to wait and see if they are blue and or seal
+All the healthy little bundles of joy appear to be Mink because they were all born with significant color. We will have to wait a couple weeks and see as they are not distinct yet.
 
  If the kittens are Mink they differ from traditional Ragdolls; having green eyes,  a plusher coat, a more intense color and have color at birth. These kittens will require daily brushing due to their plusher coats. 
 
