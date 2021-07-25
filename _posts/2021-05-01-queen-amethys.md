@@ -2,9 +2,9 @@
 layout: post
 title: " Litter 4 : Queen Amethys"
 color: Lilac Bicolor
-expected: Late July or August
+expected: "20210723"
 thumbnail: /assets/img/uploads/asr-kings-and-queens-20210201-amethys-takes-over-the-ironing-board.png
-reserved: Some  are reserved.
+reserved: All have forever  homes via reservation deposit and the  Secure Waitlist
 ---
 Both king Tzar (Seal point Bicolor carries recessive Lilac gene) and queen Amethys (Bicolor Lilac Queen) are warm fuzzies.  
 
