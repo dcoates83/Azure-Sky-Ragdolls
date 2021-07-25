@@ -4,11 +4,11 @@ title: "Litter 2: Queen Aayla"
 color: Blue Mitted Mink
 expected: Born 20210721
 thumbnail: /assets/img/uploads/asr-20210314-aiyla-img_8147.jpg
-reserved: All have Forever Homes/deposits placed
+reserved: All have forever homes via reservation deposit and the Secure Waitlist
 ---
 See Facebook page for pics. 
 
-Tzar and Aayla's kittens will be a mix of Seal and Blue kittens.  
+Tzar and Aayla's kittens are a mix of Seal and or Blue kittens.  
 
 For white markings there will be bicolor and mitted kittens.
 
