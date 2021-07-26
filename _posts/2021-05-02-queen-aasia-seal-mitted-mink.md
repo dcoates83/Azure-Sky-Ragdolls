@@ -2,7 +2,7 @@
 layout: post
 title: "Litter 5: Queen Aasia"
 color: Seal Mitted Mink
-expected: "? august"
+expected: august
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
 reserved: 2 reserved; taking Secure Waitlist names
 ---
