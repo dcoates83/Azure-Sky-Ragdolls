@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fall 2022 Litters "
+title: "Fall 2022 Litters; Litter # 6+"
 color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
   Traditional
 expected: September to December
