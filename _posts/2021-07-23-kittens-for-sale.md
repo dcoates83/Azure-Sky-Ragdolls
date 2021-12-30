@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fall 2022 Litters our of King Tao; Litter # 6+"
+title: "Fall 2022 Litters our of King Tao and King Tzar; Litter # 6+"
 color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
   Traditional
 expected: September to December
