@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Litter 5 20210812: Queen Aasia and King Tzar"
+title: "2021 Litter 5 20210812: Queen Aasia and King Tzar"
 color: Seal Mitted Mink
 expected: Arrived 20210812
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
