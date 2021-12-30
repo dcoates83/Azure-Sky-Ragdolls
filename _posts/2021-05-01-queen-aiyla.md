@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Litter 2 20210721 : Queen Aayla and King Tzar"
+title: " 2021 Litter 2 20210721 : Queen Aayla and King Tzar"
 color: Sepia Blue Mitted Mink
 expected: These cute bundles of love were born 20210721
 thumbnail: /assets/img/uploads/asr-20210314-aiyla-img_8147.jpg
