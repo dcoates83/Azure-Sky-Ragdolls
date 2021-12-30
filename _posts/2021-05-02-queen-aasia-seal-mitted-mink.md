@@ -14,4 +14,6 @@ Minks are different from your traditional Ragdolls in that they are born with co
 
 Please note there has been much controversy about Mink Ragdolls. To the average Ragdoll Pet Kitten owner this does not matter as all they want is a happy, healthy kitten, but it is important we point it out. Some breeders still insist Minks are not Ragdolls because their green eyes do not meet the old outdated Show Standards. The aqua green eyes and the double genes for long hair merely trace back to rarer but pure Ragdoll lines. Minks classes are under review now by all registries for the future.  All Minks can be registered with the International Cat Association as purebred Ragdolls.
 
- Since both Aasia and Tzar are very affectionate cats, their kittens were all *extremely* affectionate and very *attached* to their owners. See our Facebook page for pictures of Zara, Maisel/Bella and Xaah. Xaah is staying with us as a future King.
+ Since both Aasia and Tzar are very affectionate cats, their kittens were all *extremely* affectionate and very *attached* to their owners. See our Facebook page for pictures of Zara, Maisel/Bella and Xaah. Xaah is staying with us as a future King. 
+
+Aasia's next litter will be with Tzar again and is planned for May June 2022; possibly earlier.
