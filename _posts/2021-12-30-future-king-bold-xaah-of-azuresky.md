@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future King Bold Xaah of Azuresky
+title: Future King Bold Xaah of Azuresky for sale
 color: Seal, Mink Mitted
 expected: Born August 12, 2021
 thumbnail: /assets/img/uploads/img_0384.jpg
