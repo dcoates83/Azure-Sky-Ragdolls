@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Litter 4 20210723 : Queen Amethys and King Tzar"
+title: "2021 Litter 4 20210723 : Queen Amethys and King Tzar"
 color: Lilac Bicolor
 expected: " Born 20210723"
 thumbnail: /assets/img/uploads/asr-kings-and-queens-20210201-amethys-takes-over-the-ironing-board.png
