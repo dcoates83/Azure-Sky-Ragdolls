@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We will be retiring Queen Sapphire and King Tzar
+title: Late 2022/ early 2023 we will be retiring Queen Sapphire and King Tzar
 color: Seal Bicolor
 expected: Late 2022/early 2023
 thumbnail: /assets/img/uploads/img_e7764.jpg
@@ -8,7 +8,7 @@ reserved: Taking applications for Sapphire and Tzar
 ---
 It is our unfortunate, but necessary duty to sometimes retire kings and queens. In order to continuously improve out lines and yet stay a small cattery where all cats have a normal life it is necessary we retire our Breeders.
 
-Sapphire and Tzar will be retiring as soon as we get a future queen and king out of them.
+Sapphire and Tzar will be retiring as soon as we get a future queen and king out of them, and our replacement Kings are doing their job. As such we do not have a set date for retirement yet, but we think it will be in late 2022 or early 2023. 
 
 Sapphire has been an exceptionally wonderful queen, and Tzar a reliable and loving King for us, both deserve a loving home to live out their lives as a beloved Pets for the next 16 years of their lives. 
 
