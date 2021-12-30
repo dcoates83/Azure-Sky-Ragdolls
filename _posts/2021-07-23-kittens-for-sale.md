@@ -1,21 +1,18 @@
 ---
 layout: post
-title: Kittens for Sale
-color: "Seal traditional/seal mink mitted and bicolor. Possibly a lilac bicolor. "
-expected: See litters 4 Amethys and 5 Aasia
-thumbnail: /assets/img/uploads/img_5757.jpg
-reserved: "We have deposits on all current kittens. Please apply to go on Waitlist. "
+title: "Taking reservations for 2022 kittens. "
+color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
+  Traditional
+expected: Litters are planned throughout 2022
+info: "Depositors may pick or pass on any litter. "
+thumbnail: /assets/img/uploads/img_e1411.jpg
+reserved: "Taking reservations for 2022 kittens. "
 ---
-No kittens are available for sale right now. 
+All our current kittens have Forever Homes already. We are taking reservations for 2022 litters. 
 
-All our current baby fuzzies are reserved. Typically there is a 2 litter wait. 
+All kittens go home with three sets of vaccines, fully wormed (minimum 3x), microchipped, altered and with a Health Guarantee.
 
-We are making a Secure Waitlist from those who fill out our Adoption Application.
+**Kittens are offered in this order:** 
 
-When the current depositors' reservations are filled, then we will offer any  not reserved to the  people on the Secure Waitlist and they will  be asked to place a reserve a kitten by placing a deposit. If they choose not to reserve at this time we move to the next person and remove their name from our waitlist.
-
-Kittens are offered in this order: 
-
-1. To depositors in the order of the date we received their Deposit. 
-
-2. To people on the Secure Waitlist in the order of the date we received their Adoption Application.
+1. To **depositors** in the order of the date we received their Deposit. 
+2. To **people on the Secure Waitlist** in the order of the date we received their Adoption Application. To get on the Secure Waitlist you must fill out our Adoption Application and be pre approved. Few kittens make it to the Secure Waitlist.  Typically most kittens are reserved by the time they are born so it's important to place a deposit early to reserve your kitten.
