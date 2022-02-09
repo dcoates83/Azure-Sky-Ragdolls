@@ -2,7 +2,7 @@
 layout: post
 title: 2022 Litter 1 Queen Aiyla and King Tzar
 color: Blue Mink Mitted, Bicolor and Colorpoint
-expected: Late February Early March 2022
+expected: Early February 2022
 info: ""
 thumbnail: /assets/img/uploads/img_0194-1-.jpg
 reserved: 1 kitten is reserved already
