@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Litter 4 Queen Aasia and King Tzar
+title: 2022 Litter 3 Queen Aasia and King Tzar
 color: All of these kittens will be Seal Mink; Bicolor, Mitted and Colorpoint.
 expected: May June 2022
 thumbnail: /assets/img/uploads/img_0354.jpg
