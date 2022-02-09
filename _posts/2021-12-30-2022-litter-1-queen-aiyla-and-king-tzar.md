@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2022 Litter 3 Queen Athena and King Tzar
+title: 2022 Litter 4 Queen Athena and King Tzar
 color: "These kittens will be Seal, Blue and Lilac Bicolor and Mitted "
-expected: May June  2022
+expected: June  2022
 info: ""
 thumbnail: /assets/img/uploads/img_0335-1-.jpg
 reserved: 1 kitten is reserved already
