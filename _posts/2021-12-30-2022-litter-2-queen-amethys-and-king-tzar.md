@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2022 Litter 2 Queen Amethys and King Tzar
+title: 2022 Litter 3 Queen Amethys and King Tzar
 color: " Seal, Lilac, Chocolate Mitted and Bicolor kittens"
-expected: Late February/early March 2022
+expected: April 2022
 thumbnail: /assets/img/uploads/img_0274.jpg
 reserved: "Taking reservations for kittens in this litter. "
 ---
