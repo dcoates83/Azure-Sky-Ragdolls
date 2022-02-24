@@ -2,10 +2,10 @@
 layout: post
 title: 2022 Litter 1 Queen Aiyla and King Tzar
 color: Blue Mink Mitted, Bicolor and Colorpoint
-expected: Early February 2022
-info: ""
+expected: Valentines day
+info: Healthy plump kittens born 20220214
 thumbnail: /assets/img/uploads/img_0194-1-.jpg
-reserved: 1 kitten is reserved already
+reserved: All reserved
 ---
 **Aiyla** is our sweet and cuddly Blue Mitted Mink Queen. Aiyla's color is still developing as she is still young. Her coat is an intense blue with an iridescent sheen to it and plusher than a traditional Ragdolls. 
 
