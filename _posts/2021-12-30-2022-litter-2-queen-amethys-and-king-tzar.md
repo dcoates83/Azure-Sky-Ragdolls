@@ -2,9 +2,9 @@
 layout: post
 title: 2022 Litter 3 Queen Amethys and King Tzar
 color: " Seal, Lilac, Chocolate Mitted and Bicolor kittens"
-expected: Mid to late April 2022
+expected: April 14,2023
 thumbnail: /assets/img/uploads/img_0274.jpg
-reserved: "Taking reservations for kittens in this litter. "
+reserved: Some reserved
 ---
 These kittens will be exceptionally friendly as in past litters with this cross and will be a mix of Seal (mostly), Lilac and Chocolate Bicolor and Mitted kittens. 
 
