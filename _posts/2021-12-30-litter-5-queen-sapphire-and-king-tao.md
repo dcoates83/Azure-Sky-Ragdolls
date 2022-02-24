@@ -10,6 +10,4 @@ reserved: "One or two will be reserved for Breeders. Taking reservations on othe
 
 Tao may look very regal, but he is actually a very snuggly guy. He likes to spend hours in your lap spending time with you. 
 
-According to the genetic Punnett Square; a device used to predict kitten colors and markings, 25%  of these kittens will be Mitted or high white Bicolor and 50% will be Bicolor with a show standard amount of white. 
-
-We thoroughly believe Tao will be ready to produce for this litter, but if for some reason he needs more time to mature before producing kittens, this litter will be out of our Foundation King Tzar instead; a Seal Bicolor. Some Kings develop slower than others so he may need more time to produce kittens. By the dates they are born we will know if the dad is Tao or Tzar as Sapphire will be exposed first to Tao and then to Tzar in case Tao is not ready.
+According to the genetic Punnett Square; a device used to predict kitten colors and markings, 25%  of these kittens will mitted and 75% will be Bicolor. Most will be seal. Some may be blue.
