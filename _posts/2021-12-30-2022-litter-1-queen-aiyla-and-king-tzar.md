@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 2022 Litter 3 Queen Athena and King Tao
-color: "These kittens will be Blue Bicolor and Mitted "
-expected: Early June
+color: "These kittens will be traditional Blue Bicolor and Mitted "
+expected: June/July
 info: ""
 thumbnail: assets/img/uploads/img_e2768.jpg
-reserved: " Some reserved already"
+reserved: Some reserved already.
 ---
-King Tao is our newest blue bicolor King from Heavenlyrags in Idaho. He is going to be a big cat; all muscle already. He has perfect markings and a personality to match.. 
+King Tao is our newest blue bicolor King from Heavenlyrags in Idaho. He is going to be a big cat; all muscle already. He has perfect markings and a personality to match. 
 
 Queen Athena is our sweetness and light Blue Bicolor Queen.
 
