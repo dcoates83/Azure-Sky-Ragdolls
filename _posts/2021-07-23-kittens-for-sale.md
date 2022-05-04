@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fall 2022 Litters our of King Tao and King Tzar; Litter # 6+"
+title: Fall 2022 Litters out of King Tao  (blue bicolor) and King Tzar (seal bicolor)
 color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
   Traditional
 expected: September to December
@@ -13,8 +13,8 @@ All our current kittens have Forever Homes already. **We are taking reservations
 **Kittens are offered in this order:** 
 
 1. To **depositors** in the order of the date we received their Deposit. 
-2. To **people on the Secure Waitlist** in the order of the date we received their Adoption Application. To get on the Secure Waitlist you must fill out our Adoption Application and be pre approved. Few kittens make it to the Secure Waitlist.  Typically most kittens are reserved by the time they are born so it's important to place a deposit early to reserve your kitten.
+2. All kittens are by reservation;  you must fill out our Adoption Application, be pre approved and place deposit. Most kittens are reserved by the time they are born so it's important to place a deposit early to reserve your kitten. |A 1-2 litter wait is normal for all reputable catteries.
 
-   Please fill out our Adoption Application on our website. Because most kittens are reserved prior to birth or even conception it is recommended you reserve a kitten  as early as possible by placing a deposit of half the price of your kitten; 1000$. Purchase price 2000$. 
+   Please fill out our Adoption Application on our website azureskyragdolls.com. Because most kittens are reserved prior to birth or even conception it is recommended you reserve a kitten as early as possible by placing a deposit of half the price of your kitten. Contact us at azureskyragdolls@gmail.com re price. 
 
-   **All kittens go home with three sets of vaccines, fully wormed (minimum 3x), microchipped, altered and with a Health Guarantee.**
+   **All kittens go home with three sets of vaccines, fully wormed (minimum 3x), microchipped, altered and with a genetic Health Guarantee.**
