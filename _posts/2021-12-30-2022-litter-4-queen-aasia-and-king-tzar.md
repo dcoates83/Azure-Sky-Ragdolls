@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 2022 Litter 2 Queen Aasia and King Tzar
-color: All of these kittens will be Seal Mink; Bicolor, Mitted and Colorpoint.
-expected: April 6, 2022
+color: Seal Mink; Bicolor, Mitted and Colorpoint.
+expected: April 12, 2022
 thumbnail: /assets/img/uploads/img_0354.jpg
-reserved: Taking reservations; some reserved
+reserved: One kitten available; rest reserved
 ---
 Aasia is our very sweetest cat and gives cat "hugs". She reaches up with both paws, stretching her front legs out until you pick her up. So cute! 
 
