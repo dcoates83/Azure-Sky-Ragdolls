@@ -56,7 +56,6 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
    <div class="deposit-price">
     <img src="assets/kittens-deposit.jpeg" alt="kitten on a couch" class="deposit-img" />
     <div class="deposit-price-text">
-     <h4>Price: $2000</h4>
      <h4>Deposit: $1000</h4>
      <h4>Paid by</h4>
      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.271 174.274"><defs><clipPath id="prefix__a"><path fill="none" d="M0 0h174.271v174.274H0z" /></clipPath></defs><g clip-path="url(#prefix__a)"><path
