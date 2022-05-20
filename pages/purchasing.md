@@ -71,7 +71,7 @@ description: Before buying your Ragdoll kitten, get an idea of whether or not yo
    </div>
    <div class="deposit-question">
     <p>
-     <strong>Why are deposits half the price of the kitten?</strong>
+     <strong>Why are deposits so much?</strong>
     </p>
     <p>Simple, it shows who is serious about getting a kitten.</p>
    </div>
