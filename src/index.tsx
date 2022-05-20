@@ -1,9 +1,4 @@
-import {
-  createTheme,
-  CssBaseline,
-  StyledEngineProvider,
-  ThemeProvider,
-} from "@mui/material";
+import { createTheme, CssBaseline } from "@mui/material";
 import { Theme } from "@mui/material/styles";
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
@@ -21,12 +16,8 @@ const theme = createTheme();
 root.render(
   <StrictMode>
     <BrowserRouter>
-      <StyledEngineProvider injectFirst>
-        <ThemeProvider theme={theme}>
-          <CssBaseline />
-          <App />
-        </ThemeProvider>
-      </StyledEngineProvider>
+      <CssBaseline />
+      <App />
     </BrowserRouter>
   </StrictMode>
 );

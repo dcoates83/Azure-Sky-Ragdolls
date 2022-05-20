@@ -6,7 +6,7 @@
     "build": "vite build",
     "dev": "vite",
     "preinstall": "npx only-allow pnpm",
-    "preview": "serve dist"
+    "start": "serve dist"
   },
   "dependencies": {
     "@emotion/react": "^11.9.0",

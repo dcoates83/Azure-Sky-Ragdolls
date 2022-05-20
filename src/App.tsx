@@ -1,5 +1,5 @@
-import NavBar from "./components/layout/NavBar/NavBar";
+import ResponsiveAppBar from "./components/layout/NavBar/NavBar";
 
 export default function App() {
-  return <NavBar pageTitle={"Home"} rightMenuItems={[]} />;
+  return <ResponsiveAppBar />;
 }
