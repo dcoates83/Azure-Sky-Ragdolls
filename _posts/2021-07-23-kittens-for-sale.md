@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fall 2022 Litters out of King Tao  (blue bicolor) and King Tzar (seal bicolor)
+title: Kittens available for reservation
 color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
   Traditional
 expected: September to December
