@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kittens available for reservation
+title: Kittens available for reservation now
 color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
   Traditional
 expected: July August September
