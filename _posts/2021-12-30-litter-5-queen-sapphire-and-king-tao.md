@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Litter 5 Queen Sapphire and King Tao
+title: Litter 6 Queen Sapphire and King Tao pending
 color: "Seal and Blue Bicolor and Mitted Kittens. "
-expected: July August 2022
+expected: October November 2022
 thumbnail: /assets/img/uploads/img_e2768.jpg
-reserved: "One or two will be reserved for Breeders. Taking reservations on others. "
+reserved: "Two are reserved for Breeders. "
 ---
  The picture is of King Tao. Although Sapphire is an experienced mom, this will be stunning Blue Bicolor King Tao's first litter. King Tao comes from Supreme Tica Champion lines in Idaho. His grandfather Jack is a very famous winner of many Championships. 
 
