@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Litter 6 Queen Aasia & King Tao (Pending)
+title: 2022 Litter 6 Queen Aasia & King Tao (Pending; taking reservations)
 color: Seal
 expected: September
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
