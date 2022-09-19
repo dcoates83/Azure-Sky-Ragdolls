@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2022 Litter 4 Queen Amethys and King Tzar
+title: 2022 Litter 4 Queen Amethys and King Tzar (most reserved; 1 left)
 color: " Seal, Lilac, Chocolate Mitted and Bicolor kittens"
 expected: Late June
 thumbnail: /assets/img/uploads/img_0274.jpg
-reserved: 1 reserved
+reserved: All reserved except for 1 chocolate mitted male; Naoki
 ---
 These kittens will be exceptionally friendly as in past litters with this cross and will be a mix of Seal (mostly), Lilac and Chocolate Bicolor and Mitted kittens. 
 
