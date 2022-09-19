@@ -3,7 +3,7 @@ layout: post
 title: Kittens available for reservation
 color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
   Traditional
-expected: September to December
+expected: July August September
 info: ""
 thumbnail: /assets/img/uploads/img_e1411.jpg
 reserved: Kittens available
@@ -20,8 +20,6 @@ All are reserved except for:
 
 **O﻿pal-** blue mink mitted female with large bib, one mitten is an evening glove and the other a 1/2 way to the elbow glove. 
 
-
-
 ***A﻿methys & Tzar July Litter:***
 
 All are reserved except for: 
@@ -31,8 +29,6 @@ All are reserved except for:
 **L﻿itter pending:** 
 
 ***A﻿asia & Tao September litter*** 
-
- 
 
 **Kittens are offered in this order:** 
 
