@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Litter 1 Queen Aiyla and King Tzar
+title: 2022 Litter 1 Queen Aiyla and King Tzar (reserved)
 color: Blue Mink Mitted, Bicolor and Colorpoint
 expected: Valentines day
 info: Healthy plump kittens born 20220214
