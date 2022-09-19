@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Litter 6 Queen Sapphire and King Tao pending
+title: 2022 Litter 6 Queen Sapphire and King Tao pending
 color: "Seal and Blue Bicolor and Mitted Kittens. "
 expected: October November 2022
 thumbnail: /assets/img/uploads/img_e2768.jpg
