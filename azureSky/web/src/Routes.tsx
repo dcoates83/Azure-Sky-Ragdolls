@@ -4,14 +4,16 @@
 //
 // Examples:
 //
-// 'src/pages/HomePage/HomePage.js'         -> HomePage
+// 'src/pages/AboutPage/AboutPage.js'         -> AboutPage
 // 'src/pages/Admin/BooksPage/BooksPage.js' -> AdminBooksPage
 
-import { Router, Route } from '@redwoodjs/router'
+import { Route, Router } from '@redwoodjs/router'
+import AboutPage from './pages/AboutPage/AboutPage'
 
 const Routes = () => {
   return (
     <Router>
+      <Route path="/about" page={AboutPage} name="About" />
       <Route notfound page={NotFoundPage} />
     </Router>
   )
