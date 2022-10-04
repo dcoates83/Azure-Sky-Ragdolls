@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Litter 2 Queen Aasia and King Tzar (all reserved)
+title: "2022 Spring Litter Queen Aasia and King Tzar "
 color: Seal Mink; Bicolor, Mitted and Colorpoint.
 expected: April 12, 2022
 thumbnail: /assets/img/uploads/img_0354.jpg
