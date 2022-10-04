@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fall 2023 we will be retiring Queen Sapphire "
+title: "Fall 2023 Queen Sapphire will need a quiet retirement home "
 color: Seal Bicolor
 expected: Early 2023
 thumbnail: /assets/img/uploads/img_e7764.jpg
