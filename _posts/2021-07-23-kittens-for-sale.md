@@ -6,35 +6,34 @@ color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
 expected: July August September
 info: ""
 thumbnail: /assets/img/uploads/img_e1411.jpg
-reserved: Kittens available
+reserved: KITTENS AVAILABLE FOR RESERVATION
 ---
-**We are taking reservations for kittens from:** 
+**K﻿ITTENS AVAILABLE:**
 
-***Aiyla & Tao's blue mink mitted August litter.*** 
+***Aiyla & Tao's blue mink mitted August litter** 2 left*
 
-All are reserved except for:
+**Odin:** blue mink mitted male with tippy toe mitts
 
-**Odette-** blue mink mitted female with cute tippy toe mittens
+**O﻿phelia-** blue mink mitted female with raccoon face markings (nose is dark but whisker area/chin bib are white. Larger mitts and boots. this is a very active kitten and would be a great Adventure Cat (Leash training for hiking etc.) 
 
-**O﻿phelia-** blue mink mitted female with raccoon face markings (nose is dark but whisker area/chin bib are white. Larger mitts and boots. 
+***A﻿methys & Tzar July Litter** 1 left*
 
-**O﻿pal-** blue mink mitted female with large bib, one mitten is an evening glove and the other a 1/2 way to the elbow glove. 
+**Naoki;** a very friendly chocolate traditional bicolor male. Going to be a big cat we think. 
 
-***A﻿methys & Tzar July Litter:***
+***Aasia & Tao September litter:** 2 left*
 
-All are reserved except for: 
+2﻿ reserved. 
 
-**Naoki; a very friendly chocolate traditional mitted male**
+***S﻿apphire & Tzar October litter:** PENDING*
 
-**L﻿itter pending:** 
+*2﻿ reserved*
 
-***A﻿asia & Tao September litter*** 
+**Kittens are offered to Forever Homes in the order of the date we received reservation deposits.** 
 
-**Kittens are offered in this order:** 
+All kittens are by reservation.
 
-1. To **depositors** in the order of the date we received their Deposit. 
-2. All kittens are by reservation;  you must fill out our Adoption Application, be pre approved and place deposit. Most kittens are reserved by the time they are born so it's important to place a deposit early to reserve your kitten. A 1-2 litter wait is normal in the spring for all reputable catteries. 
+ A 1-2 litter wait is normal in the **spring** for all reputable catteries. As such we are taking reservations for the 2023 spring litters as well. 
 
-   Please fill out our Adoption Application on our website azureskyragdolls.com. Because most kittens are reserved prior to birth or even conception it is recommended you reserve a kitten as early as possible by placing a deposit of half the price of your kitten. Contact us at azureskyragdolls@gmail.com re price. 
+Please fill out our Adoption Application on our website azureskyragdolls.com.  Contact us at azureskyragdolls@gmail.com re price. 
 
-   **All kittens go home with three sets of vaccines, fully wormed (minimum 4x), microchipped, altered and with a genetic Health Guarantee and Sales Agreement that protects you.**
+**All kittens go home with three sets of vaccines, fully wormed (4x), microchipped, altered and with a genetic Health Guarantee and Sales Agreement that protects you and your kitten.**
