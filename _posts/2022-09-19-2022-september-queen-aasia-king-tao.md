@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Fall litter Queen Aasia & King Tao  2 reserved
+title: 2022 Fall litter Queen Aasia & King Tao  (2 reserved)
 color: Seal
 expected: "October 4 "
 thumbnail: /assets/img/uploads/asr-aasia-220210314-img_e8139-2-.jpg
