@@ -1,0 +1,79 @@
+@import "utils";
+// .form-container {
+//   position: relative;
+//   display: block;
+// }
+form {
+  // position: relative;
+  // left: -20px;
+  border-radius: 5px;
+  margin: 1em;
+  max-width: 85vw;
+  // max-height: 30vh;
+  display: block;
+  margin: 1em auto;
+  padding: 1em;
+  font-size: 16px;
+
+  label {
+    display: block;
+  }
+  input,
+  textarea {
+    border-radius: 5px;
+    // border: 1px solid $grey-header;
+
+    width: 100%;
+    background-color: #eee;
+    // display: inline;
+    padding: 0.5em;
+  }
+  button {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    // background-color: #4d91f8;
+    background-color: #fff;
+    color: #5095fc;
+    font-weight: 600;
+    padding: 0.25em 0.5em;
+    border-radius: 10px;
+    // border: 1px solid $grey-primary;
+    box-shadow: 0 1px 2px $grey-header;
+  }
+  button:hover {
+    background-color: #5095fc;
+    color: #eee;
+  }
+}
+.family {
+  text-align: left;
+}
+.input-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 3%;
+}
+
+.email-help {
+  font-size: smaller;
+  color: $grey-header;
+}
+
+@media (min-width: 500px) {
+  form {
+    border: 1px solid rgb(222, 226, 230);
+    border: 1px solid rgb(222, 226, 230);
+    box-shadow: 0 0 3px rgb(222, 226, 230);
+    width: 80vw;
+    // background-color: $background-two;
+    button {
+      width: 50%;
+    }
+  }
+}
+@media (min-width: 750px) {
+  form {
+    width: 50vw;
+  }
+}

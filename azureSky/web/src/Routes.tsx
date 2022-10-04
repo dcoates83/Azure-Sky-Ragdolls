@@ -13,6 +13,7 @@ import AboutPage from './pages/AboutPage/AboutPage'
 const Routes = () => {
   return (
     <Router>
+      <Route path="/" page={HomePage} name="home" />
       <Route path="/about" page={AboutPage} name="About" />
       <Route notfound page={NotFoundPage} />
     </Router>
