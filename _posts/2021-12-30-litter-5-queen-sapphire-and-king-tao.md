@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Fall litter Queen Sapphire and King Tzar October
+title: 2022 Fall litter Queen Sapphire and King Tzar October PENDING IN OCTOBER
 color: "Seal Bicolor and Mitted Kittens. "
 expected: "October 2022 "
 thumbnail: /assets/img/uploads/img_0335-1-.jpg
