@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Litter 4 Queen Amethys and King Tzar (1 AVAILABLE)
+title: 2022 Summer Litter Queen Amethys and King Tzar (1 AVAILABLE)
 color: " Seal, Lilac, Chocolate Mitted and Bicolor kittens"
 expected: Late June
 thumbnail: /assets/img/uploads/img_0274.jpg
