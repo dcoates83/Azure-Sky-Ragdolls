@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022 Spring Litter Queen Aasia and King Tzar "
+title: 2022 Spring Litter Queen Aasia and King Tzar (all gone home)
 color: Seal Mink; Bicolor, Mitted and Colorpoint.
 expected: April 12, 2022
 thumbnail: /assets/img/uploads/img_0354.jpg
