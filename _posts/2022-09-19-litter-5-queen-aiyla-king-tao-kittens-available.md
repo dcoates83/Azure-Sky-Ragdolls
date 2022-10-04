@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Late Summer Litter Queen Aiyla & King Tao 2 left for reservation
+title: 2022 Late Summer Litter Queen Aiyla & King Tao (2 left for reservation)
 color: Blue mink mitted and bicolor
 expected: August 2022
 info: Message us for pictures of the kittens or follow our Azure Sky Ragdolls
