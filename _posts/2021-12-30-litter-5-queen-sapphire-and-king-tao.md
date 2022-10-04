@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2022 Fall litter Queen Sapphire and King Tzar October PENDING IN OCTOBER
+title: 2022 Fall litter Queen Sapphire and King Tzar October (2 reserved)
 color: "Seal Bicolor and Mitted Kittens. "
 expected: "October 2022 "
 thumbnail: /assets/img/uploads/img_0335-1-.jpg
-reserved: Two are reserved pre conception
+reserved: Two reserved pre conception
 ---
  Queen Sapphire and King Tzar are seal bicolor so according to the genetic Punnett Square (a device used to predict kitten colors and markings) 25%- 50% of these kittens will mitted and 50-75% will be Bicolor. All will be seal. 
 
