@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 2022 Litter 7 Queen Sapphire and King Tao pending
-color: "Seal and Blue Bicolor and Mitted Kittens. "
-expected: "October November 2022 "
-thumbnail: /assets/img/uploads/img_e2768.jpg
-reserved: "Two are reserved for Breeders. "
+title: 2022 Fall litter Queen Sapphire and King Tzar October
+color: "Seal Bicolor and Mitted Kittens. "
+expected: "October 2022 "
+thumbnail: /assets/img/uploads/img_0335-1-.jpg
+reserved: Two are reserved pre conception
 ---
- The picture is of King Tao. Although Sapphire is an experienced mom, this will be stunning Blue Bicolor King Tao's first litter. King Tao comes from Supreme Tica Champion lines in Idaho. His grandfather Jack is a very famous winner of many Championships. 
+ Queen Sapphire and King Tzar are seal bicolor so according to the genetic Punnett Square (a device used to predict kitten colors and markings) 25%- 50% of these kittens will mitted and 50-75% will be Bicolor. All will be seal. 
 
-Tao may look very regal, but he is actually a very snuggly guy. He likes to spend hours in your lap spending time with you. 
+These kittens will have the easy care traditional Ragdoll coat where the undercoat is less heavy than other long hair breeds. 
 
-According to the genetic Punnett Square; a device used to predict kitten colors and markings, 25%  of these kittens will mitted and 75% will be Bicolor. Most will be seal. Some may be blue.
+Sapphire quite bonded to Tzar. They have lovely affectionate kittens every time.
