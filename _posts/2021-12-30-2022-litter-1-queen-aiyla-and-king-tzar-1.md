@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2022 Litter 1 Queen Aiyla and King Tzar (reserved)
-color: Blue Mink Mitted, Bicolor and Colorpoint
+title: 2022 Winter litter Queen Aiyla and King Tzar (all gone to their Forever Homes)
+color: Blue Mink  and Seal Mitted, Bicolor and Colorpoint
 expected: Valentines day
-info: Healthy plump kittens born 20220214
+info: All gone home with their Forever Mom & Dads
 thumbnail: /assets/img/uploads/img_0194-1-.jpg
 reserved: All reserved
 ---
