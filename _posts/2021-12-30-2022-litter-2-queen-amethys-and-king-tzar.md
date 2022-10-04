@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 2022 Summer Litter Queen Amethys and King Tzar (1 AVAILABLE)
+title: 2022  Late Summer Litter Queen Amethys and King Tzar (1 chocolate bicolor
+  AVAILABLE)
 color: " Seal, Lilac, Chocolate Mitted and Bicolor kittens"
 expected: Late June
 thumbnail: /assets/img/uploads/img_0274.jpg
 reserved: All reserved except for 1 chocolate mitted male; Naoki
 ---
-These kittens will be exceptionally friendly as in past litters with this cross and will be a mix of Seal (mostly), Lilac and Chocolate Bicolor and Mitted kittens. 
+Naoki, an extremely friendly chocolate bicolor male kitten is looking for his forever home. Equally good as a lap cat or an an adventure cat, this kittens personality and confidence mean he would be a great cat for kids and dogs OR just a one person cuddler. 
 
 Amethys is our Lilac Bicolor sweetness and light. She is a loving, snuggly kind of cat and takes very good care of her kittens; never wanting to wean them. 
 
