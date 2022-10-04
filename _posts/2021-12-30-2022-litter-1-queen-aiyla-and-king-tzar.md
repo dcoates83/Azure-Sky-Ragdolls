@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2022 Litter 3 Queen Athena and King Tao (reserved)
-color: "These kittens will be traditional Blue Bicolor and Mitted "
-expected: June/July
+title: 2022 Spring Litter Queen Athena and King Tao (all gone to their Forever Homes)
+color: "These kittens were traditional Blue Mitted "
+expected: May
 info: ""
 thumbnail: assets/img/uploads/img_e2768.jpg
 reserved: All have gone to their loving Forever Homes
