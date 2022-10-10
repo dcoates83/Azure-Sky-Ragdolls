@@ -38,10 +38,11 @@ function NavBar(props: Props) {
   }
 
   const drawer = (
-    <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center' }}>
-      <Typography variant="h6" sx={{ my: 2 }}>
-        <LogoComponent />
-      </Typography>
+    <Box
+      onClick={handleDrawerToggle}
+      sx={{ textAlign: 'center', height: '50px' }}
+    >
+      <LogoComponent />
       <Divider />
       <List>
         {navItems.map((item) => (
@@ -74,7 +75,10 @@ function NavBar(props: Props) {
           <Typography
             variant="h6"
             component="div"
-            sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
+            sx={{
+              flexGrow: 1,
+              display: { xs: 'none', sm: 'block', height: '50px' },
+            }}
           >
             <LogoComponent />
           </Typography>
