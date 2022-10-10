@@ -35,7 +35,7 @@ function NavBar(props: Props) {
     if (item === 'Home') {
       return navigate(`/`)
     }
-    navigate(`/${item}`)
+    navigate(`/${item.replace(/\s+/, '')}`)
   }
 
   return (
