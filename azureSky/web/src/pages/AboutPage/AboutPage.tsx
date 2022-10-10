@@ -12,7 +12,7 @@ const AboutPage = () => {
       />
       <section id="about" className="section">
         <img
-          src="assets/history-landing.jpg"
+          src="../../assets/history-landing.jpg"
           alt=""
           className="history-landing"
         />
@@ -73,7 +73,7 @@ const AboutPage = () => {
               picked up.
             </p>
             <div className="ragdoll-history-img">
-              <img src="assets/josephine.jpeg" alt="josephine ragdoll" />
+              <img src="../../assets/josephine.jpeg" alt="josephine ragdoll" />
             </div>
             <p>
               Subsequent litter produced more of the same. Ann Baker believed
@@ -93,17 +93,17 @@ const AboutPage = () => {
             </p>
             <div className="ragdoll-history-img">
               <img
-                src="assets/fugianna.jpeg"
+                src="../../assets/fugianna.jpeg"
                 alt="fugianna cat"
                 className="history-img"
               />
               <img
-                src="assets/Daddy warbucks.jpeg"
+                src="../../assets/Daddy warbucks.jpeg"
                 alt="daddy warbucks cat"
                 className="history-img"
               />
               <img
-                src="assets/buckwheat.jpeg"
+                src="../../assets/buckwheat.jpeg"
                 alt="buckwheat cat"
                 className="history-img"
               />
@@ -120,7 +120,7 @@ const AboutPage = () => {
             <h4 className="header">Grumpy Cat</h4>
             <div className="ragdoll-history-img">
               <img
-                src="assets/grumpycat.jpeg"
+                src="../../assets/grumpycat.jpeg"
                 alt="grumpy cat"
                 className="heading-img"
               />
@@ -150,7 +150,7 @@ const AboutPage = () => {
               belly, bib, and a white V over the nose.
             </p>
             <img
-              src="assets/r-apperance.jpg"
+              src="../../assets/r-apperance.jpg"
               alt="cat looking up"
               className="background-image"
             />
@@ -165,12 +165,12 @@ const AboutPage = () => {
             </p>
             <div className="ragdoll-history-img">
               <img
-                src="assets/r-eyes.jpg"
+                src="../../assets/r-eyes.jpg"
                 alt="eyes of a ragdoll"
                 className="heading-img"
               />
               <img
-                src="assets/r-eyes-green.jpeg"
+                src="../../assets/r-eyes-green.jpeg"
                 alt="green ragdoll eyes"
                 className="heading-img"
               />
@@ -230,7 +230,7 @@ const AboutPage = () => {
             </p>
             <div className="ragdoll-history-img">
               <img
-                src="assets/r-leash.jpeg"
+                src="../../assets/r-leash.jpeg"
                 alt="ragdoll on a leash"
                 className="heading-img"
               />
@@ -292,7 +292,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Seal</h4>
                   <img
-                    src="assets/sapphire-with-kitten.jpeg"
+                    src="../../assets/sapphire-with-kitten.jpeg"
                     alt="Seal point ragdoll"
                     className="ragdoll-img"
                   />
@@ -305,7 +305,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Blue</h4>
                   <img
-                    src="assets/athena-catbed.jpeg"
+                    src="../../assets/athena-catbed.jpeg"
                     alt="Blue Point"
                     className="ragdoll-img"
                   />
@@ -318,7 +318,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Chocolate</h4>
                   <img
-                    src="assets/chocolate.jpg"
+                    src="../../assets/chocolate.jpg"
                     alt="Chocolate point ragdoll"
                     className="ragdoll-img"
                   />
@@ -331,7 +331,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Lilac</h4>
                   <img
-                    src="assets/Amethyst.jpeg"
+                    src="../../assets/Amethyst.jpeg"
                     alt="Lilac point ragdoll"
                     className="ragdoll-img"
                   />
@@ -344,7 +344,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Red</h4>
                   <img
-                    src="assets/Flame-point-Ragdoll-cat.jpeg"
+                    src="../../assets/Flame-point-Ragdoll-cat.jpeg"
                     alt="Red point ragdoll"
                     className="ragdoll-img"
                   />
@@ -361,7 +361,7 @@ const AboutPage = () => {
                     Tortie & Calicos
                   </h4>
                   <img
-                    src="assets/Seal-Tortie-Ragdoll-cat-from-Kansas-Ragdolls-bred-by-Leanna-at-House-of-Steward-Ragdolls-625x469.jpeg"
+                    src="../../assets/Seal-Tortie-Ragdoll-cat-from-Kansas-Ragdolls-bred-by-Leanna-at-House-of-Steward-Ragdolls-625x469.jpeg"
                     alt="Tortie Ragdoll"
                     className="ragdoll-img"
                   />
@@ -379,7 +379,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Solid</h4>
                   <img
-                    src="assets/solid.jpeg"
+                    src="../../assets/solid.jpeg"
                     alt="Solid color ragdoll"
                     className="ragdoll-img"
                   />
@@ -394,7 +394,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Bicolor</h4>
                   <img
-                    src="assets/tzar-box.jpeg"
+                    src="../../assets/tzar-box.jpeg"
                     alt="Tzar in a box"
                     className="ragdoll-img"
                   />
@@ -409,7 +409,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">High White</h4>
                   <img
-                    src="assets/dandilion.jpeg"
+                    src="../../assets/dandilion.jpeg"
                     alt="van ragdoll"
                     className="ragdoll-img"
                   />
@@ -428,7 +428,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Mitted</h4>
                   <img
-                    src="assets/Ailya mom.JPG"
+                    src="../../assets/Ailya mom.JPG"
                     alt="mitted ragdoll"
                     className="ragdoll-img"
                   />
@@ -460,7 +460,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Standard Minks</h4>
                   <img
-                    src="assets/Ailya mom.JPG"
+                    src="../../assets/Ailya mom.JPG"
                     alt="ailyas mom"
                     className="ragdoll-img"
                   />
@@ -478,7 +478,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Sepia</h4>
                   <img
-                    src="assets/aasia-bed.jpeg"
+                    src="../../assets/aasia-bed.jpeg"
                     alt="aasia in her cat bed"
                     className="ragdoll-img"
                   />
@@ -500,7 +500,7 @@ const AboutPage = () => {
             <h4 className="color-header">Be careful what you hear!</h4>
             <p>
               Despite some completely wrong rumors you find on the internet{' '}
-              <em>that Minks are not purebred Ragdolls;</em>
+              <em>that Minks are not purebred Ragdolls; </em>
               they <strong>absolutely are.</strong> While not show standard yet,
               they can be traced back to the original lines via DNA tests and
               registration records, all purebred Mink Ragdolls are recognized by

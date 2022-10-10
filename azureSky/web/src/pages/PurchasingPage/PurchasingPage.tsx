@@ -66,7 +66,7 @@ const PurchasingPage = () => {
           </p>
           <div className="deposit-price">
             <img
-              src="assets/kittens-deposit.jpeg"
+              src="../../assets/kittens-deposit.jpeg"
               alt="kitten on a couch"
               className="deposit-img"
             />
@@ -904,7 +904,11 @@ const PurchasingPage = () => {
                   </g>
                 </g>
               </svg>
-              <img src="assets/Azure-logo-sans.svg" alt="logo" srcSet="" />
+              <img
+                src="../../assets/Azure-logo-sans.svg"
+                alt="logo"
+                srcSet=""
+              />
             </div>
           </div>
         </div>
@@ -1010,7 +1014,7 @@ const PurchasingPage = () => {
             stressful for the kitten as it is traveling with a sibling.
           </p>
           <img
-            src="assets/aasia-kitten.jpg"
+            src="../../assets/aasia-kitten.jpg"
             alt="aasia as a kitten"
             className="deposit-img"
           />
@@ -1138,7 +1142,7 @@ const PurchasingPage = () => {
 
       <section id="faq">
         <img
-          src="assets/cat-cattower.jpeg"
+          src="../../assets/cat-cattower.jpeg"
           alt=""
           className="background-image"
         />

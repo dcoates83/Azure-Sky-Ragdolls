@@ -9,12 +9,12 @@ const HomePage = () => {
       <section className="landing">
         <img
           className="hero-background-image"
-          src="assets/Landing.jpg"
+          src="../../assets/Landing.jpg"
           alt="main-img"
         />
         <div className="hero-container">
           <img
-            src="assets/cat-in-box.jpeg"
+            src="../..assets/cat-in-box.jpeg"
             alt="cat in a box"
             className="second-hero"
           />
@@ -26,7 +26,7 @@ const HomePage = () => {
           All of our cats are tica Registered
         </p>
         <img
-          src="assets/Tica.png"
+          src="../../assets/Tica.png"
           alt="tica"
           srcSet=""
           className="registered-tica"
@@ -52,7 +52,7 @@ const HomePage = () => {
       <section id="queens">
         <div className=" center queens-header-container">
           <img
-            src="assets/ragdoll-splash-min.jpg"
+            src="../../assets/ragdoll-splash-min.jpg"
             alt="background image of cat"
             className="background-image"
           />
@@ -74,7 +74,7 @@ const HomePage = () => {
             <div className="queen">
               <h4 className="color-header king">Tzar</h4>
               <img
-                src="assets/tzar-bear.jpeg"
+                src="../../assets/tzar-bear.jpeg"
                 alt="Tzar"
                 className="ragdoll-img"
               />
@@ -85,7 +85,7 @@ const HomePage = () => {
             <div className="queen">
               <h4 className="color-header">Sapphire</h4>
               <img
-                src="assets/sapphire-with-kitten.jpeg"
+                src="../../assets/sapphire-with-kitten.jpeg"
                 alt="sapphire"
                 className="ragdoll-img"
               />
@@ -94,7 +94,7 @@ const HomePage = () => {
             <div className="queen">
               <h4 className="color-header">Amethys</h4>
               <img
-                src="assets/Amethyst.jpeg"
+                src="../../assets/Amethyst.jpeg"
                 alt="amethys"
                 className="ragdoll-img"
               />
@@ -103,7 +103,7 @@ const HomePage = () => {
             <div className="queen">
               <h4 className="color-header">Aiyla</h4>
               <img
-                src="assets/aiyla.jpeg"
+                src="../../assets/aiyla.jpeg"
                 alt="ailya"
                 className="ragdoll-img"
               />
@@ -112,7 +112,7 @@ const HomePage = () => {
             <div className="queen">
               <h4 className="color-header">Aasia </h4>
               <img
-                src="assets/Aasia.jpeg"
+                src="../../assets/Aasia.jpeg"
                 alt="aasia"
                 className="ragdoll-img"
               />
@@ -121,7 +121,7 @@ const HomePage = () => {
             <div className="queen">
               <h4 className="color-header ">Athena</h4>
               <img
-                src="assets/athena-catbed.jpeg"
+                src="../../assets/athena-catbed.jpeg"
                 alt="athena"
                 className="ragdoll-img"
               />
@@ -203,7 +203,7 @@ const HomePage = () => {
               promoting the health, welfare, and quality of all purebred cats.
             </strong>
           </p>
-          <img src="assets/Tica.png" alt="tica logo" className="tica" />
+          <img src="../../assets/Tica.png" alt="tica logo" className="tica" />
           <p>
             As a source of information, we highly recommend accessing
             <a rel="noreferrer" href="http://tica.org">
@@ -219,7 +219,7 @@ const HomePage = () => {
           </p>
         </div>
       </section>
-      <section id="sopia">
+      <section id="sophia">
         <div className="container-text">
           <h1 className="header-2 center">
             Our assistant kitten worker
@@ -227,12 +227,12 @@ const HomePage = () => {
           </h1>
           <div className="sophia">
             <img
-              src="assets/sophia-2.png"
+              src="../../assets/sophia-2.png"
               alt="sophia"
               className="ragdoll-img"
             />
             <img
-              src="assets/sophia-3.jpeg"
+              src="../../assets/sophia-3.jpeg"
               alt="sophia"
               className="ragdoll-img"
             />
