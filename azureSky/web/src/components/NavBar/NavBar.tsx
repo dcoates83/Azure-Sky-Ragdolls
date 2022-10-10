@@ -1,34 +1,35 @@
-import MenuIcon from '@mui/icons-material/Menu'
+import {
+  BottomNavigation,
+  BottomNavigationAction,
+  Paper,
+  useMediaQuery,
+  useTheme,
+} from '@mui/material'
 import AppBar from '@mui/material/AppBar'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
-import Divider from '@mui/material/Divider'
-import Drawer from '@mui/material/Drawer'
-import IconButton from '@mui/material/IconButton'
-import List from '@mui/material/List'
-import ListItem from '@mui/material/ListItem'
-import ListItemButton from '@mui/material/ListItemButton'
-import ListItemText from '@mui/material/ListItemText'
 import Toolbar from '@mui/material/Toolbar'
 import Typography from '@mui/material/Typography'
-import { Link, navigate, routes } from '@redwoodjs/router'
+import { navigate } from '@redwoodjs/router'
 import * as React from 'react'
 import Logo from '../../img/Logo.svg'
-interface Props {
-  navItems: string[]
+
+interface INavItems {
+  name: string
+  icon: React.ReactNode
 }
 
-const drawerWidth = 240
+interface Props {
+  navItems: INavItems[]
+}
 
-const LogoComponent = () => <Logo />
+const LogoComponent = (props: any) => <Logo {...props} />
 
 function NavBar(props: Props) {
   const { navItems } = props
-  const [mobileOpen, setMobileOpen] = React.useState(false)
-
-  const handleDrawerToggle = () => {
-    setMobileOpen(!mobileOpen)
-  }
+  const theme = useTheme()
+  const isMobile = useMediaQuery(theme.breakpoints.down('sm'))
+  const [value, setValue] = React.useState(0)
 
   const _handleNavigate = (item: string) => {
     if (item === 'Home') {
@@ -37,81 +38,61 @@ function NavBar(props: Props) {
     navigate(`/${item}`)
   }
 
-  const drawer = (
-    <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center' }}>
-      <LogoComponent />
-      <Divider />
-      <List>
-        {navItems.map((item) => (
-          <ListItem key={item} disablePadding>
-            <ListItemButton
-              sx={{ textAlign: 'center' }}
-              onClick={() => _handleNavigate(item)}
-            >
-              <ListItemText primary={item} />
-            </ListItemButton>
-          </ListItem>
-        ))}
-      </List>
-    </Box>
-  )
-
   return (
-    <Box sx={{ display: 'flex' }}>
+    <>
+      (
       <AppBar component="nav" color="default">
         <Toolbar>
-          <IconButton
-            color="inherit"
-            aria-label="open drawer"
-            edge="start"
-            onClick={handleDrawerToggle}
-            sx={{ mr: 2, display: { sm: 'none' } }}
-          >
-            <MenuIcon />
-          </IconButton>
-          <Typography
-            variant="h6"
+          <Box
             component="div"
             sx={{
               flexGrow: 1,
-              display: { xs: 'none', sm: 'block', height: '60px' },
+              display: { height: '60px' },
+              pt: 0.5,
             }}
           >
-            <LogoComponent />
-          </Typography>
-          <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
-            {navItems.map((item) => (
-              <Button
-                key={item}
-                sx={{ color: 'text.primary' }}
-                onClick={() => _handleNavigate(item)}
-              >
-                {item}
-              </Button>
-            ))}
+            <LogoComponent onClick={() => _handleNavigate('Home')} />
           </Box>
+          <>
+            {!isMobile && (
+              <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
+                {navItems.map((item) => (
+                  <Button
+                    key={item.name}
+                    sx={{ color: 'text.primary' }}
+                    onClick={() => _handleNavigate(item.name)}
+                  >
+                    {item.name}
+                  </Button>
+                ))}
+              </Box>
+            )}
+          </>
         </Toolbar>
       </AppBar>
-      <Box component="nav">
-        <Drawer
-          variant="temporary"
-          open={mobileOpen}
-          onClose={handleDrawerToggle}
-          ModalProps={{
-            keepMounted: true, // Better open performance on mobile.
-          }}
-          sx={{
-            display: { xs: 'block', sm: 'none' },
-            '& .MuiDrawer-paper': {
-              boxSizing: 'border-box',
-              width: drawerWidth,
-            },
-          }}
+      {isMobile && (
+        <Paper
+          sx={{ position: 'fixed', bottom: 0, left: 0, right: 0 }}
+          elevation={3}
         >
-          {drawer}
-        </Drawer>
-      </Box>
-    </Box>
+          <BottomNavigation
+            showLabels
+            value={value}
+            onChange={(event, newValue) => {
+              setValue(newValue)
+            }}
+          >
+            {navItems.map((item) => (
+              <BottomNavigationAction
+                label={item.name}
+                icon={item.icon}
+                onClick={() => _handleNavigate(item.name)}
+              />
+            ))}
+          </BottomNavigation>
+        </Paper>
+      )}
+    </>
   )
 }
 
