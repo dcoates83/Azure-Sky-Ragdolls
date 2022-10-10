@@ -13,17 +13,14 @@ import Toolbar from '@mui/material/Toolbar'
 import Typography from '@mui/material/Typography'
 import { Link, navigate, routes } from '@redwoodjs/router'
 import * as React from 'react'
-
+import Logo from '../../img/Logo.svg'
 interface Props {
-  /**
-   * Injected by the documentation to work in an iframe.
-   * You won't need it on your project.
-   */
   navItems: string[]
 }
 
 const drawerWidth = 240
-// const navItems = ['Home', 'About', 'Contact']
+
+const LogoComponent = () => <Logo />
 
 function NavBar(props: Props) {
   const { navItems } = props
@@ -33,16 +30,26 @@ function NavBar(props: Props) {
     setMobileOpen(!mobileOpen)
   }
 
+  const _handleNavigate = (item: string) => {
+    if (item === 'Home') {
+      return navigate(`/`)
+    }
+    navigate(`/${item}`)
+  }
+
   const drawer = (
     <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center' }}>
       <Typography variant="h6" sx={{ my: 2 }}>
-        MUI
+        <LogoComponent />
       </Typography>
       <Divider />
       <List>
         {navItems.map((item) => (
           <ListItem key={item} disablePadding>
-            <ListItemButton sx={{ textAlign: 'center' }}>
+            <ListItemButton
+              sx={{ textAlign: 'center' }}
+              onClick={() => _handleNavigate(item)}
+            >
               <ListItemText primary={item} />
             </ListItemButton>
           </ListItem>
@@ -69,16 +76,16 @@ function NavBar(props: Props) {
             component="div"
             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
           >
-            Azure Sky Logo
+            <LogoComponent />
           </Typography>
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
             {navItems.map((item) => (
               <Button
                 key={item}
                 sx={{ color: '#fff' }}
-                onClick={() => navigate(`/${item}`)}
+                onClick={() => _handleNavigate(item)}
               >
-                <Link to={`/${item}`}>{item}</Link>
+                {item}
               </Button>
             ))}
           </Box>
