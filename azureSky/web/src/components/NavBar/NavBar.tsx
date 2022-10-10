@@ -38,10 +38,7 @@ function NavBar(props: Props) {
   }
 
   const drawer = (
-    <Box
-      onClick={handleDrawerToggle}
-      sx={{ textAlign: 'center', height: '50px' }}
-    >
+    <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center' }}>
       <LogoComponent />
       <Divider />
       <List>
@@ -61,7 +58,7 @@ function NavBar(props: Props) {
 
   return (
     <Box sx={{ display: 'flex' }}>
-      <AppBar component="nav">
+      <AppBar component="nav" color="default">
         <Toolbar>
           <IconButton
             color="inherit"
@@ -77,7 +74,7 @@ function NavBar(props: Props) {
             component="div"
             sx={{
               flexGrow: 1,
-              display: { xs: 'none', sm: 'block', height: '50px' },
+              display: { xs: 'none', sm: 'block', height: '60px' },
             }}
           >
             <LogoComponent />
@@ -86,7 +83,7 @@ function NavBar(props: Props) {
             {navItems.map((item) => (
               <Button
                 key={item}
-                sx={{ color: '#fff' }}
+                sx={{ color: 'text.primary' }}
                 onClick={() => _handleNavigate(item)}
               >
                 {item}
