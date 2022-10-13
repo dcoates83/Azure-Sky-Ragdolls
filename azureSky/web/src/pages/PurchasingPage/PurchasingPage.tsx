@@ -1,5 +1,9 @@
 import { Link, routes } from '@redwoodjs/router'
 import { MetaTags } from '@redwoodjs/web'
+import aasia from '../../assets/aasia-kitten.jpg'
+import Logo from '../../assets/Azure-logo-sans.svg'
+import catTower from '../../assets/cat-cattower.jpg'
+import deposit from '../../assets/kittens-deposit.jpg'
 // ---
 // layout: default
 // title: Purchasing Ragdolls
@@ -66,7 +70,7 @@ const PurchasingPage = () => {
           </p>
           <div className="deposit-price">
             <img
-              src="../../assets/kittens-deposit.jpeg"
+              src={deposit}
               alt="kitten on a couch"
               className="deposit-img"
             />
@@ -904,11 +908,7 @@ const PurchasingPage = () => {
                   </g>
                 </g>
               </svg>
-              <img
-                src="../../assets/Azure-logo-sans.svg"
-                alt="logo"
-                srcSet=""
-              />
+              <Logo />
             </div>
           </div>
         </div>
@@ -1013,11 +1013,7 @@ const PurchasingPage = () => {
             for Kitten Pooling. This save owners time, money, and is less
             stressful for the kitten as it is traveling with a sibling.
           </p>
-          <img
-            src="../../assets/aasia-kitten.jpg"
-            alt="aasia as a kitten"
-            className="deposit-img"
-          />
+          <img src={aasia} alt="aasia as a kitten" className="deposit-img" />
         </div>
       </section>
 
@@ -1141,11 +1137,7 @@ const PurchasingPage = () => {
       </section>
 
       <section id="faq">
-        <img
-          src="../../assets/cat-cattower.jpeg"
-          alt=""
-          className="background-image"
-        />
+        <img src={catTower} alt="" className="background-image" />
         <div className="faq-subheader">
           <h2 className="questions">
             QUESTIONS AROUND AN AZURE SKY RAGDOLL KITTEN?

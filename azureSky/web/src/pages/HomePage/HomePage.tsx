@@ -1,5 +1,17 @@
 import { Link, routes } from '@redwoodjs/router'
 import { MetaTags } from '@redwoodjs/web'
+import aasia from '../../assets/Aasia.jpg'
+import aiyla from '../../assets/aiyla.jpg'
+import Amethyst from '../../assets/Amethyst.jpg'
+import athena from '../../assets/athena-catbed.jpg'
+import catInBox from '../../assets/cat-in-box.jpg'
+import Landing from '../../assets/Landing.jpg'
+import ragdollSplash from '../../assets/ragdoll-splash-min.jpg'
+import sapphiresKitten from '../../assets/sapphire-with-kitten.jpg'
+import sophia2 from '../../assets/sophia-2.png'
+import sophia3 from '../../assets/sophia-3.jpg'
+import tica from '../../assets/Tica.png'
+import tzarBear from '../../assets/tzar-bear.jpg'
 
 const HomePage = () => {
   return (
@@ -7,17 +19,9 @@ const HomePage = () => {
       <MetaTags title="Home" description="Home page" />
 
       <section className="landing">
-        <img
-          className="hero-background-image"
-          src="../../assets/Landing.jpg"
-          alt="main-img"
-        />
+        <img className="hero-background-image" src={Landing} alt="main-img" />
         <div className="hero-container">
-          <img
-            src="../..assets/cat-in-box.jpeg"
-            alt="cat in a box"
-            className="second-hero"
-          />
+          <img src={catInBox} alt="cat in a box" className="second-hero" />
           <div className="rectangle">
             <p className="hero-text">Fall in love with your new friend</p>
           </div>
@@ -25,12 +29,7 @@ const HomePage = () => {
         <p className="registered-text registered">
           All of our cats are tica Registered
         </p>
-        <img
-          src="../../assets/Tica.png"
-          alt="tica"
-          srcSet=""
-          className="registered-tica"
-        />
+        <img src={tica} alt="tica" srcSet="" className="registered-tica" />
       </section>
       <section id="about">
         <div className="container-text">
@@ -52,7 +51,7 @@ const HomePage = () => {
       <section id="queens">
         <div className=" center queens-header-container">
           <img
-            src="../../assets/ragdoll-splash-min.jpg"
+            src={ragdollSplash}
             alt="background image of cat"
             className="background-image"
           />
@@ -73,11 +72,7 @@ const HomePage = () => {
           <div className="ragdoll-img-container">
             <div className="queen">
               <h4 className="color-header king">Tzar</h4>
-              <img
-                src="../../assets/tzar-bear.jpeg"
-                alt="Tzar"
-                className="ragdoll-img"
-              />
+              <img src={tzarBear} alt="Tzar" className="ragdoll-img" />
               <div className="queen-text">
                 <p>Mr Mellow, likes to sleep with our dog</p>
               </div>
@@ -85,7 +80,7 @@ const HomePage = () => {
             <div className="queen">
               <h4 className="color-header">Sapphire</h4>
               <img
-                src="../../assets/sapphire-with-kitten.jpeg"
+                src={sapphiresKitten}
                 alt="sapphire"
                 className="ragdoll-img"
               />
@@ -93,38 +88,22 @@ const HomePage = () => {
             </div>
             <div className="queen">
               <h4 className="color-header">Amethys</h4>
-              <img
-                src="../../assets/Amethyst.jpeg"
-                alt="amethys"
-                className="ragdoll-img"
-              />
+              <img src={Amethyst} alt="amethys" className="ragdoll-img" />
               <p>Amethyst is sweet and snuggly</p>
             </div>
             <div className="queen">
               <h4 className="color-header">Aiyla</h4>
-              <img
-                src="../../assets/aiyla.jpeg"
-                alt="ailya"
-                className="ragdoll-img"
-              />
+              <img src={aiyla} alt="ailya" className="ragdoll-img" />
               <p>Still developing her beautiful coat</p>
             </div>
             <div className="queen">
               <h4 className="color-header">Aasia </h4>
-              <img
-                src="../../assets/Aasia.jpeg"
-                alt="aasia"
-                className="ragdoll-img"
-              />
+              <img src={aasia} alt="aasia" className="ragdoll-img" />
               <p>She is an absolute Sweet Pea</p>
             </div>
             <div className="queen">
               <h4 className="color-header ">Athena</h4>
-              <img
-                src="../../assets/athena-catbed.jpeg"
-                alt="athena"
-                className="ragdoll-img"
-              />
+              <img src={athena} alt="athena" className="ragdoll-img" />
               <p>Athena likes to cuddle at bedtime</p>
             </div>
           </div>
@@ -203,7 +182,7 @@ const HomePage = () => {
               promoting the health, welfare, and quality of all purebred cats.
             </strong>
           </p>
-          <img src="../../assets/Tica.png" alt="tica logo" className="tica" />
+          <img src={tica} alt="tica logo" className="tica" />
           <p>
             As a source of information, we highly recommend accessing
             <a rel="noreferrer" href="http://tica.org">
@@ -226,16 +205,8 @@ const HomePage = () => {
             <br />- Nanny Sophia -
           </h1>
           <div className="sophia">
-            <img
-              src="../../assets/sophia-2.png"
-              alt="sophia"
-              className="ragdoll-img"
-            />
-            <img
-              src="../../assets/sophia-3.jpeg"
-              alt="sophia"
-              className="ragdoll-img"
-            />
+            <img src={sophia2} alt="sophia" className="ragdoll-img" />
+            <img src={sophia3} alt="sophia" className="ragdoll-img" />
           </div>
           <p>
             Sophia has been raised with cats since she was little; they are part

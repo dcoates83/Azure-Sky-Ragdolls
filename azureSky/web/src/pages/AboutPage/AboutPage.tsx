@@ -1,6 +1,26 @@
 import { Link, routes } from '@redwoodjs/router'
 import { MetaTags } from '@redwoodjs/web'
-
+import aasia from '../../assets/aasia-bed.jpg'
+import ailyaMom from '../../assets/Ailya mom.jpg'
+import amethyst from '../../assets/Amethyst.jpg'
+import athena from '../../assets/athena-catbed.jpg'
+import buckwheat from '../../assets/buckwheat.jpg'
+import chocolate from '../../assets/chocolate.jpg'
+import daddyWarbucks from '../../assets/Daddy warbucks.jpg'
+import dandelion from '../../assets/dandilion.jpg'
+import flamePoint from '../../assets/Flame-point-Ragdoll-cat.jpg'
+import fugianna from '../../assets/fugianna.jpg'
+import grumpyCat from '../../assets/grumpycat.jpg'
+import historyLanding from '../../assets/history-landing.jpg'
+import josephine from '../../assets/josephine.jpg'
+import appearance from '../../assets/r-apperance.jpg'
+import eyesGreen from '../../assets/r-eyes-green.jpg'
+import eyes from '../../assets/r-eyes.jpg'
+import leash from '../../assets/r-leash.jpg'
+import sapphire from '../../assets/sapphire-with-kitten.jpg'
+import seal from '../../assets/Seal-Tortie-Ragdoll-cat-from-Kansas-Ragdolls-bred-by-Leanna-at-House-of-Steward-Ragdolls-625x469.jpg'
+import solid from '../../assets/solid.jpg'
+import tzar from '../../assets/tzar-box.jpg'
 const AboutPage = () => {
   return (
     <>
@@ -11,11 +31,7 @@ const AboutPage = () => {
   intelligence. Stunning eyes, soft luxurious fur and a variety of coat colors and marking’s hallmark the Ragdoll of today, making them extremely popular."
       />
       <section id="about" className="section">
-        <img
-          src="../../assets/history-landing.jpg"
-          alt=""
-          className="history-landing"
-        />
+        <img src={historyLanding} alt="" className="history-landing" />
         <div className="container-text">
           <h2 className="header-2 about">About Ragdolls</h2>
           <p className="">
@@ -73,7 +89,7 @@ const AboutPage = () => {
               picked up.
             </p>
             <div className="ragdoll-history-img">
-              <img src="../../assets/josephine.jpeg" alt="josephine ragdoll" />
+              <img src={josephine} alt="josephine ragdoll" />
             </div>
             <p>
               Subsequent litter produced more of the same. Ann Baker believed
@@ -92,18 +108,14 @@ const AboutPage = () => {
               to Fugianna and Buckwheat.
             </p>
             <div className="ragdoll-history-img">
+              <img src={fugianna} alt="fugianna cat" className="history-img" />
               <img
-                src="../../assets/fugianna.jpeg"
-                alt="fugianna cat"
-                className="history-img"
-              />
-              <img
-                src="../../assets/Daddy warbucks.jpeg"
+                src={daddyWarbucks}
                 alt="daddy warbucks cat"
                 className="history-img"
               />
               <img
-                src="../../assets/buckwheat.jpeg"
+                src={buckwheat}
                 alt="buckwheat cat"
                 className="history-img"
               />
@@ -119,11 +131,7 @@ const AboutPage = () => {
             </p>
             <h4 className="header">Grumpy Cat</h4>
             <div className="ragdoll-history-img">
-              <img
-                src="../../assets/grumpycat.jpeg"
-                alt="grumpy cat"
-                className="heading-img"
-              />
+              <img src={grumpyCat} alt="grumpy cat" className="heading-img" />
             </div>
             <p>
               Most strangely the most well-known Ragdoll, which greatly enhanced
@@ -150,7 +158,7 @@ const AboutPage = () => {
               belly, bib, and a white V over the nose.
             </p>
             <img
-              src="../../assets/r-apperance.jpg"
+              src={appearance}
               alt="cat looking up"
               className="background-image"
             />
@@ -164,13 +172,9 @@ const AboutPage = () => {
               always have Blue eyes.
             </p>
             <div className="ragdoll-history-img">
+              <img src={eyes} alt="eyes of a ragdoll" className="heading-img" />
               <img
-                src="../../assets/r-eyes.jpg"
-                alt="eyes of a ragdoll"
-                className="heading-img"
-              />
-              <img
-                src="../../assets/r-eyes-green.jpeg"
+                src={eyesGreen}
                 alt="green ragdoll eyes"
                 className="heading-img"
               />
@@ -230,7 +234,7 @@ const AboutPage = () => {
             </p>
             <div className="ragdoll-history-img">
               <img
-                src="../../assets/r-leash.jpeg"
+                src={leash}
                 alt="ragdoll on a leash"
                 className="heading-img"
               />
@@ -292,7 +296,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Seal</h4>
                   <img
-                    src="../../assets/sapphire-with-kitten.jpeg"
+                    src={sapphire}
                     alt="Seal point ragdoll"
                     className="ragdoll-img"
                   />
@@ -304,11 +308,7 @@ const AboutPage = () => {
                 </div>
                 <div>
                   <h4 className="color-header">Blue</h4>
-                  <img
-                    src="../../assets/athena-catbed.jpeg"
-                    alt="Blue Point"
-                    className="ragdoll-img"
-                  />
+                  <img src={athena} alt="Blue Point" className="ragdoll-img" />
                   <p>
                     Blue in cat world means grey! Blue is a dilute Seal. Our
                     Queen Athena is a Blue Bicolor and Queen Aiyla is a Blue
@@ -318,7 +318,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Chocolate</h4>
                   <img
-                    src="../../assets/chocolate.jpg"
+                    src={chocolate}
                     alt="Chocolate point ragdoll"
                     className="ragdoll-img"
                   />
@@ -331,7 +331,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Lilac</h4>
                   <img
-                    src="../../assets/Amethyst.jpeg"
+                    src={amethyst}
                     alt="Lilac point ragdoll"
                     className="ragdoll-img"
                   />
@@ -344,7 +344,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Red</h4>
                   <img
-                    src="../../assets/Flame-point-Ragdoll-cat.jpeg"
+                    src={flamePoint}
                     alt="Red point ragdoll"
                     className="ragdoll-img"
                   />
@@ -361,7 +361,7 @@ const AboutPage = () => {
                     Tortie & Calicos
                   </h4>
                   <img
-                    src="../../assets/Seal-Tortie-Ragdoll-cat-from-Kansas-Ragdolls-bred-by-Leanna-at-House-of-Steward-Ragdolls-625x469.jpeg"
+                    src={seal}
                     alt="Tortie Ragdoll"
                     className="ragdoll-img"
                   />
@@ -379,7 +379,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Solid</h4>
                   <img
-                    src="../../assets/solid.jpeg"
+                    src={solid}
                     alt="Solid color ragdoll"
                     className="ragdoll-img"
                   />
@@ -393,11 +393,7 @@ const AboutPage = () => {
                 </div>
                 <div>
                   <h4 className="color-header">Bicolor</h4>
-                  <img
-                    src="../../assets/tzar-box.jpeg"
-                    alt="Tzar in a box"
-                    className="ragdoll-img"
-                  />
+                  <img src={tzar} alt="Tzar in a box" className="ragdoll-img" />
                   <p>
                     Bicolor means 2 colors; white and other. Bicolors are known
                     as the “Traditional” Ragdoll. They have a white V on their
@@ -409,7 +405,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">High White</h4>
                   <img
-                    src="../../assets/dandilion.jpeg"
+                    src={dandelion}
                     alt="van ragdoll"
                     className="ragdoll-img"
                   />
@@ -428,7 +424,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Mitted</h4>
                   <img
-                    src="../../assets/Ailya mom.JPG"
+                    src={ailyaMom}
                     alt="mitted ragdoll"
                     className="ragdoll-img"
                   />
@@ -460,7 +456,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Standard Minks</h4>
                   <img
-                    src="../../assets/Ailya mom.JPG"
+                    src={ailyaMom}
                     alt="ailyas mom"
                     className="ragdoll-img"
                   />
@@ -478,7 +474,7 @@ const AboutPage = () => {
                 <div>
                   <h4 className="color-header">Sepia</h4>
                   <img
-                    src="../../assets/aasia-bed.jpeg"
+                    src={aasia}
                     alt="aasia in her cat bed"
                     className="ragdoll-img"
                   />
