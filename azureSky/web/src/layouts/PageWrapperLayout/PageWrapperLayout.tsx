@@ -7,6 +7,7 @@ import HomeRoundedIcon from '@mui/icons-material/HomeRounded'
 import InfoRoundedIcon from '@mui/icons-material/InfoRounded'
 import ShoppingBasketRoundedIcon from '@mui/icons-material/ShoppingBasketRounded'
 import ShoppingCartRoundedIcon from '@mui/icons-material/ShoppingCartRounded'
+import Footer from '../../components/Footer/Footer'
 import NavBar from '../../components/NavBar/NavBar'
 type PageWrapperLayoutProps = {
   children?: React.ReactNode
@@ -25,6 +26,7 @@ const PageWrapperLayout = ({ children }: PageWrapperLayoutProps) => {
         ]}
       />
       {children}
+      <Footer />
     </>
   )
 }

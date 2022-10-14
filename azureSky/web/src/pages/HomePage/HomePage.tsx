@@ -186,10 +186,10 @@ const HomePage = () => {
           <p>
             As a source of information, we highly recommend accessing
             <a rel="noreferrer" href="http://tica.org">
-              <span className="underline">TICA.org</span>
+              <span className="underline"> TICA.org </span>
             </a>
             website. There you can find a wealth of
-            <strong>credible and reliable</strong>
+            <strong> credible and reliable</strong>
             information; about all breeds of cats, their care, spaying and
             neutering, breeding, genetics, cat shows and registration, as well
             as picking a breeder and a kitten. As a breeder/owner we find their
