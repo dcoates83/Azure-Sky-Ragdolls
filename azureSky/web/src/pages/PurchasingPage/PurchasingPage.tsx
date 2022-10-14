@@ -4,14 +4,23 @@ import aasia from '../../assets/aasia-kitten.jpg'
 import Logo from '../../assets/Azure-logo-sans.svg'
 import catTower from '../../assets/cat-cattower.jpg'
 import deposit from '../../assets/kittens-deposit.jpg'
-// ---
-// layout: default
-// title: Purchasing Ragdolls
-// permalink: /purchasing
-// section: purchasing
-// description: Before buying your Ragdoll kitten, get an idea of whether or not you can afford a cat for ... Purr-chase Prices – How Much Do Ragdolls Cost?
-// ---
+import FaqQuestion from '../../components/FaqQuestion/FaqQuestion'
+
 const PurchasingPage = () => {
+  const faqQuestions = [
+    {
+      question: 'What is Tica',
+      answer: `The International Cat Association the world's largest genetic registry of purebred and domestic cats.  <a target="_blank" rel="noreferrer" href="http://tica.org">
+        <span className="underline">  Link to TICA</span>`,
+    },
+    {
+      question: 'Are Minks ragdolls?',
+      answer: ` Traced back to the original lines via DNA tests, all purebred Mink Ragdolls are recognized by <a target="_blank" rel="noreferrer" href="http://tica.org">
+      <span className="underline">  TICA </span>
+    </a> as purebred Ragdolls.`,
+    },
+  ]
+
   return (
     <>
       <MetaTags
@@ -1150,32 +1159,6 @@ const PurchasingPage = () => {
           <h1 className="faq-header">FAQ</h1>
           <div className="square">
             <article className="question">
-              <p className="faq-q">What is Tica?</p>
-              <p className="faq-desc">
-                <a rel="noreferrer" href="https://tica.org/">
-                  The International Cat Association
-                </a>
-                the world's largest genetic registry of purebred and domestic
-                cats.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
               <p className="faq-q">Are Minks ragdolls?</p>
               <p className="faq-desc">
                 Traced back to the original lines via DNA tests, all purebred
@@ -1608,6 +1591,9 @@ const PurchasingPage = () => {
               </button>
             </article>
           </div>
+          {faqQuestions.map((q) => (
+            <FaqQuestion question={q.question} answer={q.answer} />
+          ))}
         </div>
       </section>
     </>
