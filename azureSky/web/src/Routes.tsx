@@ -7,9 +7,6 @@ import ShopPage from './pages/ShopPage/ShopPage'
 const Routes = () => {
   return (
     <Router>
-      <Route path="/purchasing" page={PurchasingPage} name="purchasing" />
-      <Route path="/new-litters" page={NewLittersPage} name="newLitters" />
-      <Route path="/shop" page={ShopPage} name="shop" />
       <Set wrap={PageWrapperLayout}>
         <Route path="/" page={HomePage} name="Home" />
         <Route path="/About" page={AboutPage} name="About" />
