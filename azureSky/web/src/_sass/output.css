@@ -218,7 +218,7 @@
   position: absolute;
   left: calc(50% - 35px);
   transform: translateX(-50%);
-  top: -57px;
+  top: -70px;
 }
 
 .top {
@@ -303,7 +303,7 @@
 @media (min-width: 780px) {
   .top {
     grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
-    min-height: 435px;
+    min-height: 335px;
     justify-content: space-around;
   }
   .btn-plus {
@@ -1831,7 +1831,7 @@ body {
 }
 @media (min-width: 1024px) {
   .body {
-    font-size: 1.25rem;
+    font-size: 1rem;
     line-height: 2rem;
   }
   .hero-text {

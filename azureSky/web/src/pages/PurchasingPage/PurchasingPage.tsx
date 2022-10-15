@@ -19,6 +19,106 @@ const PurchasingPage = () => {
       <span className="underline">  TICA </span>
     </a> as purebred Ragdolls.`,
     },
+    {
+      question: 'Purebred, or rescue?',
+      answer: `By buying a purebred you get genetic health guarantee. With a
+                rescue you don't have health guarantee.`,
+    },
+    {
+      question: 'What is your Breeding Program?',
+      answer: `We use the Tica Ragdoll  <span className="underline">
+      <a
+        rel="noreferrer"
+        href="https://tica.org/phocadownload/rd.pdf"
+      >
+       Standards</a></span>
+      in our breeding program. To constantly improve our cats.`,
+    },
+    {
+      question: 'Can I breed my Ragdoll?',
+      answer: `Unless sold as a breeder all kittens come spayed/neutered`,
+    },
+    {
+      question: 'Should we get a male or a Female?',
+      answer: `We have truly found no difference between how social or loving
+      they can be. If you prefer a specific sex, we can hold one from
+      the upcoming litters if one currently isn't available.`,
+    },
+    {
+      question: 'When can my kitten go home?',
+      answer: `Kittens can go home after they are fully recuperated from their
+      spay/neutered and from their shots.`,
+    },
+    {
+      question: 'Are Ragdolls good around dogs?',
+      answer: `Ragdoll cats are the perfect breed to introduce into a home with
+      a dog. They have a mild temperament and personality traits
+      similar to a dog’s.`,
+    },
+    {
+      question: 'What color or markings should I get?',
+      answer: `Whoever you
+      fall in love with!`,
+    },
+    {
+      question: 'How long do Cats Live for?',
+      answer: ` Ragdolls are actually <span className="underline">
+      <a
+        rel="noreferrer"
+        href="http://purrfectcatbreeds.com/cat-breeds-list/longest-living-cat-breeds/"
+      >
+        one of the longest living cat breeds</a></span>, they generally live between 15-20 years.`,
+    },
+    {
+      question: 'Are ragdolls hypoallergenic?',
+      answer: `No, this myth comes from their lack of an undercoat. Shedding
+      this undercoat is what causes many allergies. So Ragdolls cause
+      less allergic reactions.`,
+    },
+    {
+      question: 'What are the ongoing costs of a Cat?',
+      answer: `Approx. around $800 -$1000 a year. Check out this
+      <span className="underline">
+        <a
+          rel="noreferrer"
+          href="https://www.calgaryhumane.ca/adopt/pet-budget/"
+        >
+          article
+        </a>
+      </span>.`,
+    },
+    {
+      question: 'Should I go on a call-list?',
+      answer: `Its best to reserve a kitten: Ragdolls are highly coveted so 95%
+      of our kittens are sold by reservation with a deposit before
+      birth.`,
+    },
+    {
+      question: 'Indoor or Outdoor cat?',
+      answer: `Indoor cats live on average 10-15 years, while outdoor cats live
+      on average 2-5 years..`,
+    },
+    {
+      question: 'What is a ragdolls personality like?',
+      answer: `Ragdoll cats are known to be gentle, loving and sociable.`,
+    },
+    {
+      question: 'Do Ragdolls shed a lot?',
+      answer: `The Ragdoll cat is a long haired cat and long haired cats shed.
+      It goes with the territory. Less than a normal long haired cat though.`,
+    },
+    {
+      question: 'Do the kittens come litter trained?',
+      answer: `Yes, they do!`,
+    },
+    {
+      question: 'Are your cats genetically tested?',
+      answer: `<span className="underline"><a rel="noreferrer" href="http://tica.org">
+      Tica
+    </a></span>
+    mandates the breeder strictly follow certain rules. We never
+    want to breaks someones heart and sell you unhealthy cat.`,
+    },
   ]
 
   return (
@@ -1133,7 +1233,7 @@ const PurchasingPage = () => {
           <h2>
             Please contact us at
             <a href="mailto:azureskyRagdolls@gmail.com">
-              <span className="underline">azureskyRagdolls@gmail.com</span>
+              <span className="underline"> azureskyRagdolls@gmail.com </span>
             </a>
             with <strong>any</strong> questions
           </h2>
@@ -1157,440 +1257,6 @@ const PurchasingPage = () => {
         </div>
         <div className="top">
           <h1 className="faq-header">FAQ</h1>
-          <div className="square">
-            <article className="question">
-              <p className="faq-q">Are Minks ragdolls?</p>
-              <p className="faq-desc">
-                Traced back to the original lines via DNA tests, all purebred
-                Mink Ragdolls are recognized by
-                <a rel="noreferrer" href="http://tica.org">
-                  TICA
-                </a>{' '}
-                as purebred Ragdolls.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">
-                Do I want a purebred, or will a rescue cat be more my style?
-              </p>
-              <p className="faq-desc">
-                By buying a purebred you get genetic health guarantee. With a
-                rescue you don't have health guarantee.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-          </div>
-          <div className="square">
-            <article className="question">
-              <p className="faq-q">What is your Breeding Program?</p>
-              <p className="faq-desc">
-                We use the Tica Ragdoll standards
-                <a
-                  rel="noreferrer"
-                  href="https://tica.org/phocadownload/rd.pdf"
-                >
-                  Standards
-                </a>
-                in our breeding program. To constantly improve our cats.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">Can I breed my Ragdoll?</p>
-              <p className="faq-desc">
-                Unless sold as a breeder all kittens come spayed/neutered
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">Should we get a male or a Female?</p>
-              <p className="faq-desc">
-                We have truly found no difference between how social or loving
-                they can be. If you prefer a specific sex, we can hold one from
-                the upcoming litters if one currently isn't available.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-          </div>
-
-          <div className="square">
-            <article className="question">
-              <p className="faq-q">When can my kitten go home?</p>
-              <p className="faq-desc">
-                Kittens can go home after they are fully recuperated from their
-                spay/neutered and from their shots.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">Are Ragdolls good around dogs?</p>
-              <p className="faq-desc">
-                Ragdoll cats are the perfect breed to introduce into a home with
-                a dog. They have a mild temperament and personality traits
-                similar to a dog’s.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">What color or markings should i get?</p>
-              <p className="faq-desc">
-                Check out more on
-                <a href="./about.html#colors">colors</a>, but it's whoever you
-                fall in love with!
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-          </div>
-          <div className="square">
-            <article className="question">
-              <p className="faq-q">How long do Cats Live for?</p>
-              <p className="faq-desc">
-                Ragdolls are actually
-                <a
-                  rel="noreferrer"
-                  href="http://purrfectcatbreeds.com/cat-breeds-list/longest-living-cat-breeds/"
-                >
-                  one of the longest living cat breeds{' '}
-                </a>
-                , they generally live between 15-20 years.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">Are ragdolls hypoallergenic?</p>
-              <p className="faq-desc">
-                No, this myth comes from their lack of an undercoat. Shedding
-                this undercoat is what causes many allergies. So Ragdolls cause
-                less allergic reactions.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">What are the ongoing costs of a Kitten?</p>
-              <p className="faq-desc">
-                Approx. around $800 -$1000 a year. Check out this
-                <a
-                  rel="noreferrer"
-                  href="https://www.calgaryhumane.ca/adopt/pet-budget/"
-                >
-                  article
-                </a>
-                .
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-          </div>
-
-          <div className="square">
-            <article className="question">
-              <p className="faq-q">Should I go on a call-list?</p>
-              <p className="faq-desc">
-                Its best to reserve a kitten: Ragdolls are highly coveted so 95%
-                of our kittens are sold by reservation with a deposit before
-                birth.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">
-                Indoor or Outdoor cat, does it make a difference?
-              </p>
-              <p className="faq-desc">
-                Indoor cats live on average 10-15 years, while outdoor cats live
-                on average 2-5 years.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">What is a ragdolls personality like?</p>
-              <p className="faq-desc">
-                Ragdoll cats are known to be gentle, loving and sociable.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-          </div>
-          <div className="square">
-            <article className="question">
-              <p className="faq-q">Do Ragdolls Shed?</p>
-              <p className="faq-desc">
-                The Ragdoll cat is a long haired cat and long haired cats shed.
-                It goes with the territory.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">Do your kittens come litter trained?</p>
-              <p className="faq-desc">Yes, they do!</p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-            <article className="question">
-              <p className="faq-q">Are your cats genetically tested?</p>
-              <p className="faq-desc">
-                <a rel="noreferrer" href="http://tica.org">
-                  Tica
-                </a>{' '}
-                mandates the breeder strictly follow certain rules. We never
-                want to breaks someones heart and sell you unhealthy cat.
-              </p>
-              <button className="btn-plus" aria-label="Right Align">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="i-plus"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-              </button>
-            </article>
-          </div>
           {faqQuestions.map((q) => (
             <FaqQuestion question={q.question} answer={q.answer} />
           ))}

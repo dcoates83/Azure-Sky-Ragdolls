@@ -1,4 +1,4 @@
-@import "utils";
+@import 'utils';
 
 .questions {
   color: $grey-primary;
@@ -17,7 +17,7 @@
 .faq-header {
   color: #fff;
   margin: 1em;
-  font-family: "Work Sans";
+  font-family: 'Work Sans';
   font-weight: 600;
   font-size: 26px;
   text-align: center;
@@ -29,8 +29,7 @@
   position: absolute;
   left: calc(50% - 35px);
   transform: translateX(-50%);
-
-  top: -57px;
+  top: -70px;
 }
 // Container for FAQ
 .top {
@@ -135,7 +134,7 @@
 @media (min-width: 780px) {
   .top {
     grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
-    min-height: 435px;
+    min-height: 335px;
     justify-content: space-around;
   }
   .btn-plus {
