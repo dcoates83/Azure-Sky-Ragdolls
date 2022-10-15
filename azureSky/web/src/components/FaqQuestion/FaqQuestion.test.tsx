@@ -8,7 +8,7 @@ import FaqQuestion from './FaqQuestion'
 describe('FaqQuestion', () => {
   it('renders successfully', () => {
     expect(() => {
-      render(<FaqQuestion />)
+      render(<FaqQuestion question={''} answer={''} />)
     }).not.toThrow()
   })
 })

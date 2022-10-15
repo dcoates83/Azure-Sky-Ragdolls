@@ -16,7 +16,7 @@ import type { ComponentMeta } from '@storybook/react'
 import FaqQuestion from './FaqQuestion'
 
 export const generated = () => {
-  return <FaqQuestion />
+  return <FaqQuestion question={''} answer={''} />
 }
 
 export default {

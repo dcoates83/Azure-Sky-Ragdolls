@@ -9,8 +9,8 @@ const NewLittersPage = () => {
         <div className="container-text">
           <h1 className="header-2">Upcoming Litters</h1>
           <p>
-            All litters will all be from our foundation male King Tzar. Who is a
-            Seal Bicolor and carries the Lilac gene.
+            All litters will all be from our two males King Tzar & King Tao. Who
+            is a Seal Bicolor and carries the Lilac gene.
           </p>
 
           <p>
@@ -64,7 +64,7 @@ const NewLittersPage = () => {
               className="nav-link icoFacebook"
               title="Facebook"
             >
-              <span className="underline">Facebook!</span>
+              <span className="underline"> Facebook!</span>
             </a>{' '}
           </h2>
           <section id="posted-litters">
