@@ -3,8 +3,10 @@ layout: post
 title: Kittens available for reservation now
 color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
   Traditional
-expected: July August September
-info: ""
+expected: Kittens available for reserve now
+info: "Kittens available from the following litters: Aiyla & Tao-blue mink
+  mitted female. From Aasia & Tao: female blue colorpoint mink , male mitted
+  blue mink, male blue mink mitted"
 thumbnail: /assets/img/uploads/img_e1411.jpg
 reserved: KITTENS AVAILABLE FOR RESERVATION
 ---
