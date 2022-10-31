@@ -3,6 +3,9 @@ layout: post
 title: Taking reservations for 2023 kittens
 color: Seal, Blue, Lilac, Chocolate; mink and traditional
 expected: Throughout the year
+info: Spring litters from Athena and  Amethys are anticipated. These will be
+  crossed with Tzar and a  mix of blue, seal, lilac and chocolate bicolor and
+  mitted traditional Ragdolls
 thumbnail: /assets/img/uploads/img_0326.jpg
 reserved: Taking reservations for 2023 litters
 ---
