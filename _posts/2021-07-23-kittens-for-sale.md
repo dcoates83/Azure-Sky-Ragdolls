@@ -7,28 +7,40 @@ expected: Kittens available for reserve now
 info: "Kittens available from the following litters: Aiyla & Tao-blue mink
   mitted female. From Aasia & Tao: female blue colorpoint mink , male mitted
   blue mink, male blue mink mitted"
-thumbnail: /assets/img/uploads/img_e1411.jpg
+thumbnail: /assets/img/uploads/img_4220.jpg
 reserved: KITTENS AVAILABLE FOR RESERVATION
 ---
-**K﻿ITTENS AVAILABLE:**
+**K﻿ITTENS AVAILABLE**
 
-***Aiyla & Tao's blue mink mitted August litter** 2 left*
+A﻿ll have Forever Homes except:
 
-**Odin:** blue mink mitted male with tippy toe mitts
+**\*Aiyla & Tao's blue mink mitted August litter (Go Home Dec 7)**
 
-**O﻿phelia-** blue mink mitted female with raccoon face markings (nose is dark but whisker area/chin bib are white. Larger mitts and boots. this is a very active kitten and would be a great Adventure Cat (Leash training for hiking etc.) 
+**\-** blue mink mitted female with raccoon face markings (nose is dark but whisker area/chin bib are white. Larger mitts and boots. this is a very active kitten and would be a great Adventure Cat (Leash training for hiking etc.) 
 
-***A﻿methys & Tzar July Litter** 1 left*
+\-﻿blue mink mitted female with one evening glove and one above wrist mitt 
 
-**Naoki;** a very friendly chocolate traditional bicolor male. Going to be a big cat we think. 
+**\*Aasia & Tao September litter:** 
 
-***Aasia & Tao September litter:** 2 left*
+\*﻿1 reservation to choose their kitten of these 3 yet
 
-2﻿ reserved. 
+\- blue mink colorpoint mink female
 
-***S﻿apphire & Tzar October litter:** PENDING*
+\- blue mink mitted male 
 
-*2﻿ reserved*
+\- blue mink bicolor male
+
+ **A﻿thena & Tao September litter:** 
+
+\-﻿blue bicolor male
+
+**\*S﻿apphire & Tzar October litter:** (traditional)
+
+\-seal bicolor male
+
+\-seal bicolor male
+
+\*﻿female seal bicolor is reserved
 
 **Kittens are offered to Forever Homes in the order of the date we received reservation deposits.** 
 
