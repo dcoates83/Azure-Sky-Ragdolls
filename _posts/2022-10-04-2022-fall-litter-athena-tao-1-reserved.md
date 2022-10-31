@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2022 Fall Litter Athena & Tao (1 reserved)
+title: 2022 Fall Litter Athena & Tao (1 available)
 color: Blue bicolor and mitted
 expected: September late
 thumbnail: /assets/img/uploads/img_e2768.jpg
-reserved: 1 reserved pre conception
+reserved: 1 available
 ---
 Both Athena and Tao are stunning blue bicolor cats. Tao comes from championship lines and we think just  his personality alone Tao deserves an award. He is such a social guy. He is young yet and has not developed his full coat. He has already surpassed our other Kings in size  however. Tao is going to be a BIG cat. 
 
