@@ -7,12 +7,10 @@ expected: Kittens available for reserve now
 info: "Kittens available from the following litters: Aiyla & Tao-blue mink
   mitted female. From Aasia & Tao: female blue colorpoint mink , male mitted
   blue mink, male blue mink mitted"
-thumbnail: /assets/img/uploads/img_4220.jpg
-reserved: KITTENS AVAILABLE FOR RESERVATION
+thumbnail: /assets/img/uploads/img_0326.jpg
+reserved: Reservations on spring litters available
 ---
 **K﻿ITTENS AVAILABLE**
-
-A﻿ll have Forever Homes except:
 
 **\*Aiyla & Tao's blue mink mitted August litter (Go Home Dec 7)**
 
@@ -46,7 +44,7 @@ A﻿ll have Forever Homes except:
 
 All kittens are by reservation.
 
- A 1-2 litter wait is normal in the **spring** for all reputable catteries. As such we are taking reservations for the 2023 spring litters as well. 
+ A 1-2 litter wait is normal in the **spring** for all reputable catteries. As such we are taking reservations for the 2023 spring litters as well but recommend reserving your spring kittens ahead as often they are all reserved before they are born.
 
 Please fill out our Adoption Application on our website azureskyragdolls.com.  Contact us at azureskyragdolls@gmail.com re price. 
 
