@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kittens available for reservation now
+title: "Kittens available for reservation now: see list"
 color: Seal, Blue, Lilac, Chocolate Bicolor, Mitted and Colorpoint, Mink and
   Traditional
 expected: Kittens available for reserve now
