@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Queen Sapphire (Retired)
-color: Seal Bicolor
-expected: "20230121"
+title: Taking applications for retiring Kings and Queens
+color: Any
+expected: Ongoing
 thumbnail: /assets/img/uploads/img_e7764.jpg
 reserved: Taking applications for retiring Kings and Queens
 ---
