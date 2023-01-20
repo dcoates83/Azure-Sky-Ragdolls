@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Chocolate Male Naoki
-color: Chocolate
-expected: "20220727"
-thumbnail: /assets/img/uploads/naoki.jpeg
-reserved: Available
+title: Taking Reservations for Spring 2023 Amethys and Tao Litter
+color: Chocolate, Blue and Lilac bicolor and mitted kittens
+expected: "20230307"
+thumbnail: /assets/img/uploads/img_2769.jpg
+reserved: Taking reservations on this litter.
 ---
-Naoki, an extremely friendly chocolate bicolor male kitten is looking for his forever home. Equally good as a lap cat or an an adventure cat, this kittens personality and confidence mean he would be a great cat for kids and dogs OR just a one person cuddler. 
 
-N﻿aoki is out of: 
 
 Queen Amethys is our Lilac Bicolor sweetness and light. She is a loving, snuggly kind of cat and takes very good care of her kittens; never wanting to wean them. 
 
+See our Facebook page for pictures of  Amethys previous kittens . Look for kittens named Naoki, Artie, Beni, Indy, Nathan, Azlan, Sir Soba, Fritz, Carlos, Bodhi and Marcos. As is typical of Amethys kittens; all were very friendly, fluffy and beautiful. 
 
+Tao is our treasured blue bicolor King imported from Heavenlyrags in Idaho. He comes from lines of Tica champions and you can tell this from both his amazing personality and his stunning appearance. 
 
-King Tzar is our Seal Bicolor Foundation King. Tzar is a quiet cat; preferring to hang around wherever you are, and likes sleeping with our German Shepherd Nanny Sophia. Tzar is a very good father; always stepping up to babysit so Momma gets a break. 
+Pictures of Tao's recent kittens are on our Azure Sky Ragdolls Facebook page; Sodium, Qi and Birdie look like the kittens that will be produced out of this cross. 
 
-See our Facebook page for pictures of the last litter this same cross in summer 2021. Look for kittens named Sir Soba, Fritz, Carlos, Bodhi and Marcos. They all turned out very fluffy and friendly.
+P﻿lease fill out our adoption application to reserve a kitten from this litter.
