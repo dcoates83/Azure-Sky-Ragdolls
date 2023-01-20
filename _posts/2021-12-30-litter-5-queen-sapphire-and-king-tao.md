@@ -1,18 +1,28 @@
 ---
 layout: post
-title: 2022 Fall litter Queen Sapphire and King Tzar (2 available)
-color: "Seal Bicolor and Mitted Kittens. "
-expected: "Late October 2022 "
-info: "These kittens are still mostly white so we cannot tell if they are
-  bicolor or mitted, but most likely they are all seal bicolor and look like mom
-  and dad. "
-thumbnail: /assets/img/uploads/img_0335-1-.jpg
-reserved: 2 available
+title: Azuresky Sage Ruler; Seal Bicolor Male
+color: "Seal Bicolor "
+expected: "20221023"
+info: ""
+thumbnail: /assets/img/uploads/sage-ruler.png
+reserved: "Available as breeding king or as an altered pet. "
 ---
- Queen Sapphire and King Tzar are seal bicolor so according to the genetic Punnett Square (a device used to predict kitten colors and markings) 25%- 50% of these kittens could mitted and 50-75% will be Bicolor. All will be seal. 
+ All kittens from this litter are reserved already (one as a pet and the other as a breeding king) *except the one seal bicolor male  **Sage Ruler.*** 
 
-These kittens will have the easy care traditional Ragdoll coat where the undercoat is less heavy than other long hair breeds. 
+He has the easy care traditional Ragdoll coat where the undercoat is less heavy than other long hair breeds.  
 
-Sapphire is quite bonded to Tzar. They have lovely affectionate kittens every time.
+Sage Ruler is an affectionate and outgoing kitten; very much like his blue bicolor dad.
 
-I﻿t appears to be 1 female (reserved) and two males.
+ Because of his lovely genetics and amazing parents, Sage Ruler is available either as a pet or a king. 
+
+He goes home with: 
+
+\-﻿three sets of vaccines including FVRCP (x3)  and Leukemia (x2)
+
+\-﻿wormed a total of 4x; at age 6/8/12 and 16 weeks old. Initially all are wormed with Strongyd but the rest of the wormings are done with Nexguard Combo which is a newer wormer that also provides parasite/mite/tick and flea prevention. 
+
+\-﻿his parents are DNA tested free of genetic defects using Wisdom Health as well as snap index tested as free of Felv and Fiv
+
+\-﻿is microchipped
+
+And be socialized to normal household sounds and sights as well as to dogs.
