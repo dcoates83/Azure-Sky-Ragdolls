@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 2022 Late Summer Litter Queen Aiyla & King Tao (2 left for reservation)
-color: Blue mink mitted and bicolor
-expected: August 2022
-info: Message us for pictures of the kittens or follow our Azure Sky Ragdolls
-  Facebook page
+title: Autumn Mist Blue Mink Mitted Female Available
+color: Blue mink
+expected: "20220814"
+info: "Email us at azureskyragdolls@gmail.com to set up a live Messenger meeting
+  to meet Autumn and see if she is a good fit for your home. "
 thumbnail: /assets/img/uploads/img_0194-1-.jpg
-reserved: 2 left for reserve; GO HOME Dec 7
+reserved: 1 female mink mitted left for reserve
 ---
 **A﻿iyla** always has great kid cats or for people with dogs. They have the confidence for these busy lives. **Tao** is our largest king so we expect them to become large Ragdolls. He is also a completely snuggly type of fellow. 
 
-**O﻿din**- blue mink mitted male with tippy toe mitts (AVAILABLE)
+**T﻿ao** is our blue bicolor king from championship lines that produces big beautiful kittens with amazing coats and personalities. 
 
-**O﻿phelia**- blue mink mitted female with raccoon face (nose is dark but whisker area is white). Medium mitts. 
 
-Please consult us as to their personalities or view with a live Facebook messenger call :)
+
+**A﻿utumn Mist**- blue mink high mitted  female with raccoon face (nose is dark but whisker area is white).  Contact us on our Facebook page to set up a  live Facebook Messenger meeting to meet Autumn.
