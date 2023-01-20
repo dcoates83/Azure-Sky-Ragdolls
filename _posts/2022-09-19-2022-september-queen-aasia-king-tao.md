@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 2022 Early Fall litter Queen Aasia & King Tao  (2 available)
+title: 2022 Early Fall litter Queen Aasia & King Tao  (all reserved)
 color: Seal & blue minks; mitted colorpoint and bicolor
-expected: Mid September
-info: 2 reserved, 2 available
-thumbnail: /assets/img/uploads/img_1529.jpg
-reserved: 2 reserved
+expected: "20220905"
+info: ""
+thumbnail: /assets/img/uploads/img_0326.jpg
+reserved: All gone to their Forever Homes
 ---
 A﻿asia is our exceptionally fluffy mink queen. Her kittens will require daily brushing as minks have a double gene for long hair and a thicker undercoat than traditional Ragdolls. Minks also have aqua green eyes; not blue. With her intense seal coloring Aasia's eyes are lovely indeed as they contrast beautifully with her seal coat. 
 
