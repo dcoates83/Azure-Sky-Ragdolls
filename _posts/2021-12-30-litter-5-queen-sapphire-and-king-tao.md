@@ -9,6 +9,8 @@ reserved: "Available as breeding king or as an altered pet. "
 ---
  All kittens from this litter are reserved already (one as a pet and the other as a breeding king) *except the one seal bicolor male  **Sage Ruler.*** 
 
+***H﻿e may go home late February 2023.***
+
 He has the easy care traditional Ragdoll coat where the undercoat is less heavy than other long hair breeds.  
 
 Sage Ruler is an affectionate and outgoing kitten; very much like his blue bicolor dad.
