@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Azuresky Sage Ruler; Seal Bicolor Male Available-go home February 25
+title: Azuresky Desert Ra; Seal Bicolor Male Available-go home February 25
 color: "Seal Bicolor "
 expected: "20221023"
 info: ""
@@ -9,7 +9,7 @@ reserved: "Available as breeding king or as an altered pet. "
 ---
  All kittens from this litter are reserved already (one as a pet and the other as a breeding king) *except the one seal bicolor male  **Sage Ruler.*** 
 
-***H﻿e may go home late February 2023.***
+***H﻿e may go home late February 25***
 
 He has the easy care traditional Ragdoll coat where the undercoat is less heavy than other long hair breeds.  
 
