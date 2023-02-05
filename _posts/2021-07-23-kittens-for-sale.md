@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chocolate High Mitted Male Naoki Available
+title: Chocolate High Mitted Male Naoki Available (sold)
 color: "Chocolate High Mitted "
 expected: "20220727"
 info: Born 20220727 out of Amethys (lilac bicolor) and Tzar (seal bicolor)
