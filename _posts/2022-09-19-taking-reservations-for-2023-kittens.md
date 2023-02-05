@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Taking reservations for Summer 2023 Litter from Queen Anna and King Tzar
+title: Taking reservations for Fall 2023 Litter from Queen Anna and King Tzar
 color: Seal, Blue, Lilac, Chocolate bicolor and mitted kittens
-expected: Summer 2023
+expected: Oct Nov 2023
 info: ""
 thumbnail: /assets/img/uploads/img_0326.jpg
 reserved: Taking reservations for all 2023 litters
