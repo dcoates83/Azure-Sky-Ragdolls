@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking Reservations for Spring 2023 Amethys and Tao Litter
+title: Taking Reservations for March 2023 Amethys and Tao Litter
 color: Chocolate, Blue and Lilac bicolor and mitted kittens
 expected: "20230307"
 thumbnail: /assets/img/uploads/img_2769.jpg
