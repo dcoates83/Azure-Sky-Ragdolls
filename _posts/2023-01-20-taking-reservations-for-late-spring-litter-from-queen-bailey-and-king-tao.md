@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Taking reservations for Late Spring litter from Queen Bailey and King Tao
+title: Taking reservations for Fall litter from Queen Bailey and King Tao
 color: Blue Bicolor and mitted
-expected: Late Spring/early summer 2023
+expected: Oct Nov
 thumbnail: /assets/img/uploads/img_3941.jpg
 reserved: Available for reserve
 ---
