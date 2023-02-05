@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Azuresky Sage Ruler; Seal Bicolor Male Available late February
+title: Azuresky Sage Ruler; Seal Bicolor Male Available-go home February 25
 color: "Seal Bicolor "
 expected: "20221023"
 info: ""
