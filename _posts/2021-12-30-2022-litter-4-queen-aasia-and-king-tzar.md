@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking reservations for 2023 Spring Litter Queen Aasia and King Tzar
+title: Taking reservations for 2023 March Litter Queen Aasia and King Tzar
 color: Seal Mink; Bicolor, Mitted and Colorpoint.
 expected: March 2023
 thumbnail: /assets/img/uploads/img_0354.jpg
