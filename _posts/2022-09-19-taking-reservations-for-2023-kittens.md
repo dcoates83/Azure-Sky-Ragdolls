@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Taking reservations for Fall 2023 Litter from Queen Anna and King Tzar
+title: Fall 2023 Litter from Queen Anna and King Tzar
 color: Seal, Blue, Lilac, Chocolate bicolor and mitted kittens
 expected: Oct Nov 2023
 info: ""
 thumbnail: /assets/img/uploads/img_0326.jpg
-reserved: Taking reservations for all 2023 litters
+reserved: Taking reservations
 ---
-If you are interested in a kitten from a particular king or queen, or if you have preferences as to the color, markings or coat of your kitten, please contact us at azureskyragdolls@gmail.com with your preferences and we can point you to the litters most likely to produce the color or markings you prefer. 
+*Kittens tend to be reserved prior to birth or even conception so we recommend reserving your kitten now if you are planning on a 2023 Forever Baby.*
 
-Since all our kittens are socialized plus plus and because all go home altered (neutered or spayed) we encourage Forever Homes to select their kittens based on personality; not sex.
+**Q﻿ueen Anna is our sweetness and light lilac bicolor queen. She will be crossed with King Tzar; our seal bicolor foundation king.**
 
-**Summer kittens tend to be reserved prior to birth or even conception so we recommend reserving your kitten now if you are planning on a 2023 Forever Baby.**
+**T﻿hese kittens, because they can get a dilute color gene from either parent, will be a mix of colors; seal, chocolate, blue and or lilac are all possible in this litter. All will be either bicolor or mitted white pattern.**
