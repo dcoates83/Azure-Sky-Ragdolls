@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Taking reservations for Fall litter from Queen Bailey and King Tao
-color: Blue Bicolor and mitted
+title: Fall 2023 Queen Bailey & King Tao Litter
+color: Blue
 expected: Oct Nov
 thumbnail: /assets/img/uploads/img_3941.jpg
-reserved: Available for reserve
+reserved: Taking reservations
 ---
-W﻿e will be breeding King Tao, our big beautiful blue bicolor king, to our new blue bicolor queen Queen Bailey in late spring 2023. 
+W﻿e will be breeding King Tao, our big beautiful blue bicolor king, to our new blue bicolor queen Queen Bailey in summer for a fall litter. 
 
 B﻿ailey is affectionate and loving queen and when crossed with Tao will produce very lovely blue bicolor and mitted kittens with both her and Tao's extremely outgoing personalities. 
 
