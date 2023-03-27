@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Taking reservations for 2023 March Litter Queen Aasia and King Tzar
-color: Seal Mink; Bicolor, Mitted and Colorpoint.
-expected: March 2023
+title: Taking reservations for 2023 March 18 Litter Queen Aasia and King Tzar
+color: "Seal Mink; Bicolor, Mitted "
+expected: 4 beautiful babes born March 18 2023
 thumbnail: /assets/img/uploads/img_0354.jpg
-reserved: Available for reservation
+reserved: Available
 ---
-Aasia is our very sweetest cat and gives cat "hugs". She reaches up with both paws, stretching her front legs out until you pick her up. So cute! 
+Aasia is our Seal Mink Mitted Queen; known for her love of giving "cat hugs". All her kittens have her exquisite coat color and their white markings contrast beautifully with their coat color and Caribbean Sea Green mink eyes. 
 
-She wants to spend every minute where you are and is very chatty. If you don't want a kitten that talks to you a lot don't get an Aasia kitten. She is thoroughly heart broken if she is not allowed to be with you. 
+K﻿ing Tzar, our foundation male soon to be retired, has made many lovely kittens with Aasia. All have turned out to have their parents loving personalities. Tzar is a traditional seal bicolor Ragdoll. 
 
-Mink Queen Aasia is also our fluffiest cat. All her kittens will have a double gene for long hair so will require brushing every day. They will also have light aqua green (not blue) eyes that contrast beautifully with her dark Seal coat. There will be Mitted, Bicolor and Colorpoint kittens who are very social and playful. 
+\-S﻿eal mink bicolor
 
-King Tzar is sweet but less chatty than Queen Aasia; preferring only an occasional meow letting you know he would like to be brushed or picked up. He is an exceptional babysitter of all his kittens and enjoys the playtime with his kittens.
+\-S﻿eal mink mitted
+
+\-S﻿eal mink mitted
+
+\-S﻿eal mink mitted *1 kitten is under evaluation as future queen.
