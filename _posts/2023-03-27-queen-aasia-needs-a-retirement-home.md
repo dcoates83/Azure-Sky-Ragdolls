@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queen Aasia needs a retirement home
+title: Queen Aasia needs a retirement home in June 2023
 color: Seal Mink Mitted
 expected: June 2023
 thumbnail: /assets/img/uploads/img_0390-1-.jpg
