@@ -1,6 +1,6 @@
 ---
 layout: post
-title: March 2 2023 Queen Athena & King Tao Litter
+title: AVAILABLE March 2 2023 Queen Athena & King Tao Litter
 color: Blue
 expected: "20230302"
 thumbnail: /assets/img/uploads/img_2769.jpg
