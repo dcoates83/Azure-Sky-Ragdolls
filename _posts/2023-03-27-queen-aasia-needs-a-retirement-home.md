@@ -17,3 +17,5 @@ Homes for retiring queens are charged zero purchase price BUT must alter, update
 P﻿roof of alter, vaccine update (if needed) and teeth cleaning is required as specified in the Sales Agreement. 
 
 D﻿ADs are also welcome!!!!!
+
+A﻿ll retired breeders have had the additional FIV Felv and DNA testing already done. They also have a lifetime microchip account which will be transferred to the new owner.
