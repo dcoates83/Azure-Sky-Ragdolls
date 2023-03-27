@@ -4,7 +4,7 @@ title: March 2 2023 Queen Athena & King Tao Litter
 color: Blue
 expected: "20230302"
 thumbnail: /assets/img/uploads/img_2769.jpg
-reserved: 1 reserved
+reserved: 1 reserved 3 AVAILABLE
 ---
 Q﻿ueen Athena and King Tao are both blue bicolor and both are extremely loving cats. These kittens already are showing how friendly they are; "storming" the door of the nursery whenever I go in, despite just barely walking lol.
 
