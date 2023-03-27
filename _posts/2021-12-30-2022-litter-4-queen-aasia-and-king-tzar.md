@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Taking reservations for 2023 March 18 Litter Queen Aasia and King Tzar
+title: Taking reservations for March 18 2023 Litter Queen Aasia and King Tzar
 color: Seal Mink; Bicolor & Mitted Kittens
-expected: 4 beautiful babes born March 18 2023
+expected: "20230318"
 thumbnail: /assets/img/uploads/img_0354.jpg
 reserved: Available
 ---
