@@ -11,7 +11,7 @@ reserved: COME DOWN AND SEE THE KITTENS AND BLOOMS CAT SHOW 2000 SOUTHLAND DRIVE
 ---
 W﻿e are a proud ALL RING sponsor of the Calgary Cat Association TICA Kittens and Blooms Cat Show April 22 and April 23, 2023. 
 
-C﻿ome down to the Southland Leisure Centre, 2000 Southland Drive SW, Calgary, Alberta 
+C﻿ome down to the Southland Leisure Centre, 2000 Southland Drive SW, Calgary, Alberta!!
 
 T﻿ickets may be purchased at the door or online at: https://www.showpass.com/calgary-cat-show-2023 
 
