@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking Reservations for March 8 2023 Amethys and Tao Litter
+title: AVAILABLE KITTENS March 8 2023 Amethys and Tao Litter
 color: "Seal, Chocolate, Blue and Lilac "
 expected: "20230308"
 thumbnail: /assets/img/uploads/asr-kings-and-queens-20210201-amethys-takes-over-the-ironing-board.png
