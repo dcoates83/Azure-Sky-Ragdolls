@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AVAILABLE March 18 2023 Litter Queen Aasia and King Tzar
+title: MINK KITTENS AVAILABLE March 18 2023 Litter Queen Aasia and King Tzar
 color: Seal Mink; Bicolor & Mitted Kittens
 expected: "20230318"
 thumbnail: /assets/img/uploads/img_0354.jpg
